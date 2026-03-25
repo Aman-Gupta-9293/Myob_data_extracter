@@ -1,0 +1,125 @@
+Type,Invoice Date,Invoice No,Due Date,Customer,Source Code,Global Tax calculation,Product/Service,Quantity,Product/Service Quantity,Product/Service Unit Price,Product/Service Tax Rate,Product/Service Tax Amount,Product/Service Class,Currency Code,Exchange Rate,Amount,Total Invoice Amount,Status
+Invoice,2023-11-11T00:00:00,00000001,,The Inarra PTY LTD,,TaxInclusive,"The Inarra Motherhood features - 2023.09.15 - Ashley Hart & Laura
+",0,0,,N-T,0,001,,,2200.0,2200.0,Closed
+Invoice,2023-11-29T00:00:00,00000002,,Cara Mia Vintage,,TaxInclusive,Half day shoot - 2023.11.22,0,0,,N-T,0,002,,,850.0,850.0,Closed
+Invoice,2024-03-24T00:00:00,00000003,,Bamboo Body Australia PTY. LTD,,TaxInclusive,"Bamboo Body Campaign Shoot - $1250
+
+This would include
+. Half Day Photo Shoot
+. Travel to the location
+. 20 Photos to be retouched (includes pr
+simple as per discussed)
+. 50 x High Additional High Res Photographs (includes preset) 
+. Delivery within two weeks.",0,0,,N-T,0,,,,1250.0,1350.0,Closed
+Invoice,2024-03-24T00:00:00,00000003,,Bamboo Body Australia PTY. LTD,,TaxInclusive,Additional Photos,0,0,,N-T,0,,,,100.0,1350.0,Closed
+Invoice,2024-05-21T00:00:00,00000004,,Lauren Bell,,TaxInclusive,Lauren & Hudson Shoot,0,0,,N-T,0,001,,,500.0,500.0,Closed
+Invoice,2024-05-21T00:00:00,00000005,,Ingrid Photography,,TaxInclusive,Professional Photoshoot,0,0,,N-T,0,001,,,995.0,1445.0,Closed
+Invoice,2024-05-21T00:00:00,00000005,,Ingrid Photography,,TaxInclusive,Promotional Discount,0,0,,N-T,0,001,,,-150.0,1445.0,Closed
+Invoice,2024-05-21T00:00:00,00000005,,Ingrid Photography,,TaxInclusive,20 Extra Image collection,0,0,,N-T,0,001,,,550.0,1445.0,Closed
+Invoice,2024-05-21T00:00:00,00000005,,Ingrid Photography,,TaxInclusive,Transport Charges,0,0,,N-T,0,,,,50.0,1445.0,Closed
+Invoice,2024-06-17T00:00:00,00000006,,Bamboo Body Australia PTY. LTD,,TaxInclusive,"Bamboo Body Campaign Shoot - $2200
+
+Full Day Shoot
+Studio Lighting + Photography Equipment
+100 Additional High-Res Photographs
+Raw Video Content
+Travel Time
+Two-Week Turnaround",0,0,,N-T,0,002,,,2200.0,2200.0,Closed
+Invoice,2024-06-25T00:00:00,00000007,,Vixin,,TaxInclusive,"Vixin Campaign  
+
+Studio Lighting and Top-of-the-Line Camera Gear
+Full Day Photo Shoot: Dedicated time to capture the essence of your brand, Campaign + Social Media + + +
+Travel to Your Location 
+10 x Retouched Photographs (for website banners, promotional material)
+The best photographs of the day colour processed in High Res JPEGs 
+Complimentary Raw Video Footage (if desired and time permits) where you can outsource the video editing
+Usage Rights for Online Platforms",0,0,,N-T,0,002,,,2500.0,2500.0,Closed
+Invoice,2024-06-25T00:00:00,00000008,,Klara Klueckmann,,TaxInclusive,Professional Photoshoot,0,0,,N-T,0,,,,995.0,845.0,Closed
+Invoice,2024-06-25T00:00:00,00000008,,Klara Klueckmann,,TaxInclusive,Promotional Discount,0,0,,N-T,0,,,,-150.0,845.0,Closed
+Invoice,2024-07-04T00:00:00,00000009,,EmmyLou MacCarthy,,TaxInclusive,"Full day digital technician (assisting all day): $600
+Studio light hire (estimate): $400
+My full day rate: $2,600
+Usage cost: $1,000
+10 final retouched photographs: $500
+100 x colour graded images: Included
+Uber $61.12",0,0,,N-T,0,001,,,5161.12,5161.12,Closed
+Invoice,2024-08-01T00:00:00,00000010,,EmmyLou MacCarthy,,TaxInclusive,Retouching of Extra 5 Photos,0,0,,N-T,0,001,,,250.0,250.0,Closed
+Invoice,2024-08-06T00:00:00,00000011,,Extra Extra,,TaxInclusive,Campaign + Ecommerce + Social Media + EDM,0,0,,N-T,0,002,,,2500.0,2500.0,Closed
+Invoice,2024-09-11T00:00:00,00000012,,Forward Agency,,TaxInclusive,"Pip Edwards x Dove 
+
+Production
+Photographer
+Digital Technician
+Videographer 
+Lighting Hire
+Studio Hire
+Usage",0,0,,N-T,0,002,,,14100.0,14100.0,Closed
+Invoice,2024-09-26T00:00:00,00000013,,Prasanthi Purusotham,,TaxInclusive,"Signature Package
+
+20 x High Resolution Photographs
+Studio or Location
+2 Hours Photo Shoot
+High End Retouching - 4 + hours
+Colour + Black & White Copies
+24 exposure roll of film (digitial format)",0,0,,N-T,0,001,,,2500.0,2401.0,Closed
+Invoice,2024-09-26T00:00:00,00000013,,Prasanthi Purusotham,,TaxInclusive,Deposit Paid,0,0,,N-T,0,001,,,-99.0,2401.0,Closed
+Invoice,2024-10-15T00:00:00,00000014,,Rhodin,,TaxInclusive,Half Day Shoot (discounted rate),0,0,,N-T,0,002,,,1500.0,1500.0,Closed
+Invoice,2024-10-25T00:00:00,00000015,,JUAN & CO  ,,TaxInclusive,Full Day Photography & Videography Campaign,0,0,,GST,0,002,,,3500.0,4730.0,Closed
+Invoice,2024-10-25T00:00:00,00000015,,JUAN & CO  ,,TaxInclusive,Additional Photographs,0,0,,GST,0,002,,,800.0,4730.0,Closed
+Invoice,2024-11-14T00:00:00,00000016,,The Inarra PTY LTD,,TaxInclusive,DAVID JONES CAMPAIGN - VIDEO - STILLS,0,0,,GST,0,002,,,3500.0,3850.0,Closed
+Invoice,2024-11-25T00:00:00,00000017,,Villu,,TaxInclusive,Villu Campaign Half Day,0,0,,GST,0,002,,,2000.0,2200.0,Closed
+Invoice,2024-11-26T00:00:00,00000018,,Eliza  Bernardi,,TaxInclusive,The Editorial Family Package,0,0,,N-T,0,001,,,2500.0,2500.0,Closed
+Invoice,2024-12-09T00:00:00,00000019,, Melissa  Greenwood,,TaxInclusive,Borne Comfort & Connection( Photography),0,0,,FRE,0,001,,,1600.0,2370.0,Closed
+Invoice,2024-12-09T00:00:00,00000019,, Melissa  Greenwood,,TaxInclusive,Styling By Inarra inclusive Gst,0,0,,FRE,0,001,,,770.0,2370.0,Closed
+Invoice,2024-12-19T00:00:00,00000020,,Mak Anasto,,TaxInclusive,Luxe editorial mini experience,0,0,,N-T,0,,,,800.0,1300.0,Closed
+Invoice,2024-12-19T00:00:00,00000020,,Mak Anasto,,TaxInclusive,Additional 30 photographs photographs,0,0,,N-T,0,,,,500.0,1300.0,Closed
+Invoice,2024-12-19T00:00:00,00000021,, BubbaDesk,,TaxInclusive,Luxe editorial mini experience,0,0,,N-T,0,,,,800.0,905.0,Closed
+Invoice,2024-12-19T00:00:00,00000021,, BubbaDesk,,TaxInclusive,Additional x3 photographs,0,0,,N-T,0,,,,105.0,905.0,Closed
+Invoice,2024-12-23T00:00:00,00000022,, Kim   L Nguyen,,TaxInclusive,Lux Mini Editorial,0,0,,N-T,0,001,,,800.0,1800.0,Closed
+Invoice,2024-12-23T00:00:00,00000022,, Kim   L Nguyen,,TaxInclusive, Additional 100-image bundle,0,0,,N-T,0,001,,,1000.0,1800.0,Closed
+Invoice,2025-02-04T00:00:00,00000023,,Jenna Weber,,TaxInclusive,Solo Pregnancy Dream,0,0,,GST,0,001,,,1600.0,1760.0,Closed
+Invoice,2025-02-04T00:00:00,00000024,,Vivianne  Palma,,TaxInclusive,The Solo Dream Pregnancy,0,0,,GST,0,,,,1600.0,1760.0,Closed
+Invoice,2025-02-04T00:00:00,00000025,,Carrina  Roussakis,,TaxInclusive,The Luxe Editorial Mini Experience,0,0,,N-T,0,001,,,800.0,1800.0,Closed
+Invoice,2025-02-04T00:00:00,00000025,,Carrina  Roussakis,,TaxInclusive,100 Image Bundle,0,0,,N-T,0,,,,1000.0,1800.0,Closed
+Invoice,2025-02-17T00:00:00,00000026,,Jessie Davis,,TaxInclusive,Solo Pregnancy Dream,0,0,,GST,0,001,,,1650.0,1815.0,Closed
+Invoice,2025-02-17T00:00:00,00000027,,Chris Mac,,TaxInclusive,The Heirloom Editorial Collection,0,0,,GST,0,001,,,2350.0,2585.0,Closed
+Invoice,2025-02-17T00:00:00,00000028,,Xuan Hung,,TaxInclusive,Uzuri Editorial Collection,0,0,,FRE,0,,,,995.0,845.0,Closed
+Invoice,2025-02-17T00:00:00,00000028,,Xuan Hung,,TaxInclusive,Promotion Discount,0,0,,N-T,0,,,,-150.0,845.0,Closed
+Invoice,2025-02-17T00:00:00,00000029,,Bamboo Body Australia PTY. LTD,,TaxInclusive,Bamboo Body Full Day shoot,0,0,,N-T,0,002,,,2200.0,2200.0,Closed
+Invoice,2025-03-23T00:00:00,00000030,,Rachel Tidswel,,TaxInclusive,"The Heirloom Editorial Collection, an anthology",0,0,,GST,0,001,,,2350.0,2350.0,Closed
+Invoice,2025-03-23T00:00:00,00000031,,Jasmine and Will,,TaxInclusive,Easter & Mother's Day Campaign,0,0,,GST,0,002,,,2200.0,2420.0,Closed
+Invoice,2025-03-23T00:00:00,00000032,,Natasha   Angelis,,TaxInclusive,Model Portfolio,0,0,,GST,0,001,,,1400.0,1400.0,Closed
+Invoice,2025-03-23T00:00:00,00000033,,rachel scouten,,TaxInclusive,Exclusive Pregnancy Shoot,0,0,,GST,0,,,,800.0,800.0,Closed
+Invoice,2025-03-26T00:00:00,00000034,,Michaelhill,,TaxInclusive,"Creative Fee (Half-Day Shoot)
+
+Professional photography services, including pre-shoot preparation and creative execution-$6,000
+
+Selection and retouching of 20-30 final images-$2,000
+
+Round-trip airfare from Sydney to Brisbane-$500
+
+Overnight stay for seamless travel & shoot execution-$350
+
+Travel to and from locations-$250",0,0,,GST,0,002,,,9100.0,10010.0,Closed
+Invoice,2025-03-26T00:00:00,00000035,,Bamboo Body Australia PTY. LTD,,TaxInclusive,Extra Photo Options,0,0,,GST,0,002,,,180.0,180.0,Closed
+Invoice,2025-04-15T00:00:00,00000036,,MATTERS MADE PTY LTD,,TaxInclusive,Editorial Corporate Headshot Session ,0,0,,GST,0,002,,,2550.0,2805.0,Closed
+Invoice,2025-05-07T00:00:00,00000037,,Hanna Hill,,TaxInclusive,Autumn Embrace Mother’s Day,0,0,,GST,0,005,,,650.0,650.0,Closed
+Invoice,2025-05-12T00:00:00,00000038,,Abbey Wirth,,TaxInclusive,Additional Photo Collections,0,0,,N-T,0,001,,,350.0,350.0,Closed
+Invoice,2025-05-12T00:00:00,00000039,,rachel scouten,,TaxInclusive,Additional Photo Collections,0,0,,N-T,0,,,,350.0,350.0,Closed
+Invoice,2025-05-26T00:00:00,00000040,,Lani Starkey,,TaxInclusive,Content Shoot,0,0,,GST,0,002,,,2230.0,2453.0,Closed
+Invoice,2025-06-17T00:00:00,00000041,,Jessica Easler,,TaxInclusive,Additional Images,0,0,,N-T,0,005,,,350.0,350.0,Closed
+Invoice,2025-06-17T00:00:00,00000042,,PHILLY SMIRK,,TaxInclusive,Extra Images,0,0,,N-T,0,005,,,170.0,170.0,Closed
+Invoice,2025-06-17T00:00:00,00000043,,Jenna Weber,,TaxInclusive,Heirloom Editorial Collection ,0,0,,FRE,0,003,,,1990.0,1990.0,Closed
+Invoice,2025-06-17T00:00:00,00000044,,Maria Jovanova,,TaxInclusive,The Heirloom Editorial Collection,0,0,,N-T,0,001,,,2450.0,2450.0,Closed
+Invoice,2025-07-16T00:00:00,00000045,,haniya noble,,TaxInclusive,The Heirloom Editorial Collection + Curated Editorial Portrait(Pregnancy) Deposit,0,0,,GST,0,,,,1172.5,1289.75,Closed
+Invoice,2025-07-27T00:00:00,00000046,,Christopher Johns,,TaxInclusive,The Heirloom Editorial Collection (Photoshoot),0,0,,GST,0,,,,1000.0,1100.0,Closed
+Invoice,2025-07-29T00:00:00,00000047,, Luna Lane,,TaxInclusive,"Half-Day Social Media Session
+• 4-hour shoot
+• 100 x colour-graded, high-res images
+• Studio lighting and professional equipment
+• Live tethering to laptop during shoot
+• Raw video footage",0,0,,GST,0,,,,1900.0,2090.0,Closed
+Invoice,2025-08-06T00:00:00,00000048,,haniya noble,,TaxInclusive,The Heirloom Editorial Collection + Curated Editorial Portrait(Pregnancy) Deposit,0,0,,GST,0,,,,3517.5,3869.25,Closed
+Invoice,2025-08-11T00:00:00,00000050,,Samantha Gold,,TaxInclusive,Editorial Photoshoot Package,0,0,,GST,0,002,,,2600.0,2860.0,Closed
+Invoice,2025-08-12T00:00:00,00000051,,Maximilian Bishop,,TaxInclusive,Rebecca Valance Event,0,0,,GST,0,002,,,1500.0,1500.0,Closed
+Invoice,2025-08-12T00:00:00,00000052,,Verney Burge ,,TaxInclusive,Additional Images(100),0,0,,GST,0,,,,1000.0,1100.0,Open

@@ -1,0 +1,31 @@
+Type,Date,Invoice No,Customer,Customer Email,Due Date,Amount,Tax,Total,Status,Currency,Bill No,Vendor,Vendor Email,Payment No,Payment Type,Reference,Payer,Payee,Method
+Invoice,2025-12-06,INV-2024-0001,ABC Technologies,accounts@abctech.com,2026-01-05,4864.5529806501845,486.45529806501844,5351.008278715203,Unpaid,AUD,,,,,,,,,
+Invoice,2025-12-02,INV-2024-0002,Global Traders Inc,finance@globaltraders.com,2026-01-01,2225.708434686169,222.5708434686169,2448.279278154786,Paid,AUD,,,,,,,,,
+Invoice,2025-11-26,INV-2024-0003,ABC Technologies,accounts@abctech.com,2025-12-26,3614.4951326165274,361.4495132616527,3975.94464587818,Paid,AUD,,,,,,,,,
+Invoice,2026-01-23,INV-2024-0004,ABC Technologies,accounts@abctech.com,2026-02-22,4481.07213302265,448.107213302265,4929.179346324915,Paid,AUD,,,,,,,,,
+Invoice,2025-10-27,INV-2024-0005,ABC Technologies,accounts@abctech.com,2025-11-26,8385.236375197946,838.5236375197946,9223.760012717741,Unpaid,AUD,,,,,,,,,
+Invoice,2026-01-03,INV-2024-0006,XYZ Solutions,billing@xyzsolutions.com,2026-02-02,1404.2153081133652,140.4215308113365,1544.6368389247018,Paid,AUD,,,,,,,,,
+Invoice,2025-12-28,INV-2024-0007,ABC Technologies,accounts@abctech.com,2026-01-27,9420.19891797114,942.019891797114,10362.218809768254,Paid,AUD,,,,,,,,,
+Invoice,2025-11-19,INV-2024-0008,Global Traders Inc,finance@globaltraders.com,2025-12-19,1834.4646279243768,183.44646279243767,2017.9110907168144,Unpaid,AUD,,,,,,,,,
+Invoice,2026-01-08,INV-2024-0009,Global Traders Inc,finance@globaltraders.com,2026-02-07,5620.501251059012,562.0501251059012,6182.551376164914,Paid,AUD,,,,,,,,,
+Invoice,2025-12-15,INV-2024-0010,ABC Technologies,accounts@abctech.com,2026-01-14,9247.641542673635,924.7641542673636,10172.405696941,Paid,AUD,,,,,,,,,
+Bill,2026-01-19,,,,2026-03-05,4308.351489217459,430.8351489217459,4739.186638139205,Paid,AUD,BILL-2024-0001,Amazon Web Services,billing@aws.amazon.com,,,,,,
+Bill,2025-10-27,,,,2025-12-11,3720.4277405194043,372.04277405194046,4092.4705145713447,Pending,AUD,BILL-2024-0002,Microsoft Australia,invoices@microsoft.com.au,,,,,,
+Bill,2025-11-25,,,,2026-01-09,2503.7589595228765,250.37589595228766,2754.134855475164,Unpaid,AUD,BILL-2024-0003,Office Supplies Co,accounts@officesupplies.com,,,,,,
+Bill,2026-01-08,,,,2026-02-22,3538.2558529085304,353.82558529085304,3892.0814381993832,Unpaid,AUD,BILL-2024-0004,Office Supplies Co,accounts@officesupplies.com,,,,,,
+Bill,2025-11-11,,,,2025-12-26,2762.644346766751,276.2644346766751,3038.908781443426,Unpaid,AUD,BILL-2024-0005,Office Supplies Co,accounts@officesupplies.com,,,,,,
+Bill,2025-11-29,,,,2026-01-13,522.6650571336969,52.26650571336969,574.9315628470666,Pending,AUD,BILL-2024-0006,Office Supplies Co,accounts@officesupplies.com,,,,,,
+Bill,2025-12-26,,,,2026-02-09,4905.720179270207,490.5720179270207,5396.292197197227,Paid,AUD,BILL-2024-0007,Microsoft Australia,invoices@microsoft.com.au,,,,,,
+Bill,2026-01-10,,,,2026-02-24,3973.2914278757116,397.3291427875712,4370.620570663283,Unpaid,AUD,BILL-2024-0008,Office Supplies Co,accounts@officesupplies.com,,,,,,
+Payment,2026-01-09,,,,,2540.388381078244,,,Completed,,,,,PAY-2024-0001,Bill Payment,BILL000008,Our Company,VEND002,Credit Card
+Payment,2025-10-25,,,,,2830.5259871391663,,,Completed,,,,,PAY-2024-0002,Bill Payment,BILL000002,Our Company,VEND003,Bank Transfer
+Payment,2026-01-07,,,,,560.9085298906929,,,Completed,,,,,PAY-2024-0003,Invoice Payment,INV000001,CUST002,Our Company,Credit Card
+Payment,2026-01-10,,,,,1419.3418062839103,,,Completed,,,,,PAY-2024-0004,Bill Payment,BILL000008,Our Company,VEND002,Cheque
+Payment,2025-12-13,,,,,1976.0511916744465,,,Failed,,,,,PAY-2024-0005,Bill Payment,BILL000008,Our Company,VEND001,Cheque
+Payment,2025-11-21,,,,,2678.696291147917,,,Failed,,,,,PAY-2024-0006,Invoice Payment,INV000007,CUST001,Our Company,Cheque
+Payment,2025-11-07,,,,,2730.00835752398,,,Pending,,,,,PAY-2024-0007,Invoice Payment,INV000002,CUST003,Our Company,Credit Card
+Payment,2026-01-22,,,,,1806.2171445459765,,,Pending,,,,,PAY-2024-0008,Bill Payment,BILL000007,Our Company,VEND002,Bank Transfer
+Payment,2026-01-04,,,,,2032.8687572886756,,,Completed,,,,,PAY-2024-0009,Bill Payment,BILL000006,Our Company,VEND002,Credit Card
+Payment,2025-12-09,,,,,1488.1651857614695,,,Pending,,,,,PAY-2024-0010,Invoice Payment,INV000009,CUST002,Our Company,Cheque
+Payment,2025-12-24,,,,,959.0418538190027,,,Completed,,,,,PAY-2024-0011,Invoice Payment,INV000001,CUST001,Our Company,Bank Transfer
+Payment,2026-01-02,,,,,1071.5598088653333,,,Failed,,,,,PAY-2024-0012,Invoice Payment,INV000008,CUST003,Our Company,Credit Card

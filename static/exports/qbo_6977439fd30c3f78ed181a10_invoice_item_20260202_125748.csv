@@ -1,0 +1,1219 @@
+Type,Invoice Date,Invoice No,Due Date,Customer,Source Code,Global Tax calculation,Product/Service,Quantity,Product/Service Quantity,Product/Service Unit Price,Product/Service Tax Rate,Product/Service Tax Amount,Product/Service Class,Currency Code,Exchange Rate,Amount,Total Invoice Amount,Status
+Invoice,2021-11-11T00:00:00,JTW900440,,Facility Management Essentials,,TaxInclusive,SALTO SPACE ADD ON - mSVN (MOB,0,0,9.9,GST,0,,,,79.2,79.2,Closed
+Invoice,2021-11-11T00:00:00,JTW900439,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1487.0,Closed
+Invoice,2021-11-11T00:00:00,JTW900439,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1188.0,1487.0,Closed
+Invoice,2021-11-11T00:00:00,JTW900439,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,200.0,GST,0,,,,200.0,1487.0,Closed
+Invoice,2021-11-14T00:00:00,JTW900442,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,213.0,Closed
+Invoice,2021-11-14T00:00:00,JTW900442,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,213.0,Closed
+Invoice,2021-11-14T00:00:00,JTW900442,,Cardinia Shire Council,,TaxInclusive,DESCRIPTION,0,0,15.0,GST,0,,,,15.0,213.0,Closed
+Invoice,2021-11-15T00:00:00,JTW900444,,FONTIC,,TaxInclusive,VOUCHKSM,0,0,341.0,GST,0,,,,341.0,341.0,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,Tecom TS1016-KIT-1 Challenger1,0,0,2198.9,GST,0,,,,2198.9,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,Tecom TS1020 CHALLENGER10 DGP ,0,0,863.5,GST,0,,,,863.5,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,48.4,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,16V AC 1500mA ASH 3 CON Stripp,0,0,33.0,GST,0,,,,33.0,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,Paradox Digigard High-Security,0,0,75.9,GST,0,,,,1518.0,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,Recessed Steel Door Reed Switc,0,0,10.89,GST,0,,,,130.68,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,"Siren cover kit, comb, top hat",0,0,55.0,GST,0,,,,55.0,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,Tecom TS1021 CHALLENGER10 8 IN,0,0,242.0,GST,0,,,,242.0,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,INSTALLATION ,0,0,4400.0,GST,0,,,,4400.0,10289.48,Closed
+Invoice,2021-11-19T00:00:00,JTW900446,,Live Volts Electrical ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,800.0,GST,0,,,,800.0,10289.48,Closed
+Invoice,2021-11-22T00:00:00,JTW900449,,Geoff  Sammons,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,148.5,Closed
+Invoice,2021-11-22T00:00:00,JTW900449,,Geoff  Sammons,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,49.5,148.5,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,Paradox SP5500 Insite Gold IP ,0,0,625.9,GST,0,,,,625.9,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,Paradox Recessed Wireless Door,0,0,88.0,GST,0,,,,176.0,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,INSTALLATION ,0,0,640.0,GST,0,,,,640.0,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,Hikvision 6MP Outdoor Turret C,0,0,175.0,GST,0,,,,350.0,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,"Ultra microSDXC, SQUAR 128GB, ",0,0,39.6,GST,0,,,,79.2,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,"Wireless Expansion Module ""RX ",0,0,195.8,GST,0,,,,195.8,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,Recessed Steel Door Reed Switc,0,0,10.89,GST,0,,,,54.45,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900448,,Mirjana  Knezevic,,TaxInclusive,Hikvision 2nd Gen IP Intercom ,0,0,715.0,GST,0,,,,715.0,2836.35,Closed
+Invoice,2021-11-22T00:00:00,JTW900447,,Albury Wodonga Community College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,380.0,GST,0,,,,380.0,380.0,Closed
+Invoice,2021-11-22T00:00:00,JTW900450,,PBS 106.7FM ,,TaxInclusive,SALTO MIFARE 1K FOB RED & WHT ,0,0,118.041,GST,0,,,,1180.41,1180.41,Closed
+Invoice,2021-11-23T00:00:00,JTW900451,,Jet Charge ,,TaxInclusive,SALTO KS & SVN compatible Tags,0,0,95.0,GST,0,,,,190.0,197.5,Closed
+Invoice,2021-11-23T00:00:00,JTW900451,,Jet Charge ,,TaxInclusive,POSTAGE,0,0,7.5,GST,0,,,,7.5,197.5,Closed
+Invoice,2021-11-26T00:00:00,JTW90276,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2021-11-27T00:00:00,JTW90277,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2021-11-27T00:00:00,JTW90278,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2021-11-29T00:00:00,JTW900453,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2168.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900453,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,2168.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900453,,Cardinia Shire Council,,TaxInclusive,DESCRIPTION,0,0,1970.0,GST,0,,,,1970.0,2168.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900454,,PBS 106.7FM ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900454,,PBS 106.7FM ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900455,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,456.5,Closed
+Invoice,2021-11-29T00:00:00,JTW900455,,Mentone Grammar,,TaxInclusive,Multipath T4000 Ultralite 4G C,0,0,137.5,GST,0,,,,137.5,456.5,Closed
+Invoice,2021-11-29T00:00:00,JTW900455,,Mentone Grammar,,TaxInclusive,Benelec Multipath T4000 High G,0,0,121.0,GST,0,,,,121.0,456.5,Closed
+Invoice,2021-11-29T00:00:00,JTW900455,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,456.5,Closed
+Invoice,2021-11-29T00:00:00,JTW900458,,Mater Christi College,,TaxInclusive,SALTO ISO MIFARE CARD 1K WHT P,0,0,201.3,GST,0,,,,201.3,443.85,Closed
+Invoice,2021-11-29T00:00:00,JTW900458,,Mater Christi College,,TaxInclusive,LOCKTON 'Narrow Stile' - Rnd. ,0,0,80.85,GST,0,,,,242.55,443.85,Closed
+Invoice,2021-11-29T00:00:00,JTW900456,,Cardinia Shire Council,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,11.8,GST,0,,,,188.8,188.8,Closed
+Invoice,2021-11-29T00:00:00,JTW900457,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2497.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900457,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1980.0,2497.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900457,,Ram Locksmiths ,,TaxInclusive,"DCS Cat6 - 305m Box, Yellow",0,0,209.0,GST,0,,,,209.0,2497.0,Closed
+Invoice,2021-11-29T00:00:00,JTW900457,,Ram Locksmiths ,,TaxInclusive,"X2 Cable, 6 x 14/020, Security",0,0,209.0,GST,0,,,,209.0,2497.0,Closed
+Invoice,2021-11-30T00:00:00,JTW90281,,Amit ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2021-11-30T00:00:00,JTW90280,,Texco Contracting Pty Ltd ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2021-11-30T00:00:00,JTW90279,,Des Jackson ,,TaxInclusive,GSM ALARM MONITORING ,0,0,36.0,GST,0,,,,432.0,475.2,Closed
+Invoice,2021-12-01T00:00:00,JTW900443,,Cardinia Shire Council,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,329.0,GST,0,,,,329.0,835.0,Closed
+Invoice,2021-12-01T00:00:00,JTW900443,,Cardinia Shire Council,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,110.0,GST,0,,,,110.0,835.0,Closed
+Invoice,2021-12-01T00:00:00,JTW900443,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,835.0,Closed
+Invoice,2021-12-01T00:00:00,JTW90289,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2021-12-01T00:00:00,JTW90288,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2021-12-01T00:00:00,JTW90287,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2021-12-01T00:00:00,JTW90285,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2021-12-01T00:00:00,JTW90284,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2021-12-01T00:00:00,JTW90283,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2021-12-01T00:00:00,JTW90282,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2021-12-01T00:00:00,JTW90282,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2021-12-01T00:00:00,JTW90282,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2021-12-01T00:00:00,JTW90291,,Mater Christi College,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,135.3,148.83,Closed
+Invoice,2021-12-01T00:00:00,JTW900459,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,767.0,Closed
+Invoice,2021-12-01T00:00:00,JTW900459,,Cardinia Shire Council,,TaxInclusive,800H x 600W x 200D Weatherproo,0,0,398.5,GST,0,,,,398.5,767.0,Closed
+Invoice,2021-12-01T00:00:00,JTW900459,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,767.0,Closed
+Invoice,2021-12-01T00:00:00,JTW900459,,Cardinia Shire Council,,TaxInclusive,HASP & STAPLE 110/195 DP 195mm,0,0,71.5,GST,0,,,,71.5,767.0,Closed
+Invoice,2021-12-01T00:00:00,JTW90290,,Albury Wodonga Community College,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.6,GST,0,,,,45.6,45.6,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,DORMA PANIC BOLT VISIBLE FIX 2,0,0,57.112,GST,0,,,,114.22,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,FSH E/STRIKE FES20 12/24v PTL/,0,0,288.09,GST,0,,,,288.09,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,ACSS DOOR LOOP DL045 450x12.7M,0,0,49.5,GST,0,,,,49.5,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,LOCKWOOD FURN 1801/70 SC,0,0,146.3,GST,0,,,,146.3,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,126.5,1120.61,Closed
+Invoice,2021-11-11T00:00:00,JTW900441,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1120.61,Closed
+Invoice,2021-11-09T00:00:00,JTW900438,,Reading Electrical,,TaxInclusive,Paradox 10 Zone (ATZ) SP Panel,0,0,450.0,GST,0,,,,450.0,599.0,Closed
+Invoice,2021-11-09T00:00:00,JTW900438,,Reading Electrical,,TaxInclusive,Paradox IP150 V4 Internet Modu,0,0,149.0,GST,0,,,,149.0,599.0,Closed
+Invoice,2021-11-09T00:00:00,JTW900436,,DINEAMIC,,TaxInclusive,"IR SIFER-P Fob, DESFire, EV2, ",0,0,14.3,GST,0,,,,715.0,715.0,Closed
+Invoice,2021-11-09T00:00:00,JTW900437,,SAS Scaffold ,,TaxInclusive,6MP 8CH IP Turret-KIT-8 includ,0,0,1268.3,GST,0,,,,1268.3,2613.3,Closed
+Invoice,2021-11-09T00:00:00,JTW900437,,SAS Scaffold ,,TaxInclusive,DS-2CD2346G2-ISU/SL HIKVISION ,0,0,256.0,GST,0,,,,256.0,2613.3,Closed
+Invoice,2021-11-09T00:00:00,JTW900437,,SAS Scaffold ,,TaxInclusive,INSTALLATION ,0,0,1089.0,GST,0,,,,1089.0,2613.3,Closed
+Invoice,2021-11-09T00:00:00,JTW900437,,SAS Scaffold ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,0.0,GST,0,,,,0.0,2613.3,Closed
+Invoice,2021-11-08T00:00:00,JTW900434,,CASH SALE ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,250.0,CAP,0,,,,250.0,250.0,Closed
+Invoice,2021-11-08T00:00:00,JTW900435,,StudioHawk,,TaxInclusive,VOUCHKSM,0,0,330.0,GST,0,,,,330.0,330.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900430,,Deploy Security,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,764.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900430,,Deploy Security,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,594.0,764.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900430,,Deploy Security,,TaxInclusive,Digigard Quad Element Digital ,0,0,28.0,GST,0,,,,56.0,764.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900430,,Deploy Security,,TaxInclusive,PDX-SB469,0,0,7.5,GST,0,,,,15.0,764.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900433,,Saints College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,170.5,Closed
+Invoice,2021-11-07T00:00:00,JTW900433,,Saints College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,49.5,170.5,Closed
+Invoice,2021-11-07T00:00:00,JTW900433,,Saints College,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,22.0,GST,0,,,,22.0,170.5,Closed
+Invoice,2021-11-07T00:00:00,JTW900431,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,210.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900431,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,210.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900431,,Mentone Grammar,,TaxInclusive,DESCRIPTION,0,0,6.0,GST,0,,,,12.0,210.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900432,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-11-07T00:00:00,JTW900432,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-11-04T00:00:00,JTW900429,,Kilvington Grammar School,,TaxInclusive,SALTO SPACE ADD ON - mSVN (MOB,0,0,4.5,GST,0,,,,225.0,225.0,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,627.88,GST,0,,,,7534.56,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,ADI COVER PLATE suit SALTO XS4,0,0,29.7,GST,0,,,,356.4,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,1485.0,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,42.185,GST,0,,,,126.56,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,253.0,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,2643.3,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,DESCRIPTION,0,0,32.0,GST,0,,,,384.0,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,990.0,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,141.9,GST,0,,,,141.9,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900427,,Mentone Grammar,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,439.39,14750.11,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,6MP 8CH IP Turret-KIT-8 includ,0,0,1268.3,GST,0,,,,1268.3,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,200.0,GST,0,,,,200.0,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,1 x 192 Zone Alarm/Access Cont,0,0,1087.79,GST,0,,,,1087.79,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,"Paradox TM50 5"" Touchscreen Ke",0,0,278.3,GST,0,,,,278.3,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,Paradox Digigard High-Security,0,0,75.9,GST,0,,,,303.6,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,Multipath T4000 Lite 4G,0,0,243.1,GST,0,,,,243.1,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,DESCRIPTION,0,0,899.0,GST,0,,,,899.0,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900426,,Albury Wodonga Community College,,TaxInclusive,Branded 21.5 - 22 inch Monitor,0,0,298.1,GST,0,,,,298.1,6261.19,Closed
+Invoice,2021-11-03T00:00:00,JTW900428,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2635.9,Closed
+Invoice,2021-11-03T00:00:00,JTW900428,,Cardinia Shire Council,,TaxInclusive,4MP 8CH IP Turret-KIT-2 includ,0,0,1098.9,GST,0,,,,1098.9,2635.9,Closed
+Invoice,2021-11-03T00:00:00,JTW900428,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1188.0,2635.9,Closed
+Invoice,2021-11-03T00:00:00,JTW900428,,Cardinia Shire Council,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,250.0,GST,0,,,,250.0,2635.9,Closed
+Invoice,2021-12-05T00:00:00,JTW900461,,Saint Peter Julian Eymard,,TaxInclusive,Paradox SP5500 Insite Gold IP ,0,0,625.9,GST,0,,,,1251.8,1684.8,Closed
+Invoice,2021-12-05T00:00:00,JTW900461,,Saint Peter Julian Eymard,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,1684.8,Closed
+Invoice,2021-12-05T00:00:00,JTW900461,,Saint Peter Julian Eymard,,TaxInclusive,DESCRIPTION,0,0,46.0,GST,0,,,,92.0,1684.8,Closed
+Invoice,2021-12-05T00:00:00,JTW900461,,Saint Peter Julian Eymard,,TaxInclusive,Paradox 32-Zone Hardwired LCD ,0,0,143.0,GST,0,,,,143.0,1684.8,Closed
+Invoice,2021-12-05T00:00:00,JTW900462,,Newpol Construction,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1507.0,Closed
+Invoice,2021-12-05T00:00:00,JTW900462,,Newpol Construction,,TaxInclusive,INSTALLATION ,0,0,1408.0,GST,0,,,,1408.0,1507.0,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,6MP Network Turret Camera with,0,0,157.0,GST,0,,,,471.0,3230.4,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,D-NVR-9916-K2-16P- 4K-3TB HIK ,0,0,1138.5,GST,0,,,,1138.5,3230.4,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,3230.4,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,150.0,GST,0,,,,150.0,3230.4,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,Junction Box to suit DS-2CD23x,0,0,25.3,GST,0,,,,75.9,3230.4,Closed
+Invoice,2021-12-05T00:00:00,JTW900460,,Saint Peter Julian Eymard,,TaxInclusive,6MP Network Turret Camera with,0,0,180.0,GST,0,,,,900.0,3230.4,Closed
+Invoice,2021-12-06T00:00:00,JTW900463,,Mentone Grammar,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,236.94,236.94,Closed
+Invoice,2021-12-08T00:00:00,JTW900472,,Alarm Assets Group,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900472,,Alarm Assets Group,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900468,,Texco Contracting Pty Ltd ,,TaxInclusive,DESCRIPTION,0,0,14.95,GST,0,,,,14.95,14.95,Closed
+Invoice,2021-12-08T00:00:00,JTW900465,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,198.0,396.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900465,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,396.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,48.4,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,NEPTUNE Waterproof Maglock Sin,0,0,293.7,GST,0,,,,587.4,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,NEPTUNE Z Bracket to suit NEWM,0,0,97.9,GST,0,,,,195.8,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,Rosslare goProx 3x4 PIN Keypad,0,0,225.5,GST,0,,,,676.5,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,INSTALLATION ,0,0,1584.0,GST,0,,,,1584.0,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,"Exit button, Heavy Duty Mushro",0,0,64.9,GST,0,,,,64.9,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,HID 125kHz Prox Key Fob,0,0,10.5,GST,0,,,,2100.0,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,"CS 4 Door Access, , Lift,",0,0,1103.3,GST,0,,,,1103.3,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,"CS 2 Door Access, Alarm Networ",0,0,585.2,GST,0,,,,585.2,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900464,,Log Cabin Park Accommodation,,TaxInclusive,Lantronix Xport LAN Ethernet M,0,0,211.2,GST,0,,,,211.2,7453.7,Closed
+Invoice,2021-12-08T00:00:00,JTW900471,,Alarm Assets Group,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900471,,Alarm Assets Group,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900469,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900469,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900466,,Priback Body Corporate Services VIC Office,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900466,,Priback Body Corporate Services VIC Office,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2021-12-08T00:00:00,JTW900470,,Alarm Assets Group,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,267.3,Closed
+Invoice,2021-12-08T00:00:00,JTW900470,,Alarm Assets Group,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,267.3,Closed
+Invoice,2021-12-08T00:00:00,JTW900470,,Alarm Assets Group,,TaxInclusive,Combo siren/horn speaker,0,0,19.8,GST,0,,,,19.8,267.3,Closed
+Invoice,2021-12-11T00:00:00,JTW900475,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,594.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900475,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,594.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900474,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,829.4,GST,0,,,,829.4,829.4,Closed
+Invoice,2021-12-11T00:00:00,JTW900473,,Texco Contracting Pty Ltd ,,TaxInclusive,MIFARE 1k 13.56MHz CARD TSEC,0,0,14.85,GST,0,,,,148.5,148.5,Closed
+Invoice,2021-12-11T00:00:00,JTW900476,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,234.3,Closed
+Invoice,2021-12-11T00:00:00,JTW900476,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,36.3,234.3,Closed
+Invoice,2021-12-11T00:00:00,JTW900476,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,234.3,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,30.0,GST,0,,,,30.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,6.0,GST,0,,,,6.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,16.0,GST,0,,,,16.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,88.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,72.6,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,88.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,44.0,GST,0,,,,44.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,44.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,36.3,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,9.0,GST,0,,,,9.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,96.8,GST,0,,,,290.4,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,3.06,GST,0,,,,3.06,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,44.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,8.0,GST,0,,,,8.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,10.0,GST,0,,,,10.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,88.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900480,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,2461.36,Closed
+Invoice,2021-12-11T00:00:00,JTW900478,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,910.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900478,,Mater Christi College,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,66.0,910.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900478,,Mater Christi College,,TaxInclusive,SALTO XS4 NARROW ESCUTCHEON w/,0,0,745.0,GST,0,,,,745.0,910.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900479,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900479,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2021-12-11T00:00:00,JTW900477,,McClelland College,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,118.47,118.47,Closed
+Invoice,2021-12-13T00:00:00,JTW900481,,Nossal High School,,TaxInclusive,Milestone XProtect Professiona,0,0,229.0,GST,0,,,,4580.0,5322.5,Closed
+Invoice,2021-12-13T00:00:00,JTW900481,,Nossal High School,,TaxInclusive,Milestone XProtect Professiona,0,0,742.5,GST,0,,,,742.5,5322.5,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,50.0,GST,0,,,,50.0,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,352.0,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,141.9,GST,0,,,,283.8,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,264.0,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,396.0,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900483,,McClelland College,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,795.0,GST,0,,,,3180.0,4525.8,Closed
+Invoice,2021-12-14T00:00:00,JTW900484,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,299.2,Closed
+Invoice,2021-12-14T00:00:00,JTW900484,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,176.0,299.2,Closed
+Invoice,2021-12-14T00:00:00,JTW900484,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,299.2,Closed
+Invoice,2021-12-15T00:00:00,JTW900485,,Statewide Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,148.5,Closed
+Invoice,2021-12-15T00:00:00,JTW900485,,Statewide Locksmiths,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,49.5,148.5,Closed
+Invoice,2021-12-15T00:00:00,JTW900486,,Blackburn English Language School,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-12-15T00:00:00,JTW900486,,Blackburn English Language School,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,"Paradox TM50 5"" Touchscreen Ke",0,0,278.3,GST,0,,,,278.3,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,6MP Network Turret Camera with,0,0,157.5,GST,0,,,,315.0,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,"HIKVISION, HD-IP PoE NVR, 4 ch",0,0,495.0,GST,0,,,,495.0,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,PDX-SB469,0,0,10.34,GST,0,,,,20.68,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900487,,Viridian Electrics,,TaxInclusive,"Paradox SP6000 Kit, DG65s, Min",0,0,382.9,GST,0,,,,382.9,1887.88,Closed
+Invoice,2021-12-16T00:00:00,JTW900488,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1379.4,Closed
+Invoice,2021-12-16T00:00:00,JTW900488,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,1232.0,1379.4,Closed
+Invoice,2021-12-16T00:00:00,JTW900488,,Signal Security PTY LTD ,,TaxInclusive,Universal roller shutter door ,0,0,24.2,GST,0,,,,24.2,1379.4,Closed
+Invoice,2021-12-16T00:00:00,JTW900488,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,1379.4,Closed
+Invoice,2021-12-19T00:00:00,JTW900489,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,88.0,GST,0,,,,1848.0,6837.99,Closed
+Invoice,2021-12-19T00:00:00,JTW900489,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,40.0,GST,0,,,,3160.0,6837.99,Closed
+Invoice,2021-12-19T00:00:00,JTW900489,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,308.35,GST,0,,,,308.35,6837.99,Closed
+Invoice,2021-12-19T00:00:00,JTW900489,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,900.0,6837.99,Closed
+Invoice,2021-12-19T00:00:00,JTW900490,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,30.0,GST,0,,,,240.0,739.2,Closed
+Invoice,2021-12-19T00:00:00,JTW900490,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,88.0,GST,0,,,,352.0,739.2,Closed
+Invoice,2021-12-19T00:00:00,JTW900490,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,40.0,GST,0,,,,80.0,739.2,Closed
+Invoice,2021-12-21T00:00:00,JTW900491,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,211.2,Closed
+Invoice,2021-12-21T00:00:00,JTW900491,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,211.2,Closed
+Invoice,2021-12-21T00:00:00,JTW900491,,Signal Security PTY LTD ,,TaxInclusive,CBD PARKING ,0,0,12.0,GST,0,,,,12.0,211.2,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,6MP 16CH IP Turret-KIT-9 inclu,0,0,1697.3,GST,0,,,,1697.3,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,6MP Network Turret Camera with,0,0,159.0,GST,0,,,,636.0,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,Hikvision 4 Port Unmanaged PoE,0,0,107.8,GST,0,,,,107.8,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,Ubiquiti AirMax NanoStation Lo,0,0,148.5,GST,0,,,,297.0,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,350.0,GST,0,,,,350.0,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,INSTALLATION ,0,0,1584.0,GST,0,,,,1584.0,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,"Plastic Enclosure, Grey, 190(L",0,0,44.0,GST,0,,,,44.0,4881.1,Closed
+Invoice,2021-12-22T00:00:00,JTW900492,,Wayne Robins ,,TaxInclusive,Access Point WiFi 6 Lite,0,0,165.0,GST,0,,,,165.0,4881.1,Closed
+Invoice,2021-12-23T00:00:00,JTW900496,,Mentone Grammar,,TaxInclusive,AFTER HOURS ONSITE  CHARGE,0,0,137.5,GST,0,,,,137.5,679.8,Closed
+Invoice,2021-12-23T00:00:00,JTW900496,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,679.8,Closed
+Invoice,2021-12-23T00:00:00,JTW900496,,Mentone Grammar,,TaxInclusive,Integriti 3 Amp SMART Power Su,0,0,247.5,GST,0,,,,247.5,679.8,Closed
+Invoice,2021-12-23T00:00:00,JTW900496,,Mentone Grammar,,TaxInclusive,12V 18Ah Sealed Lead Acid Batt,0,0,96.8,GST,0,,,,96.8,679.8,Closed
+Invoice,2021-12-23T00:00:00,JTW900498,,Mentone Grammar,,TaxInclusive,ATTEND SITE ,0,0,980.1,GST,0,,,,980.1,1103.85,Closed
+Invoice,2021-12-23T00:00:00,JTW900498,,Mentone Grammar,,TaxInclusive,AAA Battery,0,0,2.75,GST,0,,,,123.75,1103.85,Closed
+Invoice,2021-12-23T00:00:00,JTW900493,,Freeman Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2285.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900493,,Freeman Locksmiths,,TaxInclusive,Ubiquiti AirMax NanoStation Lo,0,0,148.5,GST,0,,,,297.0,2285.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900493,,Freeman Locksmiths,,TaxInclusive,"NETDIGITAL, Plastic Enclosure,",0,0,61.6,GST,0,,,,61.6,2285.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900493,,Freeman Locksmiths,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,250.0,GST,0,,,,250.0,2285.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900493,,Freeman Locksmiths,,TaxInclusive,SALTO CU INSTALL AND SET UP ,0,0,525.8,GST,0,,,,1577.4,2285.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900494,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,779.9,Closed
+Invoice,2021-12-23T00:00:00,JTW900494,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,180.0,779.9,Closed
+Invoice,2021-12-23T00:00:00,JTW900494,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,439.0,GST,0,,,,439.0,779.9,Closed
+Invoice,2021-12-23T00:00:00,JTW900497,,Mentone Grammar,,TaxInclusive,Hikvision 6MP Mini Vandal Dome,0,0,247.0,GST,0,,,,247.0,544.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900497,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,544.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900499,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1045.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900499,,Mentone Grammar,,TaxInclusive,CR123A BATTERY ,0,0,11.0,GST,0,,,,550.0,1045.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900499,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,1045.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900501,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2346.86,Closed
+Invoice,2021-12-23T00:00:00,JTW900501,,Mentone Grammar,,TaxInclusive,SALTO XS4 WIRELESS ESCUTCHEON ,0,0,985.0,GST,0,,,,1970.0,2346.86,Closed
+Invoice,2021-12-23T00:00:00,JTW900501,,Mentone Grammar,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,132.0,2346.86,Closed
+Invoice,2021-12-23T00:00:00,JTW900501,,Mentone Grammar,,TaxInclusive,LOCKWOOD D/LATCH 530-12 SC 60M,0,0,72.93,GST,0,,,,145.86,2346.86,Closed
+Invoice,2021-12-23T00:00:00,JTW900500,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,495.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900500,,Mentone Grammar,,TaxInclusive,INSTALLATION ,0,0,396.0,GST,0,,,,396.0,495.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900495,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,539.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900495,,Access Hardware,,TaxInclusive,PER KILOMETER,0,0,1.0,GST,0,,,,100.0,539.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900495,,Access Hardware,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,60.0,GST,0,,,,60.0,539.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900495,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,40.0,GST,0,,,,80.0,539.0,Closed
+Invoice,2021-12-23T00:00:00,JTW900495,,Access Hardware,,TaxInclusive,SALTO LOCK COMMISSIONING ,0,0,160.0,GST,0,,,,160.0,539.0,Closed
+Invoice,2021-12-26T00:00:00,JTW90292,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2021-12-27T00:00:00,JTW90293,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2021-12-27T00:00:00,JTW90294,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-01-01T00:00:00,JTW90303,,Albury Wodonga Community College,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.6,GST,0,,,,45.6,45.6,Closed
+Invoice,2022-01-01T00:00:00,JTW90302,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-01-01T00:00:00,JTW90301,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-01-01T00:00:00,JTW90296,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-01-01T00:00:00,JTW90300,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-01-01T00:00:00,JTW90295,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-01-01T00:00:00,JTW90295,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-01-01T00:00:00,JTW90295,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-01-01T00:00:00,JTW90298,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-01-01T00:00:00,JTW90297,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-01-05T00:00:00,JTW900502,,Mount Martha Yacht Club ,,TaxInclusive,SALTO MIFARE 1K FOB YEL & WHT ,0,0,118.041,GST,0,,,,590.21,634.21,Closed
+Invoice,2022-01-05T00:00:00,JTW900502,,Mount Martha Yacht Club ,,TaxInclusive,SALTO MIFARE BLU WRISTBAND LAR,0,0,44.0,GST,0,,,,44.0,634.21,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,8MP 16CH IP Turret-KIT-8,0,0,2245.1,GST,0,,,,2245.1,5562.7,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,IP-8MP2383G0-I28A (2.8mm) 8MP ,0,0,233.2,GST,0,,,,466.4,5562.7,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,INSTALLATION ,0,0,1584.0,GST,0,,,,1584.0,5562.7,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,"DAHUA 4-Port, PoE, PoE+, Hi-Po",0,0,184.8,GST,0,,,,369.6,5562.7,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,"DCS Cat6 - 305m Box, Yellow",0,0,209.0,GST,0,,,,627.0,5562.7,Closed
+Invoice,2022-01-06T00:00:00,JTW900503,,MTAW,,TaxInclusive,3TB HDD - Surveillance HDD for,0,0,270.6,GST,0,,,,270.6,5562.7,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,130.0,GST,0,,,,130.0,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,INSTALLATION ,0,0,880.0,GST,0,,,,880.0,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,Commax 2MP PoE surface mount d,0,0,379.5,GST,0,,,,759.0,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,"Commax 7"" TFT metal finish PoE",0,0,679.8,GST,0,,,,679.8,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,290.0,GST,0,,,,290.0,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,198.0,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900504,,Freeman Locksmiths,,TaxInclusive,Hikvision 4 Port Unmanaged PoE,0,0,126.8,GST,0,,,,126.8,3063.6,Closed
+Invoice,2022-01-07T00:00:00,JTW900507,,LifeHouse Church Melbourne,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,555.5,Closed
+Invoice,2022-01-07T00:00:00,JTW900507,,LifeHouse Church Melbourne,,TaxInclusive,SALTO KS IQ 2.0: Ethernet,0,0,227.5,GST,0,,,,227.5,555.5,Closed
+Invoice,2022-01-07T00:00:00,JTW900507,,LifeHouse Church Melbourne,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,180.0,555.5,Closed
+Invoice,2022-01-07T00:00:00,JTW900507,,LifeHouse Church Melbourne,,TaxInclusive,AAA Battery,0,0,2.5,GST,0,,,,7.5,555.5,Closed
+Invoice,2022-01-07T00:00:00,JTW900506,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-07T00:00:00,JTW900506,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-07T00:00:00,JTW900505,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-07T00:00:00,JTW900505,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-11T00:00:00,JTW900511,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,88.0,GST,0,,,,264.0,1500.4,Closed
+Invoice,2022-01-11T00:00:00,JTW900511,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,50.0,GST,0,,,,1100.0,1500.4,Closed
+Invoice,2022-01-11T00:00:00,JTW900508,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,169.4,Closed
+Invoice,2022-01-11T00:00:00,JTW900508,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,45.0,169.4,Closed
+Invoice,2022-01-11T00:00:00,JTW900508,,Mentone Grammar,,TaxInclusive,PDX-SB469,0,0,19.0,GST,0,,,,19.0,169.4,Closed
+Invoice,2022-01-11T00:00:00,JTW900510,,Access Hardware,,TaxInclusive,ELECTRIC MORTICE LOCKS,0,0,20.0,GST,0,,,,260.0,2858.9,Closed
+Invoice,2022-01-11T00:00:00,JTW900510,,Access Hardware,,TaxInclusive,ELECTRIC MORTICE LOCKS,0,0,20.0,GST,0,,,,260.0,2858.9,Closed
+Invoice,2022-01-11T00:00:00,JTW900510,,Access Hardware,,TaxInclusive,AHPTEBREAKGLASS,0,0,77.0,GST,0,,,,2079.0,2858.9,Closed
+Invoice,2022-01-11T00:00:00,JTW900509,,Access Hardware,,TaxInclusive,INSTALLATION ,0,0,1500.28,GST,0,,,,1500.28,1650.31,Closed
+Invoice,2022-01-13T00:00:00,JTW900512,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-01-13T00:00:00,JTW900513,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-01-13T00:00:00,JTW900514,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,242.0,GST,0,,,,242.0,242.0,Closed
+Invoice,2022-01-13T00:00:00,JTW900515,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-01-13T00:00:00,JTW900515,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-01-13T00:00:00,JTW900516,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,726.83,Closed
+Invoice,2022-01-13T00:00:00,JTW900516,,Cardinia Shire Council,,TaxInclusive,BLE Mifare DESFire: standard s,0,0,627.825,GST,0,,,,627.83,726.83,Closed
+Invoice,2022-01-17T00:00:00,JTW900517,,Brunswick Ex-Wool Mills,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,443.0,Closed
+Invoice,2022-01-17T00:00:00,JTW900517,,Brunswick Ex-Wool Mills,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,29.2,GST,0,,,,146.0,443.0,Closed
+Invoice,2022-01-17T00:00:00,JTW900517,,Brunswick Ex-Wool Mills,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,443.0,Closed
+Invoice,2022-01-19T00:00:00,JTW900518,,Statewide Locksmiths,,TaxInclusive,INSTALLATION ,0,0,1584.0,GST,0,,,,1584.0,1584.0,Closed
+Invoice,2022-01-20T00:00:00,JTW900520,,Nossal High School,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,1764.46,Closed
+Invoice,2022-01-20T00:00:00,JTW900520,,Nossal High School,,TaxInclusive,CAMERA SERVICING ,0,0,640.0,GST,0,,,,640.0,1764.46,Closed
+Invoice,2022-01-20T00:00:00,JTW900520,,Nossal High School,,TaxInclusive,NCoder - Proximity card encode,0,0,874.0545,GST,0,,,,874.05,1764.46,Closed
+Invoice,2022-01-20T00:00:00,JTW900519,,Blackburn English Language School,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,297.0,2552.0,Closed
+Invoice,2022-01-20T00:00:00,JTW900519,,Blackburn English Language School,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,22.0,GST,0,,,,1166.0,2552.0,Closed
+Invoice,2022-01-20T00:00:00,JTW900519,,Blackburn English Language School,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,2552.0,Closed
+Invoice,2022-01-20T00:00:00,JTW900519,,Blackburn English Language School,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,2552.0,Closed
+Invoice,2022-01-20T00:00:00,JTW900519,,Blackburn English Language School,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,693.0,2552.0,Closed
+Invoice,2022-01-24T00:00:00,JTW900521,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-24T00:00:00,JTW900521,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-01-24T00:00:00,JTW900523,,Access Hardware,,TaxInclusive,AFTER HOURS ONSITE  CHARGE,0,0,137.5,GST,0,,,,137.5,1821.5,Closed
+Invoice,2022-01-24T00:00:00,JTW900523,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,1821.5,Closed
+Invoice,2022-01-24T00:00:00,JTW900523,,Access Hardware,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,100.0,GST,0,,,,100.0,1821.5,Closed
+Invoice,2022-01-24T00:00:00,JTW900522r1,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1386.0,1677.09,Closed
+Invoice,2022-01-24T00:00:00,JTW900522r1,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,841.5,1677.09,Closed
+Invoice,2022-01-24T00:00:00,JTW900522r1,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,1677.09,Closed
+Invoice,2022-01-24T00:00:00,JTW900522r1,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,5.0,GST,0,,,,15.0,1677.09,Closed
+Invoice,2022-01-24T00:00:00,JTW900522r1,,Access Hardware,,TaxInclusive,DISCOUNT ,0,0,-961.41,GST,0,,,,-961.41,1677.09,Closed
+Invoice,2022-01-25T00:00:00,JTW90305,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-01-26T00:00:00,JTW90306,,Kilvington Grammar School,,TaxInclusive,GSM ALARM MONITORING ,0,0,95.0,GST,0,,,,285.0,285.0,Closed
+Invoice,2022-01-26T00:00:00,JTW90307,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-01-26T00:00:00,JTW90308,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-01-27T00:00:00,JTW900524,,Locksmith Services ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,888.0,Closed
+Invoice,2022-01-27T00:00:00,JTW900524,,Locksmith Services ,,TaxInclusive,Integriti Standard LAN Access ,0,0,591.0,GST,0,,,,591.0,888.0,Closed
+Invoice,2022-01-27T00:00:00,JTW900524,,Locksmith Services ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,888.0,Closed
+Invoice,2022-01-30T00:00:00,JTW900529,,Freeman Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,251.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900529,,Freeman Locksmiths,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,251.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900529,,Freeman Locksmiths,,TaxInclusive,12V DC 1500mA SM PSU Plug Pack,0,0,53.9,GST,0,,,,53.9,251.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,2643.3,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,99.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,198.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,61.6,GST,0,,,,123.2,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,INSTALLATION ,0,0,88.0,GST,0,,,,176.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive, D/LATCH 530-12 SC 60MM B/SET,0,0,44.0,GST,0,,,,88.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3582 SC ,0,0,189.2,GST,0,,,,189.2,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900528,,Mentone Grammar,,TaxInclusive,Sabre 836 Door Closer w/ Delay,0,0,204.6,GST,0,,,,409.2,4123.9,Closed
+Invoice,2022-01-30T00:00:00,JTW900527,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,247.5,Closed
+Invoice,2022-01-30T00:00:00,JTW900527,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,247.5,Closed
+Invoice,2022-02-01T00:00:00,JTW900530,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,892.0,Closed
+Invoice,2022-02-01T00:00:00,JTW900530,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,693.0,892.0,Closed
+Invoice,2022-02-01T00:00:00,JTW900530,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,100.0,GST,0,,,,100.0,892.0,Closed
+Invoice,2022-02-01T00:00:00,JTW90317,,Albury Wodonga Community College,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.6,GST,0,,,,273.6,273.6,Closed
+Invoice,2022-02-01T00:00:00,JTW900532,,Mentone Grammar,,TaxInclusive,CAMERA SERVICING ,0,0,98.0,GST,0,,,,98.0,98.0,Closed
+Invoice,2022-02-01T00:00:00,JTW900531,,Oakleigh Locksmiths PTY. LTD.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,123.0,Closed
+Invoice,2022-02-01T00:00:00,JTW900531,,Oakleigh Locksmiths PTY. LTD.,,TaxInclusive,CSPROTEGEFOB,0,0,12.0,GST,0,,,,24.0,123.0,Closed
+Invoice,2022-02-01T00:00:00,JTW90309,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-02-01T00:00:00,JTW90309,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-02-01T00:00:00,JTW90309,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,148.5,Closed
+Invoice,2022-02-01T00:00:00,JTW90310,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-02-01T00:00:00,JTW90311,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-02-01T00:00:00,JTW90312,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-02-01T00:00:00,JTW90316,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-02-01T00:00:00,JTW90314,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-02-01T00:00:00,JTW90315,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-02-04T00:00:00,JTW900526r1,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,2718.55,Closed
+Invoice,2022-02-04T00:00:00,JTW900526r1,,Access Hardware,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,71.43,GST,0,,,,1500.03,2718.55,Closed
+Invoice,2022-02-04T00:00:00,JTW900526r1,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,40.0,GST,0,,,,160.0,2718.55,Closed
+Invoice,2022-02-04T00:00:00,JTW900526r1,,Access Hardware,,TaxInclusive,SALTO LOCK COMMISSIONING ,0,0,7.14,GST,0,,,,149.94,2718.55,Closed
+Invoice,2022-02-04T00:00:00,JTW900526r1,,Access Hardware,,TaxInclusive,ELECTRIC MORTICE LOCKS,0,0,142.86,GST,0,,,,571.44,2718.55,Closed
+Invoice,2022-02-04T00:00:00,JTW900533,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,990.0,Closed
+Invoice,2022-02-04T00:00:00,JTW900533,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,891.0,990.0,Closed
+Invoice,2022-02-04T00:00:00,JTW900534,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,412.0,Closed
+Invoice,2022-02-04T00:00:00,JTW900534,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,16.0,GST,0,,,,16.0,412.0,Closed
+Invoice,2022-02-04T00:00:00,JTW900534,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,412.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900536,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,984.28,Closed
+Invoice,2022-02-06T00:00:00,JTW900536,,Cardinia Shire Council,,TaxInclusive,ADI COVER PLATE suit SALTO XS4,0,0,29.7,GST,0,,,,59.4,984.28,Closed
+Invoice,2022-02-06T00:00:00,JTW900536,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,984.28,Closed
+Invoice,2022-02-06T00:00:00,JTW900536,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,627.88,GST,0,,,,627.88,984.28,Closed
+Invoice,2022-02-06T00:00:00,JTW900537,,Matt Barker,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,662.2,Closed
+Invoice,2022-02-06T00:00:00,JTW900537,,Matt Barker,,TaxInclusive,PER KILOMETER,0,0,1.0,GST,0,,,,100.0,662.2,Closed
+Invoice,2022-02-06T00:00:00,JTW900537,,Matt Barker,,TaxInclusive,Hikvision 6MP Outdoor Turret C,0,0,187.0,GST,0,,,,187.0,662.2,Closed
+Invoice,2022-02-06T00:00:00,JTW900537,,Matt Barker,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,225.0,662.2,Closed
+Invoice,2022-02-06T00:00:00,JTW900538,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,440.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900538,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,440.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900538,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,440.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900538,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,440.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900538,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,440.0,Closed
+Invoice,2022-02-06T00:00:00,JTW900535,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1243.595,GST,0,,,,1243.6,3200.6,Closed
+Invoice,2022-02-06T00:00:00,JTW900535,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,1408.0,3200.6,Closed
+Invoice,2022-02-06T00:00:00,JTW900535,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,DESCRIPTION,0,0,225.0,GST,0,,,,225.0,3200.6,Closed
+Invoice,2022-02-06T00:00:00,JTW900535,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,DESCRIPTION,0,0,225.0,GST,0,,,,225.0,3200.6,Closed
+Invoice,2022-02-06T00:00:00,JTW900535,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,3200.6,Closed
+Invoice,2022-02-07T00:00:00,JTW900539,,Georgina Martina Inc.,,TaxInclusive,SALTO ISO MIFARE CARD 1K WHT P,0,0,201.3,GST,0,,,,201.3,201.3,Closed
+Invoice,2022-02-07T00:00:00,JTW900540,,Kilvington Grammar School,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1145.1,Closed
+Invoice,2022-02-07T00:00:00,JTW900540,,Kilvington Grammar School,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,1145.1,Closed
+Invoice,2022-02-07T00:00:00,JTW900540,,Kilvington Grammar School,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,99.0,1145.1,Closed
+Invoice,2022-02-07T00:00:00,JTW900540,,Kilvington Grammar School,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,66.0,1145.1,Closed
+Invoice,2022-02-09T00:00:00,JTW900542,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,350.0,GST,0,,,,350.0,350.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900544,,Mentone Grammar,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,118.47,118.47,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1980.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,350.0,GST,0,,,,350.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,DPDT DIN Rail Mount Relay Crad,0,0,27.5,GST,0,,,,55.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,12VDC DPDT Relay - 10A 240VAC/,0,0,27.5,GST,0,,,,55.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900541,,Ram Locksmiths ,,TaxInclusive,DESCRIPTION,0,0,58.0,GST,0,,,,58.0,2597.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900543,,Locksmith Services ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2022-02-09T00:00:00,JTW900543,,Locksmith Services ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2022-02-10T00:00:00,JTW900545,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,934.07,Closed
+Invoice,2022-02-10T00:00:00,JTW900545,,Mentone Grammar,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,99.0,934.07,Closed
+Invoice,2022-02-10T00:00:00,JTW900545,,Mentone Grammar,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,627.88,GST,0,,,,627.88,934.07,Closed
+Invoice,2022-02-10T00:00:00,JTW900545,,Mentone Grammar,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,66.0,934.07,Closed
+Invoice,2022-02-10T00:00:00,JTW900545,,Mentone Grammar,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,42.185,GST,0,,,,42.19,934.07,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,627.88,GST,0,,,,2511.52,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,396.0,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,878.79,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,141.9,GST,0,,,,141.9,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,693.0,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,100.0,GST,0,,,,100.0,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900546,,Mater Christi College,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,25.0,GST,0,,,,100.0,4920.21,Closed
+Invoice,2022-02-13T00:00:00,JTW900547,,Statewide Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2022-02-13T00:00:00,JTW900547,,Statewide Locksmiths,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2022-02-14T00:00:00,JTW900548,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,321.2,Closed
+Invoice,2022-02-14T00:00:00,JTW900548,,Cardinia Shire Council,,TaxInclusive,LOCKTON 'Round Rose' OVAL CYLI,0,0,56.0,GST,0,,,,112.0,321.2,Closed
+Invoice,2022-02-14T00:00:00,JTW900548,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,321.2,Closed
+Invoice,2022-02-15T00:00:00,JTW900549,,Mentone Grammar,,TaxInclusive,Soter FlySense Vape Detector U,0,0,2000.0,GST,0,,,,20000.0,20000.0,Closed
+Invoice,2022-02-15T00:00:00,JTW900550,,Mentone Grammar,,TaxInclusive,Soter FlySense Vape Detector U,0,0,2000.0,GST,0,,,,20000.0,20000.0,Closed
+Invoice,2022-02-15T00:00:00,JTW900551,,Mentone Grammar,,TaxInclusive,Soter FlySense Vape Detector U,0,0,2000.0,GST,0,,,,20000.0,19455.0,Closed
+Invoice,2022-02-15T00:00:00,JTW900551,,Mentone Grammar,,TaxInclusive,DISCOUNT ,0,0,-545.0,GST,0,,,,-545.0,19455.0,Closed
+Invoice,2022-02-15T00:00:00,JTW900552,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-02-15T00:00:00,JTW900552,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-02-17T00:00:00,JTW900554,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,418.0,Closed
+Invoice,2022-02-17T00:00:00,JTW900554,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,418.0,Closed
+Invoice,2022-02-17T00:00:00,JTW900554,,Cardinia Shire Council,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,121.0,418.0,Closed
+Invoice,2022-02-17T00:00:00,JTW900553,,Hannemann Building Group Pty Ltd,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1134.1,Closed
+Invoice,2022-02-17T00:00:00,JTW900553,,Hannemann Building Group Pty Ltd,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,1134.1,Closed
+Invoice,2022-02-17T00:00:00,JTW900553,,Hannemann Building Group Pty Ltd,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,66.0,1134.1,Closed
+Invoice,2022-02-17T00:00:00,JTW900553,,Hannemann Building Group Pty Ltd,,TaxInclusive,Bluenet option per door ,0,0,88.0,GST,0,,,,88.0,1134.1,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,Integriti/Inception SLAM 4 Doo,0,0,850.0,GST,0,,,,850.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER Smart Card Reader, OS",0,0,165.0,GST,0,,,,825.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,FSH E/STRIKE FES20 12/24v PTL/,0,0,288.09,GST,0,,,,864.27,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,450.0,GST,0,,,,450.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,INSTALLATION ,0,0,2500.0,GST,0,,,,2500.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,DORMAKABA MS2602 CLASSROOM LOC,0,0,286.0,GST,0,,,,286.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900557,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER-P ISO Card, DESFire, ",0,0,375.0,GST,0,,,,375.0,6150.27,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,"Inception Controller Kit 6, Me",0,0,1735.8,GST,0,,,,1735.8,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,Multipath T4000 Lite 4G,0,0,243.1,GST,0,,,,243.1,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,Inception to T4000 Security Co,0,0,69.3,GST,0,,,,69.3,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER Smart Card Reader, OS",0,0,165.0,GST,0,,,,330.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER-P 2-Button Remote, Wi",0,0,48.0,GST,0,,,,5760.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,"CSD ProKey Wiegand Receiver, 4",0,0,138.6,GST,0,,,,138.6,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,"DAHUA 6Mp, Eyeball, IR, IP67, ",0,0,247.5,GST,0,,,,990.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,INSTALLATION ,0,0,2500.0,GST,0,,,,2500.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900556,,Body Corporate Strata Group  ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,450.0,GST,0,,,,450.0,12315.8,Closed
+Invoice,2022-02-20T00:00:00,JTW900555,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,346.5,Closed
+Invoice,2022-02-20T00:00:00,JTW900555,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,346.5,Closed
+Invoice,2022-02-21T00:00:00,JTW900558,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,743.0,Closed
+Invoice,2022-02-21T00:00:00,JTW900558,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,594.0,743.0,Closed
+Invoice,2022-02-21T00:00:00,JTW900558,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,50.0,GST,0,,,,50.0,743.0,Closed
+Invoice,2022-02-23T00:00:00,JTW900561,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,280.82,Closed
+Invoice,2022-02-23T00:00:00,JTW900561,,Mentone Grammar,,TaxInclusive,"Honeywell Fire Smoke Detector,",0,0,82.819,GST,0,,,,82.82,280.82,Closed
+Invoice,2022-02-23T00:00:00,JTW900561,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,280.82,Closed
+Invoice,2022-02-23T00:00:00,JTW900560,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,347.0,Closed
+Invoice,2022-02-23T00:00:00,JTW900560,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,347.0,Closed
+Invoice,2022-02-23T00:00:00,JTW900560,,Access Hardware,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,50.0,GST,0,,,,50.0,347.0,Closed
+Invoice,2022-02-23T00:00:00,JTW900559,,Mentone Grammar,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,881.1,Closed
+Invoice,2022-02-24T00:00:00,JTW900562,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,401.5,Closed
+Invoice,2022-02-24T00:00:00,JTW900562,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,401.5,Closed
+Invoice,2022-02-24T00:00:00,JTW900562,,Ram Locksmiths ,,TaxInclusive,DESCRIPTION,0,0,55.0,GST,0,,,,55.0,401.5,Closed
+Invoice,2022-02-24T00:00:00,JTW900563,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,346.5,Closed
+Invoice,2022-02-24T00:00:00,JTW900563,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,346.5,Closed
+Invoice,2022-02-24T00:00:00,JTW90319,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-02-25T00:00:00,JTW90321,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-02-25T00:00:00,JTW90320,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-02-28T00:00:00,JTW90323,,Amit ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2022-02-28T00:00:00,JTW90322,,Texco Contracting Pty Ltd ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,Hanwha Wisenet WAVE Embedded N,0,0,209.0,GST,0,,,,836.0,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,"Hanwha Wisenet Wave Server, 8c",0,0,2640.0,GST,0,,,,2640.0,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,6MP Network Turret Camera with,0,0,247.5,GST,0,,,,990.0,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW900566,,Georgina Martina Inc.,,TaxInclusive,600mm 4RU Wall Cabinet,0,0,247.5,GST,0,,,,247.5,6396.5,Closed
+Invoice,2022-03-01T00:00:00,JTW90331,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-03-01T00:00:00,JTW90324,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-03-01T00:00:00,JTW90324,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-03-01T00:00:00,JTW90327,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-03-01T00:00:00,JTW90330,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-03-01T00:00:00,JTW90325,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-03-01T00:00:00,JTW90329,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-03-01T00:00:00,JTW90326,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-03-06T00:00:00,JTW900579,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,178.2,Closed
+Invoice,2022-03-06T00:00:00,JTW900579,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,79.2,178.2,Closed
+Invoice,2022-03-06T00:00:00,JTW900576,,Saints College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,3128.1,Closed
+Invoice,2022-03-06T00:00:00,JTW900576,,Saints College,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,198.0,3128.1,Closed
+Invoice,2022-03-06T00:00:00,JTW900576,,Saints College,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,3128.1,Closed
+Invoice,2022-03-06T00:00:00,JTW900576,,Saints College,,TaxInclusive,XS4 Escutcheon original +wide ,0,0,875.0,GST,0,,,,875.0,3128.1,Closed
+Invoice,2022-03-06T00:00:00,JTW900576,,Saints College,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,389.0,GST,0,,,,778.0,3128.1,Closed
+Invoice,2022-03-06T00:00:00,JTW900577,,Saints College,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,7.5,GST,0,,,,1162.5,1162.5,Closed
+Invoice,2022-03-06T00:00:00,JTW900578,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,158.4,257.4,Closed
+Invoice,2022-03-06T00:00:00,JTW900578,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,257.4,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,BREEZE BRIDGE,0,0,253.99,GST,0,,,,253.99,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,OMNIA SMART LOCK MB,0,0,667.59,GST,0,,,,667.59,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,OMNIA KEYPAD,0,0,368.5,GST,0,,,,368.5,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,DESCRIPTION,0,0,35.0,GST,0,,,,35.0,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive, Hikvision 2nd Gen. 2 Wire Int,0,0,830.5,GST,0,,,,830.5,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,Hikvision 2nd Gen. 2 Wire Inte,0,0,282.0,GST,0,,,,282.0,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,"Hikvision 2nd Gen. Intercom, D",0,0,98.0,GST,0,,,,98.0,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900569,,Andrew Maxwell,,TaxInclusive,INSTALLATION ,0,0,2045.0,GST,0,,,,2045.0,4679.58,Closed
+Invoice,2022-03-06T00:00:00,JTW900573,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,346.5,Closed
+Invoice,2022-03-06T00:00:00,JTW900573,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,346.5,Closed
+Invoice,2022-03-06T00:00:00,JTW900572,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,393.0,Closed
+Invoice,2022-03-06T00:00:00,JTW900572,,Access Hardware,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,132.0,393.0,Closed
+Invoice,2022-03-06T00:00:00,JTW900572,,Access Hardware,,TaxInclusive,INSTALLATION ,0,0,77.0,GST,0,,,,77.0,393.0,Closed
+Invoice,2022-03-06T00:00:00,JTW900572,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,85.0,GST,0,,,,85.0,393.0,Closed
+Invoice,2022-03-06T00:00:00,JTW900571,,South Yarra Presbyterian Church,,TaxInclusive,BREEZE BRIDGE,0,0,253.99,GST,0,,,,253.99,1438.91,Closed
+Invoice,2022-03-06T00:00:00,JTW900571,,South Yarra Presbyterian Church,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,126.5,1438.91,Closed
+Invoice,2022-03-06T00:00:00,JTW900571,,South Yarra Presbyterian Church,,TaxInclusive,LOCKWOOD 3772 SERIES REBATE KI,0,0,93.83,GST,0,,,,93.83,1438.91,Closed
+Invoice,2022-03-06T00:00:00,JTW900571,,South Yarra Presbyterian Church,,TaxInclusive,OMNIA SMART LOCK MB,0,0,667.59,GST,0,,,,667.59,1438.91,Closed
+Invoice,2022-03-06T00:00:00,JTW900571,,South Yarra Presbyterian Church,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,1438.91,Closed
+Invoice,2022-03-06T00:00:00,JTW900580,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-03-07T00:00:00,JTW900581,,BIGGIN & SCOTT,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1480.6,Closed
+Invoice,2022-03-07T00:00:00,JTW900581,,BIGGIN & SCOTT,,TaxInclusive,Hikvision 6MP Outdoor Turret C,0,0,242.0,GST,0,,,,242.0,1480.6,Closed
+Invoice,2022-03-07T00:00:00,JTW900581,,BIGGIN & SCOTT,,TaxInclusive,6TB HDD - Surveillance HDD for,0,0,606.1,GST,0,,,,606.1,1480.6,Closed
+Invoice,2022-03-07T00:00:00,JTW900581,,BIGGIN & SCOTT,,TaxInclusive,DS-2CE76H8TITMF Hikvision TVI4,0,0,181.5,GST,0,,,,181.5,1480.6,Closed
+Invoice,2022-03-07T00:00:00,JTW900581,,BIGGIN & SCOTT,,TaxInclusive,1 HOUR LABOUR,0,0,88.0,GST,0,,,,352.0,1480.6,Closed
+Invoice,2022-03-09T00:00:00,JTW900583,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,185.0,GST,0,,,,185.0,284.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900583,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,284.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900582,,Culprit Security,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1343.1,GST,0,,,,2686.2,14991.01,Closed
+Invoice,2022-03-09T00:00:00,JTW900582,,Culprit Security,,TaxInclusive,SALTO XS4 2.0 ETHERNET AUX. CU,0,0,686.587,GST,0,,,,4806.11,14991.01,Closed
+Invoice,2022-03-09T00:00:00,JTW900582,,Culprit Security,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,482.9,GST,0,,,,7243.5,14991.01,Closed
+Invoice,2022-03-09T00:00:00,JTW900582,,Culprit Security,,TaxInclusive,SALTO MIFARE CARD 1K WHT - PUN,0,0,5.104,GST,0,,,,255.2,14991.01,Closed
+Invoice,2022-03-09T00:00:00,JTW900584,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,8393.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900584,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,88.0,GST,0,,,,440.0,8393.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900584,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,60.0,GST,0,,,,600.0,8393.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900584,,Access Hardware,,TaxInclusive,INSTALLATION ,0,0,6500.0,GST,0,,,,6500.0,8393.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900586,,Saints College,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,482.9,GST,0,,,,482.9,2218.4,Closed
+Invoice,2022-03-09T00:00:00,JTW900586,,Saints College,,TaxInclusive,LOX High Security Electric Str,0,0,302.5,GST,0,,,,302.5,2218.4,Closed
+Invoice,2022-03-09T00:00:00,JTW900586,,Saints College,,TaxInclusive,SALTO XS4 One Complimentary Es,0,0,168.0,GST,0,,,,168.0,2218.4,Closed
+Invoice,2022-03-09T00:00:00,JTW900586,,Saints College,,TaxInclusive,INSTALLATION ,0,0,594.0,GST,0,,,,594.0,2218.4,Closed
+Invoice,2022-03-09T00:00:00,JTW900586,,Saints College,,TaxInclusive,SALTO XS4 2.0 ETHERNET AUX. CU,0,0,671.0,GST,0,,,,671.0,2218.4,Closed
+Invoice,2022-03-09T00:00:00,JTW900585,,SALTO Systems Australia,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,451.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900585,,SALTO Systems Australia,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,451.0,Closed
+Invoice,2022-03-09T00:00:00,JTW900585,,SALTO Systems Australia,,TaxInclusive,DESCRIPTION,0,0,55.0,GST,0,,,,55.0,451.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1980.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,450.0,GST,0,,,,450.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,LOCKWOOD D/LATCH 530-12 SC 60M,0,0,72.93,GST,0,,,,729.3,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,"NEPTUNE Maglock Double Door, 2",0,0,325.0,GST,0,,,,325.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive," Maglock Single Door, 500kg, M",0,0,244.2,GST,0,,,,244.2,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive, NEPTUNE Packing Plate to suit,0,0,21.45,GST,0,,,,21.45,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,"Exit Button, Big Mushroom, Red",0,0,41.8,GST,0,,,,83.6,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,NEPTUNE RESETTABLE CALL POINT ,0,0,75.9,GST,0,,,,151.8,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,45.0,GST,0,,,,450.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,4K-2TB HIK  Easy IP Plug & ,0,0,679.8,GST,0,,,,679.8,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,Hikvision White Label 6MP Outd,0,0,192.5,GST,0,,,,962.5,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,Junction Box to suit DS-2CD23x,0,0,88.65,GST,0,,,,354.6,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,NEPTUNE POWER SUPPLY 5A IN MET,0,0,264.0,GST,0,,,,264.0,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900525,,SALTO Systems Australia,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,6819.45,Closed
+Invoice,2022-03-13T00:00:00,JTW900587,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,412.5,Closed
+Invoice,2022-03-13T00:00:00,JTW900587,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,412.5,Closed
+Invoice,2022-03-13T00:00:00,JTW900587,,Cardinia Shire Council,,TaxInclusive,LIW KEY SWITCH OVAL 2 SPRING R,0,0,214.5,GST,0,,,,214.5,412.5,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,Bluenet option per door ,0,0,88.0,GST,0,,,,1232.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,"PSS, Enclosure, Metal, Beige, ",0,0,396.0,GST,0,,,,396.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,INSTALLATION ,0,0,1800.0,GST,0,,,,1800.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,924.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO WIRELESS RF NODE suit V2,0,0,139.7,GST,0,,,,279.4,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,141.9,GST,0,,,,1135.2,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,878.79,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,"FES20M Strike, 1490kg, Aus. FP",0,0,314.6,GST,0,,,,314.6,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,FSH High Security Motorised Ho,0,0,949.3,GST,0,,,,949.3,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,NEPTUNE POWER SUPPLY 5A IN MET,0,0,264.0,GST,0,,,,264.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO XS4 2.0 ETHERNET AUX. CU,0,0,671.0,GST,0,,,,2013.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1233.1,GST,0,,,,2466.2,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,440.0,GST,0,,,,3520.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900589,,Lloyd Group,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,946.5,GST,0,,,,13251.0,29447.69,Closed
+Invoice,2022-03-13T00:00:00,JTW900590,,Lloyd Group,,TaxInclusive,SALTO XS4 ONE key overide Escu,0,0,889.295,GST,0,,,,889.3,1411.31,Closed
+Invoice,2022-03-13T00:00:00,JTW900590,,Lloyd Group,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,66.0,1411.31,Closed
+Invoice,2022-03-13T00:00:00,JTW900590,,Lloyd Group,,TaxInclusive,DESCRIPTION,0,0,259.0,GST,0,,,,259.0,1411.31,Closed
+Invoice,2022-03-13T00:00:00,JTW900590,,Lloyd Group,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,1411.31,Closed
+Invoice,2022-03-13T00:00:00,JTW900590,,Lloyd Group,,TaxInclusive,Bluenet option per door ,0,0,98.01,GST,0,,,,98.01,1411.31,Closed
+Invoice,2022-03-13T00:00:00,JTW900588,,Lloyd Group,,TaxInclusive,DESCRIPTION,0,0,2500.0,GST,0,,,,2500.0,2500.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900592,,Bunurong Land Council Aboriginal Corporation,,TaxInclusive,NCoder - Proximity card encode,0,0,983.675,GST,0,,,,983.68,1102.15,Closed
+Invoice,2022-03-13T00:00:00,JTW900592,,Bunurong Land Council Aboriginal Corporation,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,118.47,1102.15,Closed
+Invoice,2022-03-13T00:00:00,JTW900593,,Alpine Resorts Australia,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,165.0,GST,0,,,,165.0,280.5,Closed
+Invoice,2022-03-13T00:00:00,JTW900593,,Alpine Resorts Australia,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,280.5,Closed
+Invoice,2022-03-13T00:00:00,JTW900594,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900594,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900595,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900595,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-13T00:00:00,JTW900591,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER-P 2-Button Remote, Wi",0,0,48.0,GST,0,,,,1920.0,1920.0,Closed
+Invoice,2022-03-17T00:00:00,JTW900599,,Mentone Grammar,,TaxInclusive,Hikvision 6MP Outdoor Turret C,0,0,220.0,GST,0,,,,880.0,2552.0,Closed
+Invoice,2022-03-17T00:00:00,JTW900599,,Mentone Grammar,,TaxInclusive,INSTALLATION ,0,0,1440.0,GST,0,,,,1440.0,2552.0,Closed
+Invoice,2022-03-17T00:00:00,JTW900596,,API Services and Solutions Pty Limited,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,334.4,Closed
+Invoice,2022-03-17T00:00:00,JTW900596,,API Services and Solutions Pty Limited,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,135.0,334.4,Closed
+Invoice,2022-03-17T00:00:00,JTW900596,,API Services and Solutions Pty Limited,,TaxInclusive,STI BREAK GLASS RESETTABLE CAL,0,0,44.0,GST,0,,,,44.0,334.4,Closed
+Invoice,2022-03-17T00:00:00,JTW900596,,API Services and Solutions Pty Limited,,TaxInclusive,"Mushroom Exit Button, Stainles",0,0,35.0,GST,0,,,,35.0,334.4,Closed
+Invoice,2022-03-17T00:00:00,JTW900598,,Mater Christi College,,TaxInclusive,SALTO ISO MIFARE CARD 1K WHT P,0,0,183.0,GST,0,,,,183.0,201.3,Closed
+Invoice,2022-03-17T00:00:00,JTW900597,,API Services and Solutions Pty Limited,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-17T00:00:00,JTW900597,,API Services and Solutions Pty Limited,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,198.0,Closed
+Invoice,2022-03-18T00:00:00,JTW900600,,Priback Body Corporate Services VIC Office,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,871.2,Closed
+Invoice,2022-03-18T00:00:00,JTW900600,,Priback Body Corporate Services VIC Office,,TaxInclusive,Hikvision White Label 8ch PoE ,0,0,574.2,GST,0,,,,574.2,871.2,Closed
+Invoice,2022-03-18T00:00:00,JTW900600,,Priback Body Corporate Services VIC Office,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,871.2,Closed
+Invoice,2022-03-21T00:00:00,JTW900574,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,198.0,2132.0,Closed
+Invoice,2022-03-21T00:00:00,JTW900574,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,2132.0,Closed
+Invoice,2022-03-21T00:00:00,JTW900574,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,350.0,GST,0,,,,350.0,2132.0,Closed
+Invoice,2022-03-21T00:00:00,JTW900601,,Jet Charge ,,TaxInclusive,SALTO KS & SVN compatible Tags,0,0,95.0,GST,0,,,,190.0,197.5,Closed
+Invoice,2022-03-21T00:00:00,JTW900601,,Jet Charge ,,TaxInclusive,POSTAGE,0,0,7.5,GST,0,,,,7.5,197.5,Closed
+Invoice,2022-03-21T00:00:00,JTW900602,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,SALTO GEO CYL REMOVABLE KNOB T,0,0,19.79,GST,0,,,,19.79,30.02,Closed
+Invoice,2022-03-21T00:00:00,JTW900602,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,POSTAGE,0,0,7.5,GST,0,,,,7.5,30.02,Closed
+Invoice,2022-03-22T00:00:00,JTW900607,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900606,,API Services and Solutions Pty Limited,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,293.26,Closed
+Invoice,2022-03-22T00:00:00,JTW900606,,API Services and Solutions Pty Limited,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,293.26,Closed
+Invoice,2022-03-22T00:00:00,JTW900606,,API Services and Solutions Pty Limited,,TaxInclusive,CR123A BATTERY ,0,0,86.6,GST,0,,,,86.6,293.26,Closed
+Invoice,2022-03-22T00:00:00,JTW900605,,API Services and Solutions Pty Limited,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,297.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900605,,API Services and Solutions Pty Limited,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,180.0,297.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900604,,API Services and Solutions Pty Limited,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,649.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900604,,API Services and Solutions Pty Limited,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,135.0,649.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900604,,API Services and Solutions Pty Limited,,TaxInclusive,DESCRIPTION,0,0,365.0,GST,0,,,,365.0,649.0,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,801.0,GST,0,,,,5607.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,Bluenet option per door ,0,0,90.0,GST,0,,,,630.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,129.0,GST,0,,,,129.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,60.0,GST,0,,,,420.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,NODE INSTALL ,0,0,289.0,GST,0,,,,289.0,8046.5,Closed
+Invoice,2022-03-22T00:00:00,JTW900603,,Mentone Grammar,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,150.0,GST,0,,,,150.0,8046.5,Closed
+Invoice,2022-03-26T00:00:00,JTW90334,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-03-27T00:00:00,JTW900612,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,965.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900612,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,616.0,965.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900612,,Signal Security PTY LTD ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,100.0,GST,0,,,,100.0,965.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900612,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,150.0,GST,0,,,,150.0,965.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900611,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,187.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900611,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,88.0,187.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,6MP 16CH IP Turret-KIT-9 inclu,0,0,1797.3,GST,0,,,,1797.3,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,3168.0,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,450mm Deep Wall Mount Server R,0,0,265.0,GST,0,,,,265.0,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,4G ROUTER WITH WIFI AND 4 PORT,0,0,207.9,GST,0,,,,207.9,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,1000.0,GST,0,,,,1000.0,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,Junction Box to suit DS-2CD23x,0,0,35.0,GST,0,,,,280.0,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900613,,Cromwell Owners Corporation ,,TaxInclusive,DESCRIPTION,0,0,-218.2,GST,0,,,,-218.2,6500.0,Closed
+Invoice,2022-03-27T00:00:00,JTW900610,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900610,,Signal Security PTY LTD ,,TaxInclusive,3.6VDC/14AH LI-THIONYL CHLORID,0,0,45.54,GST,0,,,,45.54,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900610,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,88.0,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900609,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-03-27T00:00:00,JTW900609,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-03-27T00:00:00,JTW900609,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-03-27T00:00:00,JTW900608,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900608,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,88.0,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900608,,Signal Security PTY LTD ,,TaxInclusive,3.6VDC/14AH LI-THIONYL CHLORID,0,0,45.54,GST,0,,,,45.54,232.54,Closed
+Invoice,2022-03-27T00:00:00,JTW900614,,Andrew Maxwell,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,620.4,Closed
+Invoice,2022-03-27T00:00:00,JTW900614,,Andrew Maxwell,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,620.4,Closed
+Invoice,2022-03-27T00:00:00,JTW900614,,Andrew Maxwell,,TaxInclusive,NETGEAR 4-Stream AX1800 WiFi 6,0,0,273.9,GST,0,,,,273.9,620.4,Closed
+Invoice,2022-03-27T00:00:00,JTW90336,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-03-27T00:00:00,JTW90335,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-03-30T00:00:00,JTW900615,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,187.0,Closed
+Invoice,2022-03-30T00:00:00,JTW900615,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,88.0,GST,0,,,,88.0,187.0,Closed
+Invoice,2022-04-01T00:00:00,JTW90344,,Mater Christi College,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,135.3,148.83,Closed
+Invoice,2022-04-01T00:00:00,JTW90343,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-04-01T00:00:00,JTW90342,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-04-01T00:00:00,JTW90341,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-04-01T00:00:00,JTW90340,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-04-01T00:00:00,JTW90339,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-04-01T00:00:00,JTW90338,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-04-01T00:00:00,JTW90337,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-04-01T00:00:00,JTW90337,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900616,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,468.6,Closed
+Invoice,2022-04-04T00:00:00,JTW900616,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,12.0,GST,0,,,,336.0,468.6,Closed
+Invoice,2022-04-04T00:00:00,JTW900617,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,39.6,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900617,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,145.2,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900617,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900623,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,376.2,Closed
+Invoice,2022-04-04T00:00:00,JTW900623,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,198.0,376.2,Closed
+Invoice,2022-04-04T00:00:00,JTW900623,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,79.2,376.2,Closed
+Invoice,2022-04-04T00:00:00,JTW900618,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,165.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900618,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,39.6,165.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900618,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,26.4,165.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900619,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,79.2,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900619,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,105.6,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900619,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,283.8,Closed
+Invoice,2022-04-04T00:00:00,JTW900620,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,270.6,Closed
+Invoice,2022-04-04T00:00:00,JTW900620,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,52.8,270.6,Closed
+Invoice,2022-04-04T00:00:00,JTW900620,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,118.8,270.6,Closed
+Invoice,2022-04-04T00:00:00,JTW900621,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,125.4,Closed
+Invoice,2022-04-04T00:00:00,JTW900621,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,26.4,125.4,Closed
+Invoice,2022-04-04T00:00:00,JTW900622,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,495.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900622,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,105.6,495.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900622,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,290.4,495.0,Closed
+Invoice,2022-04-04T00:00:00,JTW900624,,Cardinia Shire Council,,TaxInclusive,XS4 MINI BATTERY CHANGE ,0,0,13.2,GST,0,,,,39.6,244.2,Closed
+Invoice,2022-04-04T00:00:00,JTW900624,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,105.6,244.2,Closed
+Invoice,2022-04-04T00:00:00,JTW900624,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,244.2,Closed
+Invoice,2022-04-05T00:00:00,JTW900625,,Mentone Grammar,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,118.47,118.47,Closed
+Invoice,2022-04-07T00:00:00,JTW900567,,Georgina Martina Inc.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6149.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900567,,Georgina Martina Inc.,,TaxInclusive,Hanwha Wisenet WAVE Embedded N,0,0,209.0,GST,0,,,,836.0,6149.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900567,,Georgina Martina Inc.,,TaxInclusive,"Hanwha Wisenet Wave Server, 8c",0,0,2640.0,GST,0,,,,2640.0,6149.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900567,,Georgina Martina Inc.,,TaxInclusive,6MP Network Turret Camera with,0,0,247.5,GST,0,,,,990.0,6149.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900567,,Georgina Martina Inc.,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,6149.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900627,,FIMMA Constructions,,TaxInclusive,*SpOrd* Press for Assistance B,0,0,160.21,GST,0,,,,160.21,160.21,Closed
+Invoice,2022-04-07T00:00:00,JTW900629,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,324.5,Closed
+Invoice,2022-04-07T00:00:00,JTW900629,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,324.5,Closed
+Invoice,2022-04-07T00:00:00,JTW900629,,Mentone Grammar,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,126.5,324.5,Closed
+Invoice,2022-04-07T00:00:00,JTW900630,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900630,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO PPD - USB PORTABLE PROGR,0,0,770.0,GST,0,,,,770.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO MIFARE USB CARD ENCODER,0,0,856.3636,GST,0,,,,856.36,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO ProAccess SPACE SW BASIC,0,0,734.5455,GST,0,,,,734.55,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,724.5455,GST,0,,,,13766.36,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,420.0,GST,0,,,,2940.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1040.0,GST,0,,,,1040.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Exit button, Heavy Duty Mushro",0,0,54.5455,GST,0,,,,163.64,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,ACSS LATCHING DURESS,0,0,34.5455,GST,0,,,,69.09,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive," DAHUA 43"" 1920x1080, LCD Moni",0,0,1080.0,GST,0,,,,1080.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Neptune Monitor Mount Bracket,",0,0,94.5455,GST,0,,,,94.55,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Hikvision 6MP Outdoor Turret C,0,0,184.5455,GST,0,,,,2768.18,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Neptune Top Hat Piezo Screamer,0,0,20.0,GST,0,,,,40.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,X2-SIREN-001,0,0,30.0,GST,0,,,,90.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"4-Port, ePoE, PoE+, Hi-PoE Swi",0,0,168.1818,GST,0,,,,336.36,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,1500.0,GST,0,,,,1500.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,INSTALLATION ,0,0,4550.0,GST,0,,,,4550.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Inception Controller Kit 5, Me",0,0,2200.0,GST,0,,,,2200.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,PADDE E/STRIKE ES2000-1 FAIL S,0,0,504.5455,GST,0,,,,1513.64,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Aten CL1316N 19"" LCD 16 Port K",0,0,2544.5455,GST,0,,,,2544.54,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Intel NUC Core i3 7th gen + 8G,0,0,1200.0,GST,0,,,,1200.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,SALTO XS4 2.0 ETHERNET AUX. CU,0,0,720.0,GST,0,,,,2160.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Single Bollard, Double Width B",0,0,770.0,GST,0,,,,1540.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Inception to T4000 Security Co,0,0,62.7273,GST,0,,,,62.73,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Multipath T4000 Lite 4G,0,0,220.9091,GST,0,,,,220.91,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,*SpOrd* Press for Assistance B,0,0,47.2727,GST,0,,,,283.64,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Amber Strobe, 12/24V DC, Water",0,0,20.0,GST,0,,,,40.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Weather Protective Box With Cl,0,0,86.3636,GST,0,,,,518.18,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,STI BREAK GLASS RESETTABLE CAL,0,0,43.6364,GST,0,,,,130.91,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Paradox Digigard High-Security,0,0,68.1818,GST,0,,,,272.73,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Hikvision 2nd Gen IP Intercom ,0,0,830.0,GST,0,,,,830.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Hikvision 2nd Gen IP Intercom,",0,0,910.0,GST,0,,,,910.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Hikvision 2nd Gen. Intercom, D",0,0,80.0,GST,0,,,,80.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,Fulleon Askari Panel White 32 ,0,0,320.0,GST,0,,,,320.0,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,DESCRIPTION,0,0,134.5455,GST,0,,,,134.54,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900626,,FIMMA Constructions,,TaxInclusive,"Hikvision 32ch NVR, 24 PoE Por",0,0,1524.5455,GST,0,,,,1524.55,52014.0,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,595.2,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,72.6,595.2,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,ELECTRIC MORTICE LOCKS,0,0,24.2,GST,0,,,,24.2,595.2,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,96.8,GST,0,,,,193.6,595.2,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,AHPTEBREAKGLASS,0,0,48.4,GST,0,,,,96.8,595.2,Closed
+Invoice,2022-04-07T00:00:00,JTW900631,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,109.0,GST,0,,,,109.0,595.2,Closed
+Invoice,2022-04-09T00:00:00,JTW900632,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,135.0,322.85,Closed
+Invoice,2022-04-09T00:00:00,JTW900632,,Cardinia Shire Council,,TaxInclusive,PUSH PLATE 21707NNSS,0,0,28.0,GST,0,,,,56.0,322.85,Closed
+Invoice,2022-04-09T00:00:00,JTW900632,,Cardinia Shire Council,,TaxInclusive,BDS FILLER PLATE FP3572 suit M,0,0,12.5,GST,0,,,,12.5,322.85,Closed
+Invoice,2022-04-09T00:00:00,JTW900632,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,322.85,Closed
+Invoice,2022-04-09T00:00:00,JTW900633,,Ram Locksmiths ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,150.0,GST,0,,,,150.0,3049.0,Closed
+Invoice,2022-04-09T00:00:00,JTW900633,,Ram Locksmiths ,,TaxInclusive,DESCRIPTION,0,0,105.0,GST,0,,,,105.0,3049.0,Closed
+Invoice,2022-04-09T00:00:00,JTW900633,,Ram Locksmiths ,,TaxInclusive,Hikvision 2nd Gen IP Intercom ,0,0,795.0,GST,0,,,,795.0,3049.0,Closed
+Invoice,2022-04-09T00:00:00,JTW900633,,Ram Locksmiths ,,TaxInclusive,INSTALLATION ,0,0,1900.0,GST,0,,,,1900.0,3049.0,Closed
+Invoice,2022-04-09T00:00:00,JTW900633,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,3049.0,Closed
+Invoice,2022-04-11T00:00:00,JTW900634,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-04-11T00:00:00,JTW900634,,Signal Security PTY LTD ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-04-13T00:00:00,JTW900635,,Catherine McAuley College,,TaxInclusive,POSTAGE,0,0,15.0,GST,0,,,,15.0,434.5,Closed
+Invoice,2022-04-13T00:00:00,JTW900635,,Catherine McAuley College,,TaxInclusive,AQUA KEYFOB MIFARE S50 1K BLUE,0,0,9.5,GST,0,,,,380.0,434.5,Closed
+Invoice,2022-04-25T00:00:00,JTW900564,,Georgina Martina Inc.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,7620.8,Closed
+Invoice,2022-04-25T00:00:00,JTW900564,,Georgina Martina Inc.,,TaxInclusive,"Hanwha Wisenet Wave Server, 16",0,0,4290.0,GST,0,,,,4290.0,7620.8,Closed
+Invoice,2022-04-25T00:00:00,JTW900564,,Georgina Martina Inc.,,TaxInclusive,Hanwha Wisenet WAVE Embedded N,0,0,218.9,GST,0,,,,2626.8,7620.8,Closed
+Invoice,2022-04-25T00:00:00,JTW900564,,Georgina Martina Inc.,,TaxInclusive,INSTALLATION ,0,0,605.0,GST,0,,,,605.0,7620.8,Closed
+Invoice,2022-04-25T00:00:00,JTW900568,,Georgina Martina Inc.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6149.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900568,,Georgina Martina Inc.,,TaxInclusive,Hanwha Wisenet WAVE Embedded N,0,0,209.0,GST,0,,,,836.0,6149.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900568,,Georgina Martina Inc.,,TaxInclusive,"Hanwha Wisenet Wave Server, 8c",0,0,2640.0,GST,0,,,,2640.0,6149.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900568,,Georgina Martina Inc.,,TaxInclusive,6MP Network Turret Camera with,0,0,247.5,GST,0,,,,990.0,6149.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900568,,Georgina Martina Inc.,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,6149.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900636,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,109.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900636,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,10.0,GST,0,,,,10.0,109.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900637,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,315.9,Closed
+Invoice,2022-04-25T00:00:00,JTW900637,,Access Hardware,,TaxInclusive,CBD PARKING ,0,0,20.0,GST,0,,,,20.0,315.9,Closed
+Invoice,2022-04-25T00:00:00,JTW900637,,Access Hardware,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,108.9,315.9,Closed
+Invoice,2022-04-25T00:00:00,JTW900637,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,44.0,GST,0,,,,44.0,315.9,Closed
+Invoice,2022-04-25T00:00:00,JTW900637,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,44.0,315.9,Closed
+Invoice,2022-04-25T00:00:00,JTW900638,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900638,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900644,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,231.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900644,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,132.0,231.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900646,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900646,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900646,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900647,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900647,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900647,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,3524.4,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,KABA LOCK SBM30 SC,0,0,187.0,GST,0,,,,187.0,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,SALTO KS IQ 2: Ethernet POE,0,0,358.215,GST,0,,,,716.43,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,SALTO BLOCKER PLATE suit Ax6 S,0,0,49.5,GST,0,,,,49.5,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,42.185,GST,0,,,,84.37,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,TERMINATE AND INSTALL SALTO ,0,0,86.3,GST,0,,,,172.6,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900643,,Jet Charge ,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,99.0,GST,0,,,,198.0,5031.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900648,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900648,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900648,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900642,,Parc Vue Hotel Management Pty Ltd,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900642,,Parc Vue Hotel Management Pty Ltd,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900649,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,187.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900649,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,187.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900641,,Freeman Locksmiths,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,300.0,GST,0,,,,300.0,1124.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900641,,Freeman Locksmiths,,TaxInclusive,Commax 2MP PoE surface mount d,0,0,399.5,GST,0,,,,399.5,1124.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900641,,Freeman Locksmiths,,TaxInclusive,SALTO CU INSTALL AND SET UP ,0,0,325.8,GST,0,,,,325.8,1124.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900641,,Freeman Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1124.3,Closed
+Invoice,2022-04-25T00:00:00,JTW900650,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900650,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900650,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-04-25T00:00:00,JTW900645,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,231.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900645,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,132.0,231.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900640,,Freeman Locksmiths,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,600.0,GST,0,,,,600.0,4664.4,Closed
+Invoice,2022-04-25T00:00:00,JTW900640,,Freeman Locksmiths,,TaxInclusive,SALTO LOCK COMMISSIONING ,0,0,9.9,GST,0,,,,158.4,4664.4,Closed
+Invoice,2022-04-25T00:00:00,JTW900640,,Freeman Locksmiths,,TaxInclusive,NODE INSTALL ,0,0,141.0,GST,0,,,,705.0,4664.4,Closed
+Invoice,2022-04-25T00:00:00,JTW900640,,Freeman Locksmiths,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,357.5,GST,0,,,,2145.0,4664.4,Closed
+Invoice,2022-04-25T00:00:00,JTW900640,,Freeman Locksmiths,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,1056.0,4664.4,Closed
+Invoice,2022-04-25T00:00:00,JTW900652,,Bunurong Land Council Aboriginal Corporation,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,592.35,592.35,Closed
+Invoice,2022-04-25T00:00:00,JTW900651,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900651,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900639,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1683.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900639,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,1683.0,Closed
+Invoice,2022-04-25T00:00:00,JTW900639,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,SALTO NEO Australian oval prof,0,0,742.5,GST,0,,,,1485.0,1683.0,Closed
+Invoice,2022-04-25T00:00:00,JTW90345,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-04-26T00:00:00,JTW90348,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-04-26T00:00:00,JTW90347,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-04-26T00:00:00,JTW90346,,Kilvington Grammar School,,TaxInclusive,GSM ALARM MONITORING ,0,0,95.0,GST,0,,,,285.0,285.0,Closed
+Invoice,2022-04-28T00:00:00,JTW900653,,South Yarra Presbyterian Church,,TaxInclusive,DORMA CLOSER TS83 EN3-6 SIL B/,0,0,432.168,GST,0,,,,432.17,580.67,Closed
+Invoice,2022-04-28T00:00:00,JTW900653,,South Yarra Presbyterian Church,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,580.67,Closed
+Invoice,2022-05-01T00:00:00,JTW900565,,Georgina Martina Inc.,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,5406.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900565,,Georgina Martina Inc.,,TaxInclusive,Hanwha Wisenet WAVE Embedded N,0,0,209.0,GST,0,,,,836.0,5406.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900565,,Georgina Martina Inc.,,TaxInclusive,"Hanwha Wisenet Wave Server, 8c",0,0,2640.0,GST,0,,,,2640.0,5406.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900565,,Georgina Martina Inc.,,TaxInclusive,6MP Network Turret Camera with,0,0,247.5,GST,0,,,,247.5,5406.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900565,,Georgina Martina Inc.,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,1584.0,5406.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900654,,Live Volts Electrical ,,TaxInclusive,DESCRIPTION,0,0,1000.0,GST,0,,,,1000.0,1000.0,Closed
+Invoice,2022-05-01T00:00:00,JTW90356,,Teresa Congiu,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,492.0,541.2,Closed
+Invoice,2022-05-01T00:00:00,JTW90355,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-05-01T00:00:00,JTW90354,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-05-01T00:00:00,JTW90353,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-05-01T00:00:00,JTW90352,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-05-01T00:00:00,JTW90351,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-05-01T00:00:00,JTW90350,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive,Hikvision 4MP 180deg Indoor Wi,0,0,270.0,GST,0,,,,270.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive,Telescopic Flat TV Ceiling Mou,0,0,45.0,GST,0,,,,45.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive," DAHUA 43"" 1920x1080, LCD Moni",0,0,810.0,GST,0,,,,810.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,360.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW900658,,Mentone Grammar,,TaxInclusive,DESCRIPTION,0,0,396.0,GST,0,,,,396.0,2168.1,Closed
+Invoice,2022-05-01T00:00:00,JTW90349,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-05-01T00:00:00,JTW90349,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-05-01T00:00:00,JTW900656,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,247.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900656,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,247.5,Closed
+Invoice,2022-05-01T00:00:00,JTW900655,,Andrew Maxwell,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,735.45,Closed
+Invoice,2022-05-01T00:00:00,JTW900655,,Andrew Maxwell,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,735.45,Closed
+Invoice,2022-05-01T00:00:00,JTW900655,,Andrew Maxwell,,TaxInclusive,WALL PLATE AND RJ45 KEYSTONE ,0,0,38.5,GST,0,,,,38.5,735.45,Closed
+Invoice,2022-05-01T00:00:00,JTW900655,,Andrew Maxwell,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,735.45,Closed
+Invoice,2022-05-01T00:00:00,JTW900655,,Andrew Maxwell,,TaxInclusive,4G ROUTER WITH WIFI AND 4 PORT,0,0,102.95,GST,0,,,,102.95,735.45,Closed
+Invoice,2022-05-01T00:00:00,JTW900657,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,294.8,Closed
+Invoice,2022-05-01T00:00:00,JTW900657,,Mentone Grammar,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,184.8,294.8,Closed
+Invoice,2022-05-01T00:00:00,JTW900657,,Mentone Grammar,,TaxInclusive,CR123A BATTERY ,0,0,11.0,GST,0,,,,11.0,294.8,Closed
+Invoice,2022-05-04T00:00:00,JTW900662,,Beaumaris Secondary College,,TaxInclusive,INSTALLATION ,0,0,4130.0,GST,0,,,,4130.0,4920.2,Closed
+Invoice,2022-05-04T00:00:00,JTW900662,,Beaumaris Secondary College,,TaxInclusive,"Cat6 Ultra-Thin Patch Lead, 25",0,0,11.5,GST,0,,,,161.0,4920.2,Closed
+Invoice,2022-05-04T00:00:00,JTW900662,,Beaumaris Secondary College,,TaxInclusive,CAT6 RJ45 24 Port Loaded Patch,0,0,157.3,GST,0,,,,629.2,4920.2,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,"Paradox EVO192 Kit, EVO192 PCB",0,0,396.0,GST,0,,,,396.0,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,"Paradox TM70 7"" Touchscreen Ke",0,0,305.8,GST,0,,,,305.8,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,8-Zone Powered Bus Expander Ki,0,0,215.6,GST,0,,,,215.6,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,"Wireless Expansion Module ""RX ",0,0,195.8,GST,0,,,,195.8,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,Digigard Quad Element Digital ,0,0,36.3,GST,0,,,,181.5,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,Magellan 2-Way Wireless PGM,0,0,129.0,GST,0,,,,129.0,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,"Hikvision 16ch PoE NVR, 160Mbp",0,0,1138.5,GST,0,,,,1138.5,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,Hikvision White Label 6MP Outd,0,0,192.5,GST,0,,,,1155.0,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,"Hikvision 128GB Micro SDXC, Cl",0,0,82.0,GST,0,,,,574.0,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,INSTALLATION ,0,0,3168.0,GST,0,,,,3168.0,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,Paradox IP150 V4 Internet Modu,0,0,199.6,GST,0,,,,199.6,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900659,,Matt Barker,,TaxInclusive,PDX-SB469,0,0,10.34,GST,0,,,,62.04,7720.84,Closed
+Invoice,2022-05-04T00:00:00,JTW900661,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,594.0,Closed
+Invoice,2022-05-04T00:00:00,JTW900661,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,594.0,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2745.4,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,439.4,2745.4,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,815.0,GST,0,,,,1630.0,2745.4,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,Bluenet option per door ,0,0,125.0,GST,0,,,,250.0,2745.4,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,132.0,2745.4,Closed
+Invoice,2022-05-04T00:00:00,JTW900660,,Mater Christi College,,TaxInclusive,GATEWAY INSTALL ,0,0,195.0,GST,0,,,,195.0,2745.4,Closed
+Invoice,2022-05-06T00:00:00,JTW900663r1,,Freeman Locksmiths,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,381.56,Closed
+Invoice,2022-05-06T00:00:00,JTW900663r1,,Freeman Locksmiths,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,381.56,Closed
+Invoice,2022-05-06T00:00:00,JTW900663r1,,Freeman Locksmiths,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,87.56,GST,0,,,,87.56,381.56,Closed
+Invoice,2022-05-06T00:00:00,JTW900663r1,,Freeman Locksmiths,,TaxInclusive,DISCOUNT ,0,0,-300.0,GST,0,,,,-300.0,381.56,Closed
+Invoice,2022-05-09T00:00:00,JTW900664,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900665,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,257.4,Closed
+Invoice,2022-05-10T00:00:00,JTW900665,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,158.4,257.4,Closed
+Invoice,2022-05-10T00:00:00,JTW900666,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,165.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900666,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,66.0,165.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900667,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,250.8,349.8,Closed
+Invoice,2022-05-10T00:00:00,JTW900667,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,349.8,Closed
+Invoice,2022-05-10T00:00:00,JTW900669,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,277.2,376.2,Closed
+Invoice,2022-05-10T00:00:00,JTW900669,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,376.2,Closed
+Invoice,2022-05-10T00:00:00,JTW900670,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,244.2,Closed
+Invoice,2022-05-10T00:00:00,JTW900670,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,145.2,244.2,Closed
+Invoice,2022-05-10T00:00:00,JTW900671,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,402.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900671,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,303.6,402.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,Paradox SP5500 Insite Gold IP ,0,0,718.3,GST,0,,,,718.3,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,"Wireless Expansion Module ""RX ",0,0,195.8,GST,0,,,,195.8,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,Paradox Two Way Wireless Remot,0,0,69.3,GST,0,,,,277.2,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,Magellan 2-Way Wireless PGM,0,0,121.0,GST,0,,,,121.0,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,396.0,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,"Paradox TM50 5"" Touchscreen Ke",0,0,278.3,GST,0,,,,278.3,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900672,,Mark Douglas Werribee ,,TaxInclusive,DESCRIPTION,0,0,200.0,GST,0,,,,200.0,2285.6,Closed
+Invoice,2022-05-10T00:00:00,JTW900674,,NEXTFORM ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,506.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900674,,NEXTFORM ,,TaxInclusive,"BOSCH, Proximity key tag, Blac",0,0,15.4,GST,0,,,,308.0,506.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900674,,NEXTFORM ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,506.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900673,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,528.5,Closed
+Invoice,2022-05-10T00:00:00,JTW900673,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,528.5,Closed
+Invoice,2022-05-10T00:00:00,JTW900673,,Cardinia Shire Council,,TaxInclusive,CAVLOCK SL/DOOR LOCK CL100 CL1,0,0,281.0,GST,0,,,,281.0,528.5,Closed
+Invoice,2022-05-10T00:00:00,JTW900668,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,165.0,Closed
+Invoice,2022-05-10T00:00:00,JTW900668,,Cardinia Shire Council,,TaxInclusive,XS4 ONE BATTERY CHANGE AND PP,0,0,13.2,GST,0,,,,66.0,165.0,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,INSTALLATION ,0,0,99.0,GST,0,,,,198.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,396.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO WIRELESS RF NODE suit BL,0,0,141.9,GST,0,,,,141.9,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,439.4,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,594.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,NOVA PANIC BOLT 1791x300 SSS,0,0,55.88,GST,0,,,,111.76,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,253.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,0,42.185,GST,0,,,,42.18,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,ADI COVER PLATE suit SALTO XS4,0,0,29.7,GST,0,,,,148.5,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,627.88,GST,0,,,,3139.4,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,CAVLOCK SL/DOOR LOCK CL100 CL1,0,0,231.0,GST,0,,,,231.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,785.0,GST,0,,,,785.0,6876.14,Closed
+Invoice,2022-05-12T00:00:00,JTW900675,,Nossal High School,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,6876.14,Closed
+Invoice,2022-05-15T00:00:00,JTW900677,,Mentone Grammar,,TaxInclusive,MIFARE 1K STICKER WHT PKT=20,0,0,110.0,GST,0,,,,110.0,228.47,Closed
+Invoice,2022-05-15T00:00:00,JTW900677,,Mentone Grammar,,TaxInclusive,SALTO MIFARE 1K FOB BLU FRAME ,0,0,118.47,GST,0,,,,118.47,228.47,Closed
+Invoice,2022-05-15T00:00:00,JTW900676,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,443.5,Closed
+Invoice,2022-05-15T00:00:00,JTW900676,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,443.5,Closed
+Invoice,2022-05-15T00:00:00,JTW900676,,CHRIST CHURCH GRAMMAR SCHOOL,,TaxInclusive,LOCKWOOD 3782 UNIVERSAL PRIMAR,0,0,196.0,GST,0,,,,196.0,443.5,Closed
+Invoice,2022-05-16T00:00:00,JTW900680,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900680,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900680,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900679,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900679,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900679,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900678,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,363.0,Closed
+Invoice,2022-05-16T00:00:00,JTW900678,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,264.0,363.0,Closed
+Invoice,2022-05-16T00:00:00,JTW900681,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,187.0,Closed
+Invoice,2022-05-16T00:00:00,JTW900681,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,187.0,Closed
+Invoice,2022-05-16T00:00:00,JTW900682,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900682,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-05-16T00:00:00,JTW900682,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-05-17T00:00:00,JTW900683,,Cardinia Shire Council,,TaxInclusive,ADI COVER PLATE suit SALTO XS4,0,0,55.0,GST,0,,,,110.0,1343.0,Closed
+Invoice,2022-05-17T00:00:00,JTW900683,,Cardinia Shire Council,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,30.0,GST,0,,,,60.0,1343.0,Closed
+Invoice,2022-05-17T00:00:00,JTW900683,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 BLE MINI AUS.MORTICE,0,0,537.0,GST,0,,,,1074.0,1343.0,Closed
+Invoice,2022-05-17T00:00:00,JTW900683,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1343.0,Closed
+Invoice,2022-05-18T00:00:00,JTW900685,,Saints College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,1393.94,Closed
+Invoice,2022-05-18T00:00:00,JTW900685,,Saints College,,TaxInclusive,DESCRIPTION,0,0,75.0,GST,0,,,,150.0,1393.94,Closed
+Invoice,2022-05-18T00:00:00,JTW900685,,Saints College,,TaxInclusive,SPACE OPTION 32 ALARM REPORTIN,0,0,1045.935,GST,0,,,,1045.94,1393.94,Closed
+Invoice,2022-05-18T00:00:00,JTW900684,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1128.6,Closed
+Invoice,2022-05-18T00:00:00,JTW900684,,Access Hardware,,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,0,66.0,GST,0,,,,462.0,1128.6,Closed
+Invoice,2022-05-18T00:00:00,JTW900684,,Access Hardware,,TaxInclusive,NODE INSTALL ,0,0,44.0,GST,0,,,,264.0,1128.6,Closed
+Invoice,2022-05-18T00:00:00,JTW900684,,Access Hardware,,TaxInclusive,GATEWAY INSTALL ,0,0,44.0,GST,0,,,,44.0,1128.6,Closed
+Invoice,2022-05-18T00:00:00,JTW900684,,Access Hardware,,TaxInclusive,DESCRIPTION,0,0,259.6,GST,0,,,,259.6,1128.6,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,INSTALLATION ,0,0,1884.0,GST,0,,,,1884.0,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,3TB HDD - Surveillance HDD for,0,0,270.6,GST,0,,,,270.6,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,Paradox IP150 V4 Internet Modu,0,0,149.6,GST,0,,,,149.6,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,"X2 Reed, Mini Heavy Duty Metal",0,0,22.0,GST,0,,,,132.0,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,Universal roller shutter door ,0,0,24.2,GST,0,,,,72.6,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,PDX-SB469,0,0,10.34,GST,0,,,,93.06,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,Digigard Quad Element Digital ,0,0,46.3,GST,0,,,,324.1,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,"Paradox TM50 5"" Touchscreen Ke",0,0,278.3,GST,0,,,,556.6,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,"Paradox SP7000 Kit, DG65s WP S",0,0,523.5,GST,0,,,,523.5,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,6MP AcuSense 8CH IP Turret-KIT,0,0,164.0,GST,0,,,,984.0,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,6MP 16CH IP Turret-KIT-9 inclu,0,0,1797.3,GST,0,,,,1797.3,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900686,,Reading Electrical,,TaxInclusive,Branded 21.5 - 22 inch Monitor,0,0,120.0,GST,0,,,,120.0,6907.36,Closed
+Invoice,2022-05-22T00:00:00,JTW900687,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,482.0,Closed
+Invoice,2022-05-22T00:00:00,JTW900687,,Cardinia Shire Council,,TaxInclusive,LOCKWOOD 3782 UNIVERSAL PRIMAR,0,0,185.0,GST,0,,,,185.0,482.0,Closed
+Invoice,2022-05-22T00:00:00,JTW900687,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,482.0,Closed
+Invoice,2022-05-25T00:00:00,JTW900688,,Michelle Klein,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,180.0,GST,0,,,,180.0,180.0,Closed
+Invoice,2022-05-25T00:00:00,JTW90357,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-05-26T00:00:00,JTW90359,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-05-26T00:00:00,JTW90358,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1200.0,GST,0,,,,1200.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,SALTO XS4 2.0 ETHERNET AUX. CU,0,0,610.0,GST,0,,,,1220.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,NEPTUNE POWER SUPPLY 5A IN MET,0,0,240.0,GST,0,,,,240.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,22.0,GST,0,,,,22.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,INSTALLATION ,0,0,1440.0,GST,0,,,,1440.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,SALTO MODULAR WALL READER 2.0 ,0,0,476.0,GST,0,,,,2856.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900689,,Saints College,,TaxInclusive,SALTO WALL READER ANTI VANDAL ,0,0,87.0,GST,0,,,,522.0,8349.0,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,5733.2,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,Integriti/Inception 32 Zone LA,0,0,1492.0,GST,0,,,,1492.0,5733.2,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,Inception to T4000 Security Co,0,0,63.0,GST,0,,,,63.0,5733.2,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,"Inception Controller Kit 5, Me",0,0,2500.0,GST,0,,,,2500.0,5733.2,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,IR EliteX OLED Keypad,0,0,275.0,GST,0,,,,275.0,5733.2,Closed
+Invoice,2022-05-27T00:00:00,JTW900690,,Cardinia Shire Council,,TaxInclusive,1 HOUR LABOUR,0,0,99.0,GST,0,,,,792.0,5733.2,Closed
+Invoice,2022-05-29T00:00:00,JTW90361,,Amit ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2022-05-29T00:00:00,JTW90360,,Texco Contracting Pty Ltd ,,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900691,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,228.8,Closed
+Invoice,2022-05-30T00:00:00,JTW900691,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,228.8,Closed
+Invoice,2022-05-30T00:00:00,JTW900691,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,3.3,GST,0,,,,36.3,228.8,Closed
+Invoice,2022-05-30T00:00:00,JTW900691,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,5.5,GST,0,,,,5.5,228.8,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3582 SC ,0,0,189.2,GST,0,,,,189.2,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,99.0,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,LOCKWOOD D/LATCH 530-12 SC 60M,0,0,72.93,GST,0,,,,72.93,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900695,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,1440.23,Closed
+Invoice,2022-05-30T00:00:00,JTW900694,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1507.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900694,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,704.0,1507.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900694,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,704.0,1507.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900693,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1551.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900693,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,792.0,1551.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900693,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,660.0,1551.0,Closed
+Invoice,2022-05-30T00:00:00,JTW900692,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,273.24,Closed
+Invoice,2022-05-30T00:00:00,JTW900692,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,273.24,Closed
+Invoice,2022-05-30T00:00:00,JTW900692,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,5.5,GST,0,,,,16.5,273.24,Closed
+Invoice,2022-05-30T00:00:00,JTW900692,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,273.24,Closed
+Invoice,2022-05-30T00:00:00,JTW900692,,Signal Security PTY LTD ,,TaxInclusive,3.6VDC/14AH LI-THIONYL CHLORID,0,0,45.54,GST,0,,,,45.54,273.24,Closed
+Invoice,2022-05-31T00:00:00,JTW900696,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,396.0,GST,0,,,,396.0,396.0,Closed
+Invoice,2022-05-31T00:00:00,JTW900697,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,237.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900697,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,237.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900697,,Signal Security PTY LTD ,,TaxInclusive,12V DC 1500mA SM PSU Plug Pack,0,0,26.0,GST,0,,,,26.0,237.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900697,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,237.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900698,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,236.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900698,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,236.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900698,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,236.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900698,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,5.5,GST,0,,,,22.0,236.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900698,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,3.3,GST,0,,,,3.3,236.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900699,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,291.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900699,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,132.0,291.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900699,,Signal Security PTY LTD ,,TaxInclusive,Digigard Quad Element Digital ,0,0,36.3,GST,0,,,,36.3,291.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900699,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,291.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900699,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,0.0,GST,0,,,,0.0,291.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,INSTALL CONTROL UNIT ,0,0,150.8,GST,0,,,,1357.2,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,INSTALL ACCESS CONTROL ,0,0,36.3,GST,0,,,,544.5,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,SALTO LOCK COMMISSIONING ,0,0,390.0,GST,0,,,,390.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,DOUBLE MAG LOCK INSTALL,0,0,88.0,GST,0,,,,352.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,AHPTEBREAKGLASS,0,0,55.0,GST,0,,,,330.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,ELECTRIC MORTICE LOCKS,0,0,24.2,GST,0,,,,290.4,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,DESCRIPTION,0,0,25.0,GST,0,,,,75.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,DESCRIPTION,0,0,22.0,GST,0,,,,264.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,"Tactical Relay Board, 12VDC, S",0,0,24.2,GST,0,,,,96.8,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900700,,Culprit Security,,TaxInclusive,DESCRIPTION,0,0,6.0,GST,0,,,,30.0,3828.9,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,881.1,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,CAVLOCK SL/DOOR LOCK CL100 CL1,0,0,231.0,GST,0,,,,231.0,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,0,439.395,GST,0,,,,439.4,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,Bluenet option per door ,0,0,99.0,GST,0,,,,99.0,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900701,,Mater Christi College,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,495.0,2244.5,Closed
+Invoice,2022-05-31T00:00:00,JTW900703,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900703,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900703,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-05-31T00:00:00,JTW900702,,Texco Contracting Pty Ltd ,,TaxInclusive,MIFARE 1k 13.56MHz CARD TSEC,0,0,14.85,GST,0,,,,222.75,222.75,Closed
+Invoice,2022-06-01T00:00:00,JTW900704,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,540.0,1380.5,Closed
+Invoice,2022-06-01T00:00:00,JTW900704,,Mentone Grammar,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,300.0,GST,0,,,,300.0,1380.5,Closed
+Invoice,2022-06-01T00:00:00,JTW900704,,Mentone Grammar,,TaxInclusive,Concept LAN Over Ethernet Conv,0,0,325.0,GST,0,,,,325.0,1380.5,Closed
+Invoice,2022-06-01T00:00:00,JTW900704,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,1380.5,Closed
+Invoice,2022-06-01T00:00:00,JTW90367,,MBE POINT COOK,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2022-06-01T00:00:00,JTW90366,,New Plumbing Solutions ,,TaxInclusive,GSM ALARM MONITORING ,0,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2022-06-01T00:00:00,JTW90365,,Ausgroup Alliance,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2022-06-01T00:00:00,JTW90363,,Marcel Harvey,,TaxInclusive,GSM ALARM MONITORING ,0,0,28.0,GST,0,,,,28.0,30.8,Closed
+Invoice,2022-06-01T00:00:00,JTW90362,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-06-01T00:00:00,JTW90362,,Locksmith Services ,,TaxInclusive,GSM ALARM MONITORING ,0,0,45.0,GST,0,,,,45.0,99.0,Closed
+Invoice,2022-06-01T00:00:00,JTW90368,,Brunswick Ex-Wool Mills,,TaxInclusive,GSM ALARM MONITORING ,0,0,44.0,GST,0,,,,44.0,44.0,Closed
+Invoice,2022-06-01T00:00:00,JTW90364,,DINEAMIC,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2022-06-02T00:00:00,JTW900706,,Jet Charge ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1188.6,Closed
+Invoice,2022-06-02T00:00:00,JTW900706,,Jet Charge ,,TaxInclusive,DORMAKABA MS2602 CLASSROOM LOC,0,0,345.0,GST,0,,,,690.0,1188.6,Closed
+Invoice,2022-06-02T00:00:00,JTW900706,,Jet Charge ,,TaxInclusive,BRAVA METRO CYL 5070 SC KA1 w/,0,0,19.8,GST,0,,,,39.6,1188.6,Closed
+Invoice,2022-06-02T00:00:00,JTW900706,,Jet Charge ,,TaxInclusive,BDS FILLER PLATE FP201 suit 20,0,0,15.0,GST,0,,,,60.0,1188.6,Closed
+Invoice,2022-06-02T00:00:00,JTW900706,,Jet Charge ,,TaxInclusive,INSTALLATION ,0,0,300.0,GST,0,,,,300.0,1188.6,Closed
+Invoice,2022-06-02T00:00:00,JTW900705,,Jet Charge ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,337.33,Closed
+Invoice,2022-06-02T00:00:00,JTW900705,,Jet Charge ,,TaxInclusive,LOCK FOCUS BARREL EXCH DRAWER ,0,0,19.5,GST,0,,,,39.0,337.33,Closed
+Invoice,2022-06-02T00:00:00,JTW900705,,Jet Charge ,,TaxInclusive,DALCO BARREL BOLT NECKED 1731x,0,0,17.0,GST,0,,,,68.0,337.33,Closed
+Invoice,2022-06-02T00:00:00,JTW900705,,Jet Charge ,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,337.33,Closed
+Invoice,2022-06-02T00:00:00,JTW900705,,Jet Charge ,,TaxInclusive,LOCK FOCUS BARREL EXCH LF37 XT,0,0,9.83,GST,0,,,,19.66,337.33,Closed
+Invoice,2022-06-03T00:00:00,JTW900707,,Mater Christi College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,88.0,GST,0,,,,88.0,88.0,Closed
+Invoice,2022-06-03T00:00:00,JTW900708,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,297.0,Closed
+Invoice,2022-06-03T00:00:00,JTW900708,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,198.0,297.0,Closed
+Invoice,2022-06-03T00:00:00,JTW900709,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-06-03T00:00:00,JTW900709,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,99.0,198.0,Closed
+Invoice,2022-06-03T00:00:00,JTW900710,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,219.2,Closed
+Invoice,2022-06-03T00:00:00,JTW900710,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,219.2,Closed
+Invoice,2022-06-03T00:00:00,JTW900710,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,219.2,Closed
+Invoice,2022-06-03T00:00:00,JTW900710,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,4.0,GST,0,,,,8.0,219.2,Closed
+Invoice,2022-06-03T00:00:00,JTW900711,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,252.45,Closed
+Invoice,2022-06-03T00:00:00,JTW900711,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,252.45,Closed
+Invoice,2022-06-03T00:00:00,JTW900711,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,252.45,Closed
+Invoice,2022-06-03T00:00:00,JTW900711,,Signal Security PTY LTD ,,TaxInclusive,AAA Battery,0,0,2.75,GST,0,,,,41.25,252.45,Closed
+Invoice,2022-06-06T00:00:00,JTW900712,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,231.0,Closed
+Invoice,2022-06-06T00:00:00,JTW900712,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,132.0,231.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900713,,Alpine Resorts Australia,,TaxInclusive,SALTO XS4 ONE BLE ESCUTCHEON w,0,0,881.1,GST,0,,,,1762.2,2427.7,Closed
+Invoice,2022-06-07T00:00:00,JTW900713,,Alpine Resorts Australia,,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,0,126.5,GST,0,,,,253.0,2427.7,Closed
+Invoice,2022-06-07T00:00:00,JTW900713,,Alpine Resorts Australia,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,165.0,GST,0,,,,165.0,2427.7,Closed
+Invoice,2022-06-07T00:00:00,JTW900713,,Alpine Resorts Australia,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,247.5,2427.7,Closed
+Invoice,2022-06-07T00:00:00,JTW900715,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900715,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900716,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,247.5,Closed
+Invoice,2022-06-07T00:00:00,JTW900716,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,148.5,247.5,Closed
+Invoice,2022-06-07T00:00:00,JTW900717,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,1233.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900717,,Mentone Grammar,,TaxInclusive,Hikvision White Label 6MP Outd,0,0,192.5,GST,0,,,,385.0,1233.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900717,,Mentone Grammar,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,100.0,GST,0,,,,100.0,1233.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900717,,Mentone Grammar,,TaxInclusive,INSTALLATION ,0,0,649.0,GST,0,,,,649.0,1233.0,Closed
+Invoice,2022-06-07T00:00:00,JTW900714,,Access Hardware,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,445.5,Closed
+Invoice,2022-06-07T00:00:00,JTW900714,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,346.5,445.5,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,Integriti/Inception SLAM 2 Doo,0,0,961.4,GST,0,,,,961.4,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER Smart Card Reader, OS",0,0,165.0,GST,0,,,,330.0,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,DH-IPC-HDW3549HP-AS-PV-0280B-S,0,0,359.7,GST,0,,,,359.7,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,400.0,GST,0,,,,400.0,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,FSH E/STRIKE FES20 12/24v PTL/,0,0,288.09,GST,0,,,,288.09,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900721,,Body Corporate Strata Group  ,,TaxInclusive,INSTALLATION ,0,0,2178.0,GST,0,,,,2178.0,4517.19,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,"FES20M Strike, 1490kg, Aus. FP",0,0,314.6,GST,0,,,,2202.2,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,INSTALLATION ,0,0,3960.0,GST,0,,,,3960.0,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,590.0,GST,0,,,,590.0,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,"IR SIFER Smart Card Reader, OS",0,0,165.0,GST,0,,,,1155.0,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,Integriti/Inception SLAM 4 Doo,0,0,1746.7,GST,0,,,,3493.4,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900720,,Body Corporate Strata Group  ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,11499.6,Closed
+Invoice,2022-06-08T00:00:00,JTW900719,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,514.14,Closed
+Invoice,2022-06-08T00:00:00,JTW900719,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,514.14,Closed
+Invoice,2022-06-08T00:00:00,JTW900719,,Signal Security PTY LTD ,,TaxInclusive,2-Way Wireless Outdoor Siren W,0,0,281.6,GST,0,,,,281.6,514.14,Closed
+Invoice,2022-06-08T00:00:00,JTW900719,,Signal Security PTY LTD ,,TaxInclusive,3.6VDC/14AH LI-THIONYL CHLORID,0,0,45.54,GST,0,,,,45.54,514.14,Closed
+Invoice,2022-06-08T00:00:00,JTW900718,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,211.2,Closed
+Invoice,2022-06-08T00:00:00,JTW900718,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,88.0,211.2,Closed
+Invoice,2022-06-08T00:00:00,JTW900718,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,24.2,GST,0,,,,24.2,211.2,Closed
+Invoice,2022-06-09T00:00:00,JTW900722,,Mentone Grammar,,TaxInclusive,AFTER HOURS ONSITE  CHARGE,0,0,137.5,GST,0,,,,137.5,297.0,Closed
+Invoice,2022-06-09T00:00:00,JTW900722,,Mentone Grammar,,TaxInclusive,AFTER HOURS LABOUR,0,0,115.5,GST,0,,,,115.5,297.0,Closed
+Invoice,2022-06-09T00:00:00,JTW900722,,Mentone Grammar,,TaxInclusive,CR123A BATTERY ,0,0,11.0,GST,0,,,,44.0,297.0,Closed
+Invoice,2022-06-09T00:00:00,JTW900723,,Dave Martin ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,700.0,GST,0,,,,700.0,850.0,Closed
+Invoice,2022-06-09T00:00:00,JTW900723,,Dave Martin ,,TaxInclusive,"HIKVISION, 6MP HD-IP Outdoor T",0,0,150.0,GST,0,,,,150.0,850.0,Closed
+Invoice,2022-06-14T00:00:00,JTW900724,,Swiss Club of Victoria,,TaxInclusive,VOUCHKSM,0,0,341.0,GST,0,,,,341.0,341.0,Closed
+Invoice,2022-06-14T00:00:00,JTW900725,,Cardinia Shire Council,,TaxInclusive,XS4 Locker Lock contactless BL,0,0,277.0,GST,0,,,,83931.0,92324.1,Closed
+Invoice,2022-06-14T00:00:00,JTW900727,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,495.0,Closed
+Invoice,2022-06-14T00:00:00,JTW900727,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,360.0,495.0,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,AFTER HOURS ONSITE  CHARGE,0,0,125.0,GST,0,,,,125.0,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,AFTER HOURS LABOUR,0,0,105.0,GST,0,,,,210.0,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,0,1097.336,GST,0,,,,1097.34,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 2.0 Mullion Reader i,0,0,394.7,GST,0,,,,394.7,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,SALTO XS4 2.0 WRD BLE DESfire ,0,0,786.93,GST,0,,,,786.93,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,3073.36,Closed
+Invoice,2022-06-14T00:00:00,JTW900726,,Cardinia Shire Council,,TaxInclusive,1 HOURS LABOUR,0,0,90.0,GST,0,,,,90.0,3073.36,Closed
+Invoice,2022-06-15T00:00:00,JTW900729,,Brunswick Ex-Wool Mills,,TaxInclusive,VOUCHKSM,0,0,341.0,GST,0,,,,341.0,341.0,Closed
+Invoice,2022-06-15T00:00:00,JTW900728,,Ram Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,396.0,Closed
+Invoice,2022-06-15T00:00:00,JTW900728,,Ram Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,396.0,Closed
+Invoice,2022-06-17T00:00:00,JTW900730,,Rodd Locksmiths ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,913.0,Closed
+Invoice,2022-06-17T00:00:00,JTW900730,,Rodd Locksmiths ,,TaxInclusive,PER KILOMETER,0,0,1.1,GST,0,,,,220.0,913.0,Closed
+Invoice,2022-06-17T00:00:00,JTW900730,,Rodd Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,913.0,Closed
+Invoice,2022-06-17T00:00:00,JTW900730,,Rodd Locksmiths ,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,913.0,Closed
+Invoice,2022-06-20T00:00:00,JTW900731,,Mentone Grammar,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,537.9,Closed
+Invoice,2022-06-20T00:00:00,JTW900731,,Mentone Grammar,,TaxInclusive,SALTO BLUEnet Repeater. Extend,0,0,141.9,GST,0,,,,141.9,537.9,Closed
+Invoice,2022-06-20T00:00:00,JTW900731,,Mentone Grammar,,TaxInclusive,1 HOURS LABOUR,0,0,99.0,GST,0,,,,297.0,537.9,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,NEPTUNE INFRARED TOUCHLESS EXI,0,0,65.0,GST,0,,,,65.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,NEPTUNE RESETTABLE CALL POINT ,0,0,69.0,GST,0,,,,69.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,BDS FILLER PLATE FP201 suit 20,0,0,15.0,GST,0,,,,15.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,BDS FILLER PLATE FP3572 suit M,0,0,12.5,GST,0,,,,12.5,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,LOX Standard 12VDC Magnetic Do,0,0,165.0,GST,0,,,,165.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900732,,Saints College,,TaxInclusive,INSTALLATION ,0,0,475.0,GST,0,,,,475.0,980.65,Closed
+Invoice,2022-06-20T00:00:00,JTW900733,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,803.0,Closed
+Invoice,2022-06-20T00:00:00,JTW900733,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,88.0,GST,0,,,,704.0,803.0,Closed
+Invoice,2022-06-20T00:00:00,JTW900734,,Access Hardware,,TaxInclusive,1 HOURS LABOUR,0,0,185.5,GST,0,,,,185.5,285.12,Closed
+Invoice,2022-06-20T00:00:00,JTW900734,,Access Hardware,,TaxInclusive,Benelec Multipath T4000 High G,0,0,73.7,GST,0,,,,73.7,285.12,Closed
+Invoice,2022-06-20T00:00:00,6,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,246.5,Closed
+Invoice,2022-06-20T00:00:00,6,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,246.5,Closed
+Invoice,2022-06-20T00:00:00,6,,Signal Security PTY LTD ,,TaxInclusive,CR123A BATTERY ,0,0,5.5,GST,0,,,,16.5,246.5,Closed
+Invoice,2022-06-20T00:00:00,6,,Signal Security PTY LTD ,,TaxInclusive,ENERGIZER BATTERY PHOTO PK1 3V,0,0,7.5,GST,0,,,,7.5,246.5,Closed
+Invoice,2022-06-20T00:00:00,6,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,43.5,GST,0,,,,43.5,246.5,Closed
+Invoice,2022-06-20T00:00:00,JTW90369,,Oakleigh Locksmiths PTY. LTD.,,TaxInclusive,GSM ALARM MONITORING ,0,0,40.0,GST,0,,,,480.0,528.0,Closed
+Invoice,2022-06-21T00:00:00,4,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,179.0,Closed
+Invoice,2022-06-21T00:00:00,4,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,179.0,Closed
+Invoice,2022-06-21T00:00:00,3,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,236.0,Closed
+Invoice,2022-06-21T00:00:00,3,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,236.0,Closed
+Invoice,2022-06-21T00:00:00,3,,Signal Security PTY LTD ,,TaxInclusive,AAA Battery,0,0,2.5,GST,0,,,,30.0,236.0,Closed
+Invoice,2022-06-21T00:00:00,3,,Signal Security PTY LTD ,,TaxInclusive,AA BATTERY,0,0,2.5,GST,0,,,,5.0,236.0,Closed
+Invoice,2022-06-21T00:00:00,3,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,22.0,GST,0,,,,22.0,236.0,Closed
+Invoice,2022-06-21T00:00:00,2,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,154.01,Closed
+Invoice,2022-06-21T00:00:00,2,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,154.01,Closed
+Invoice,2022-06-21T00:00:00,2,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,-24.99,GST,0,,,,-24.99,154.01,Closed
+Invoice,2022-06-22T00:00:00,10,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,224.0,Closed
+Invoice,2022-06-22T00:00:00,10,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,224.0,Closed
+Invoice,2022-06-22T00:00:00,10,,Signal Security PTY LTD ,,TaxInclusive,DESCRIPTION,0,0,23.0,GST,0,,,,23.0,224.0,Closed
+Invoice,2022-06-22T00:00:00,10,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,22.0,GST,0,,,,22.0,224.0,Closed
+Invoice,2022-06-22T00:00:00,11,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,179.0,Closed
+Invoice,2022-06-22T00:00:00,11,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,179.0,Closed
+Invoice,2022-06-22T00:00:00,8,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,179.0,Closed
+Invoice,2022-06-22T00:00:00,8,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,179.0,Closed
+Invoice,2022-06-24T00:00:00,JTW90370,,Eastfield Natural Foods,,TaxInclusive,GSM ALARM MONITORING ,0,0,41.0,GST,0,,,,41.0,45.1,Closed
+Invoice,2022-06-24T00:00:00,9,,Signal Security PTY LTD ,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,99.0,GST,0,,,,99.0,201.0,Closed
+Invoice,2022-06-24T00:00:00,9,,Signal Security PTY LTD ,,TaxInclusive, 1 HOUR LABOUR ,0,0,80.0,GST,0,,,,80.0,201.0,Closed
+Invoice,2022-06-24T00:00:00,9,,Signal Security PTY LTD ,,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,0,22.0,GST,0,,,,22.0,201.0,Closed
+Invoice,2022-06-25T00:00:00,JTW90372,,Wuzhong Albert Pty Ltd,,TaxInclusive,GSM ALARM MONITORING ,0,0,46.0,GST,0,,,,46.0,50.6,Closed
+Invoice,2022-06-25T00:00:00,JTW90371,,Ultra Fine Foods Victoria Office,,TaxInclusive,GSM ALARM MONITORING ,0,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,STANDARD ONSITE CHARGE,0,0,90.0,GST,0,,,,90.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,Hikvision 4MP Outdoor 3-in-1 T,0,0,340.0,GST,0,,,,8160.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,"PSS, Enclosure, Metal, Beige, ",0,0,220.0,GST,0,,,,1100.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,• 8 Port POE Ethernet Unmanage,0,0,150.0,GST,0,,,,450.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,Ubiquiti NanoBeam 5AC AirMax B,0,0,300.0,GST,0,,,,1800.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,INSTALLATION ,0,0,10000.0,GST,0,,,,10000.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,DESCRIPTION,0,0,2500.0,GST,0,,,,2500.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,0,1500.0,GST,0,,,,1500.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,PowerShield Defender 1600VA UP,0,0,404.0,GST,0,,,,2020.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,8TB HDD - Surveillance HDD for,0,0,591.0,GST,0,,,,591.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive, Wall Mount Bracket to suit HI,0,0,62.0,GST,0,,,,682.0,36147.1,Closed
+Invoice,2022-06-26T00:00:00,JTW900735,,Cardinia Shire Council,,TaxInclusive,"Hikvision 64ch NVR, 320Mbps (2",0,0,3968.0,GST,0,,,,3968.0,36147.1,Closed

@@ -1,0 +1,2874 @@
+[
+  {
+    "Date":"31\/07\/2024",
+    "Reference":"CR000168",
+    "Bank":"600",
+    "Invoice No":"1270",
+    "Amount":57.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/09\/2024",
+    "Reference":"CR000198",
+    "Bank":"600",
+    "Invoice No":"1327",
+    "Amount":97.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000195",
+    "Bank":"600",
+    "Invoice No":"1326",
+    "Amount":146.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2023",
+    "Reference":"CR000065",
+    "Bank":"600",
+    "Invoice No":"1109",
+    "Amount":163.3,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"06\/03\/2024",
+    "Reference":"CR000119",
+    "Bank":"600",
+    "Invoice No":"1168",
+    "Amount":184.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/06\/2023",
+    "Reference":"CR000004",
+    "Bank":"600",
+    "Invoice No":"1026",
+    "Amount":197.23,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"11\/02\/2026",
+    "Reference":"CR000414",
+    "Bank":"600",
+    "Invoice No":"1722",
+    "Amount":201.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2025",
+    "Reference":"CR000373",
+    "Bank":"600",
+    "Invoice No":"1685",
+    "Amount":210.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/10\/2025",
+    "Reference":"CR000351",
+    "Bank":"600",
+    "Invoice No":"1608",
+    "Amount":218.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/11\/2025",
+    "Reference":"CR000374",
+    "Bank":"600",
+    "Invoice No":"1662",
+    "Amount":250.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/12\/2023",
+    "Reference":"CR000091",
+    "Bank":"600",
+    "Invoice No":"1139",
+    "Amount":255.08,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"25\/11\/2024",
+    "Reference":"CR000224",
+    "Bank":"600",
+    "Invoice No":"1372",
+    "Amount":269.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"09\/06\/2023",
+    "Reference":"CR000001",
+    "Bank":"600",
+    "Invoice No":"1014",
+    "Amount":279.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/08\/2025",
+    "Reference":"CR000327",
+    "Bank":"600",
+    "Invoice No":"1575",
+    "Amount":287.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/12\/2025",
+    "Reference":"CR000391",
+    "Bank":"600",
+    "Invoice No":"1708",
+    "Amount":289.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000120",
+    "Bank":"600",
+    "Invoice No":"1196",
+    "Amount":321.26,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/11\/2023",
+    "Reference":"CR000074",
+    "Bank":"600",
+    "Invoice No":"1111",
+    "Amount":345.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/08\/2023",
+    "Reference":"CR000021",
+    "Bank":"600",
+    "Invoice No":"1044",
+    "Amount":361.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/08\/2025",
+    "Reference":"CR000329",
+    "Bank":"600",
+    "Invoice No":"1544",
+    "Amount":374.33,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2023",
+    "Reference":"CR000054",
+    "Bank":"600",
+    "Invoice No":"1075",
+    "Amount":377.76,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/04\/2025",
+    "Reference":"CR000284",
+    "Bank":"600",
+    "Invoice No":"1472",
+    "Amount":403.79,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/04\/2025",
+    "Reference":"CR000279",
+    "Bank":"600",
+    "Invoice No":"1458",
+    "Amount":425.04,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/02\/2024",
+    "Reference":"CR000107",
+    "Bank":"600",
+    "Invoice No":"1158",
+    "Amount":430.84,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"13\/05\/2025",
+    "Reference":"CR000286",
+    "Bank":"600",
+    "Invoice No":"1491",
+    "Amount":442.51,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/12\/2023",
+    "Reference":"CR000077",
+    "Bank":"600",
+    "Invoice No":"1110",
+    "Amount":479.61,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/07\/2025",
+    "Reference":"CR000321",
+    "Bank":"600",
+    "Invoice No":"1540",
+    "Amount":484.96,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/12\/2025",
+    "Reference":"CR000377",
+    "Bank":"600",
+    "Invoice No":"1695",
+    "Amount":485.54,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2026",
+    "Reference":"CR000405",
+    "Bank":"600",
+    "Invoice No":"1707",
+    "Amount":534.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/06\/2025",
+    "Reference":"CR000307",
+    "Bank":"600",
+    "Invoice No":"1512",
+    "Amount":550.74,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2025",
+    "Reference":"CR000335",
+    "Bank":"600",
+    "Invoice No":"1574",
+    "Amount":554.3,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2024",
+    "Reference":"CR000226",
+    "Bank":"600",
+    "Invoice No":"1371",
+    "Amount":630.66,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2025",
+    "Reference":"CR000336",
+    "Bank":"600",
+    "Invoice No":"1571",
+    "Amount":670.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000130",
+    "Bank":"600",
+    "Invoice No":"1178",
+    "Amount":673.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/11\/2023",
+    "Reference":"CR000073",
+    "Bank":"600",
+    "Invoice No":"1084",
+    "Amount":772.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"13\/02\/2024",
+    "Reference":"CR000112",
+    "Bank":"600",
+    "Invoice No":"1157",
+    "Amount":776.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000298",
+    "Bank":"600",
+    "Invoice No":"1507",
+    "Amount":783.79,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/08\/2024",
+    "Reference":"CR000179",
+    "Bank":"600",
+    "Invoice No":"1279",
+    "Amount":787.58,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2024",
+    "Reference":"CR000109",
+    "Bank":"600",
+    "Invoice No":"1134",
+    "Amount":799.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/08\/2024",
+    "Reference":"CR000175",
+    "Bank":"600",
+    "Invoice No":"1302",
+    "Amount":810.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000309",
+    "Bank":"600",
+    "Invoice No":"1502",
+    "Amount":818.11,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/05\/2025",
+    "Reference":"CR000288",
+    "Bank":"600",
+    "Invoice No":"1487",
+    "Amount":823.69,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000236",
+    "Bank":"600",
+    "Invoice No":"1398",
+    "Amount":833.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/03\/2024",
+    "Reference":"CR000116",
+    "Bank":"600",
+    "Invoice No":"1166",
+    "Amount":861.67,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/01\/2025",
+    "Reference":"CR000249",
+    "Bank":"600",
+    "Invoice No":"1412",
+    "Amount":875.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/12\/2025",
+    "Reference":"CR000375",
+    "Bank":"600",
+    "Invoice No":"1640",
+    "Amount":917.13,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/02\/2024",
+    "Reference":"CR000114",
+    "Bank":"600",
+    "Invoice No":"1162",
+    "Amount":973.05,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000341",
+    "Bank":"600",
+    "Invoice No":"1583",
+    "Amount":998.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2024",
+    "Reference":"CR000214",
+    "Bank":"600",
+    "Invoice No":"1359",
+    "Amount":999.64,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/07\/2023",
+    "Reference":"CR000014",
+    "Bank":"600",
+    "Invoice No":"1023",
+    "Amount":1025.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2023",
+    "Reference":"CR000064",
+    "Bank":"600",
+    "Invoice No":"1088",
+    "Amount":1056.33,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000227",
+    "Bank":"600",
+    "Invoice No":"1376",
+    "Amount":1070.17,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000047",
+    "Bank":"600",
+    "Invoice No":"1029",
+    "Amount":1104.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/10\/2025",
+    "Reference":"CR000356",
+    "Bank":"600",
+    "Invoice No":"1624",
+    "Amount":1108.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/03\/2024",
+    "Reference":"CR000133",
+    "Bank":"600",
+    "Invoice No":"1224",
+    "Amount":1121.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/04\/2024",
+    "Reference":"CR000140",
+    "Bank":"600",
+    "Invoice No":"1209",
+    "Amount":1121.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/03\/2026",
+    "Reference":"CR000426",
+    "Bank":"600",
+    "Invoice No":"1735",
+    "Amount":1124.82,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000240",
+    "Bank":"600",
+    "Invoice No":"1399",
+    "Amount":1147.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"25\/07\/2024",
+    "Reference":"CR000167",
+    "Bank":"600",
+    "Invoice No":"1271",
+    "Amount":1259.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/08\/2024",
+    "Reference":"CR000184",
+    "Bank":"600",
+    "Invoice No":"1288",
+    "Amount":1259.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2024",
+    "Reference":"CR000208",
+    "Bank":"600",
+    "Invoice No":"1353",
+    "Amount":1262.47,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2025",
+    "Reference":"CR000357",
+    "Bank":"600",
+    "Invoice No":"1630",
+    "Amount":1269.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/09\/2024",
+    "Reference":"CR000200",
+    "Bank":"600",
+    "Invoice No":"1321",
+    "Amount":1276.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2025",
+    "Reference":"CR000338",
+    "Bank":"600",
+    "Invoice No":"1572",
+    "Amount":1276.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/01\/2024",
+    "Reference":"CR000098",
+    "Bank":"600",
+    "Invoice No":"1143",
+    "Amount":1292.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/12\/2023",
+    "Reference":"CR000075",
+    "Bank":"600",
+    "Invoice No":"1112",
+    "Amount":1293.61,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2026",
+    "Reference":"CR000424",
+    "Bank":"600",
+    "Invoice No":"1736",
+    "Amount":1296.05,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2025",
+    "Reference":"CR000380",
+    "Bank":"600",
+    "Invoice No":"1639",
+    "Amount":1302.03,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2025",
+    "Reference":"CR000361",
+    "Bank":"600",
+    "Invoice No":"1600",
+    "Amount":1323.94,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000194",
+    "Bank":"600",
+    "Invoice No":"1318",
+    "Amount":1376.64,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000087",
+    "Bank":"600",
+    "Invoice No":"1121",
+    "Amount":1380.86,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/06\/2025",
+    "Reference":"CR000306",
+    "Bank":"600",
+    "Invoice No":"1498",
+    "Amount":1418.34,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/06\/2024",
+    "Reference":"CR000159",
+    "Bank":"600",
+    "Invoice No":"1261",
+    "Amount":1439.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000238",
+    "Bank":"600",
+    "Invoice No":"1402",
+    "Amount":1443.54,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"25\/11\/2025",
+    "Reference":"CR000372",
+    "Bank":"600",
+    "Invoice No":"1631",
+    "Amount":1462.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000084",
+    "Bank":"600",
+    "Invoice No":"1119",
+    "Amount":1504.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/09\/2024",
+    "Reference":"CR000180",
+    "Bank":"600",
+    "Invoice No":"1296",
+    "Amount":1527.2,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/01\/2025",
+    "Reference":"CR000256",
+    "Bank":"600",
+    "Invoice No":"1414",
+    "Amount":1530.36,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000271",
+    "Bank":"600",
+    "Invoice No":"1452",
+    "Amount":1532.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/10\/2025",
+    "Reference":"CR000352",
+    "Bank":"600",
+    "Invoice No":"1598",
+    "Amount":1554.34,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/09\/2024",
+    "Reference":"CR000197",
+    "Bank":"600",
+    "Invoice No":"1319",
+    "Amount":1572.34,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/12\/2024",
+    "Reference":"CR000243",
+    "Bank":"600",
+    "Invoice No":"1393",
+    "Amount":1596.43,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2023",
+    "Reference":"CR000059",
+    "Bank":"600",
+    "Invoice No":"1068",
+    "Amount":1647.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/08\/2025",
+    "Reference":"CR000318",
+    "Bank":"600",
+    "Invoice No":"1536",
+    "Amount":1650.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000308",
+    "Bank":"600",
+    "Invoice No":"1501",
+    "Amount":1657.84,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/09\/2025",
+    "Reference":"CR000337",
+    "Bank":"600",
+    "Invoice No":"1573",
+    "Amount":1667.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/08\/2025",
+    "Reference":"CR000328",
+    "Bank":"600",
+    "Invoice No":"1547",
+    "Amount":1712.01,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2023",
+    "Reference":"CR000093",
+    "Bank":"600",
+    "Invoice No":"1135",
+    "Amount":1735.93,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/01\/2026",
+    "Reference":"CR000403",
+    "Bank":"600",
+    "Invoice No":"1705",
+    "Amount":1742.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2023",
+    "Reference":"CR000079",
+    "Bank":"600",
+    "Invoice No":"1122",
+    "Amount":1759.44,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2026",
+    "Reference":"CR000407",
+    "Bank":"600",
+    "Invoice No":"1711",
+    "Amount":1759.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/07\/2025",
+    "Reference":"CR000315",
+    "Bank":"600",
+    "Invoice No":"1529",
+    "Amount":1831.43,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/07\/2025",
+    "Reference":"CR000319",
+    "Bank":"600",
+    "Invoice No":"1527",
+    "Amount":1866.11,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/12\/2024",
+    "Reference":"CR000242",
+    "Bank":"600",
+    "Invoice No":"1392",
+    "Amount":1941.2,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/01\/2025",
+    "Reference":"CR000255",
+    "Bank":"600",
+    "Invoice No":"1413",
+    "Amount":1960.46,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/09\/2024",
+    "Reference":"CR000182",
+    "Bank":"600",
+    "Invoice No":"1281",
+    "Amount":2073.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000048",
+    "Bank":"600",
+    "Invoice No":"1036",
+    "Amount":2091.39,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2024",
+    "Reference":"CR000205",
+    "Bank":"600",
+    "Invoice No":"1344",
+    "Amount":2126.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000223",
+    "Bank":"600",
+    "Invoice No":"1382",
+    "Amount":2129.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/12\/2025",
+    "Reference":"CR000387",
+    "Bank":"600",
+    "Invoice No":"1678",
+    "Amount":2195.58,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000343",
+    "Bank":"600",
+    "Invoice No":"1586",
+    "Amount":2199.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/10\/2025",
+    "Reference":"CR000350",
+    "Bank":"600",
+    "Invoice No":"1609",
+    "Amount":2227.55,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"18\/11\/2025",
+    "Reference":"CR000367",
+    "Bank":"600",
+    "Invoice No":"1675",
+    "Amount":2261.71,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2023",
+    "Reference":"CR000053",
+    "Bank":"600",
+    "Invoice No":"1077",
+    "Amount":2264.29,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2025",
+    "Reference":"CR000363",
+    "Bank":"600",
+    "Invoice No":"1602",
+    "Amount":2268.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/01\/2025",
+    "Reference":"CR000253",
+    "Bank":"600",
+    "Invoice No":"1407",
+    "Amount":2397.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2023",
+    "Reference":"CR000070",
+    "Bank":"600",
+    "Invoice No":"1095",
+    "Amount":2474.23,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"12\/03\/2026",
+    "Reference":"CR000422",
+    "Bank":"600",
+    "Invoice No":"1712",
+    "Amount":2492.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2023",
+    "Reference":"CR000058",
+    "Bank":"600",
+    "Invoice No":"1067",
+    "Amount":2517.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2025",
+    "Reference":"CR000359",
+    "Bank":"600",
+    "Invoice No":"1604",
+    "Amount":2528.28,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000124",
+    "Bank":"600",
+    "Invoice No":"1201",
+    "Amount":2533.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2025",
+    "Reference":"CR000340",
+    "Bank":"600",
+    "Invoice No":"1585",
+    "Amount":2552.43,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"11\/08\/2023",
+    "Reference":"CR000034",
+    "Bank":"600",
+    "Invoice No":"1045",
+    "Amount":2580.08,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/04\/2024",
+    "Reference":"CR000137",
+    "Bank":"600",
+    "Invoice No":"1220",
+    "Amount":2592.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000268",
+    "Bank":"600",
+    "Invoice No":"1440",
+    "Amount":2593.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000082",
+    "Bank":"600",
+    "Invoice No":"1116",
+    "Amount":2600.73,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/12\/2023",
+    "Reference":"CR000096",
+    "Bank":"600",
+    "Invoice No":"1132",
+    "Amount":2648.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/08\/2023",
+    "Reference":"CR000015",
+    "Bank":"600",
+    "Invoice No":"1031",
+    "Amount":2701.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/05\/2025",
+    "Reference":"CR000287",
+    "Bank":"600",
+    "Invoice No":"1490",
+    "Amount":2724.24,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/11\/2024",
+    "Reference":"CR000213",
+    "Bank":"600",
+    "Invoice No":"1354",
+    "Amount":2774.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000127",
+    "Bank":"600",
+    "Invoice No":"1186",
+    "Amount":2807.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/05\/2024",
+    "Reference":"CR000141",
+    "Bank":"600",
+    "Invoice No":"1219",
+    "Amount":2817.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/07\/2025",
+    "Reference":"CR000300",
+    "Bank":"600",
+    "Invoice No":"1505",
+    "Amount":2832.16,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/01\/2025",
+    "Reference":"CR000248",
+    "Bank":"600",
+    "Invoice No":"1415",
+    "Amount":2921.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/04\/2025",
+    "Reference":"CR000282",
+    "Bank":"600",
+    "Invoice No":"1466",
+    "Amount":2937.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000219",
+    "Bank":"600",
+    "Invoice No":"1374",
+    "Amount":2949.18,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000010",
+    "Bank":"600",
+    "Invoice No":"1019",
+    "Amount":2968.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2025",
+    "Reference":"CR000369",
+    "Bank":"600",
+    "Invoice No":"1645",
+    "Amount":2977.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/02\/2026",
+    "Reference":"CR000412",
+    "Bank":"600",
+    "Invoice No":"1709",
+    "Amount":3013.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/01\/2026",
+    "Reference":"CR000408",
+    "Bank":"600",
+    "Invoice No":"1700",
+    "Amount":3016.74,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"14\/01\/2026",
+    "Reference":"CR000398",
+    "Bank":"600",
+    "Invoice No":"1668",
+    "Amount":3019.04,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/02\/2024",
+    "Reference":"CR000113",
+    "Bank":"600",
+    "Invoice No":"1174",
+    "Amount":3055.21,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/04\/2024",
+    "Reference":"CR000139",
+    "Bank":"600",
+    "Invoice No":"1218",
+    "Amount":3092.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/02\/2026",
+    "Reference":"CR000411",
+    "Bank":"600",
+    "Invoice No":"1703",
+    "Amount":3099.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/10\/2023",
+    "Reference":"CR000061",
+    "Bank":"600",
+    "Invoice No":"1081",
+    "Amount":3130.13,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/10\/2025",
+    "Reference":"CR000353",
+    "Bank":"600",
+    "Invoice No":"1597",
+    "Amount":3144.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000192",
+    "Bank":"600",
+    "Invoice No":"1314",
+    "Amount":3165.55,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/12\/2025",
+    "Reference":"CR000390",
+    "Bank":"600",
+    "Invoice No":"1691",
+    "Amount":3216.55,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/01\/2025",
+    "Reference":"CR000252",
+    "Bank":"600",
+    "Invoice No":"1411",
+    "Amount":3244.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/08\/2024",
+    "Reference":"CR000183",
+    "Bank":"600",
+    "Invoice No":"1291",
+    "Amount":3255.65,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/09\/2024",
+    "Reference":"CR000199",
+    "Bank":"600",
+    "Invoice No":"1313",
+    "Amount":3280.03,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000333",
+    "Bank":"600",
+    "Invoice No":"1588",
+    "Amount":3289.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/03\/2024",
+    "Reference":"CR000131",
+    "Bank":"600",
+    "Invoice No":"1177",
+    "Amount":3303.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000190",
+    "Bank":"600",
+    "Invoice No":"1324",
+    "Amount":3317.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2023",
+    "Reference":"CR000080",
+    "Bank":"600",
+    "Invoice No":"1123",
+    "Amount":3363.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000128",
+    "Bank":"600",
+    "Invoice No":"1187",
+    "Amount":3418.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/01\/2026",
+    "Reference":"CR000396",
+    "Bank":"600",
+    "Invoice No":"1680",
+    "Amount":3473.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000129",
+    "Bank":"600",
+    "Invoice No":"1176",
+    "Amount":3496.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/07\/2024",
+    "Reference":"CR000161",
+    "Bank":"600",
+    "Invoice No":"1249",
+    "Amount":3496.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/01\/2024",
+    "Reference":"CR000105",
+    "Bank":"600",
+    "Invoice No":"1156",
+    "Amount":3510.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/01\/2024",
+    "Reference":"CR000101",
+    "Bank":"600",
+    "Invoice No":"1085",
+    "Amount":3524.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"18\/07\/2025",
+    "Reference":"CR000323",
+    "Bank":"600",
+    "Invoice No":"1539",
+    "Amount":3549.94,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/05\/2024",
+    "Reference":"CR000152",
+    "Bank":"600",
+    "Invoice No":"1216",
+    "Amount":3581.17,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/12\/2025",
+    "Reference":"CR000393",
+    "Bank":"600",
+    "Invoice No":"1704",
+    "Amount":3609.28,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000083",
+    "Bank":"600",
+    "Invoice No":"1117",
+    "Amount":3622.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/02\/2024",
+    "Reference":"CR000118",
+    "Bank":"600",
+    "Invoice No":"1171",
+    "Amount":3641.39,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000049",
+    "Bank":"600",
+    "Invoice No":"1037",
+    "Amount":3654.13,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/12\/2023",
+    "Reference":"CR000095",
+    "Bank":"600",
+    "Invoice No":"1138",
+    "Amount":3675.4,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/02\/2024",
+    "Reference":"CR000117",
+    "Bank":"600",
+    "Invoice No":"1170",
+    "Amount":3709.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/10\/2025",
+    "Reference":"CR000348",
+    "Bank":"600",
+    "Invoice No":"1617",
+    "Amount":3717.42,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"11\/10\/2023",
+    "Reference":"CR000063",
+    "Bank":"600",
+    "Invoice No":"1101",
+    "Amount":3797.3,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/12\/2025",
+    "Reference":"CR000392",
+    "Bank":"600",
+    "Invoice No":"1671",
+    "Amount":3826.57,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000332",
+    "Bank":"600",
+    "Invoice No":"1587",
+    "Amount":3989.51,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/09\/2025",
+    "Reference":"CR000339",
+    "Bank":"600",
+    "Invoice No":"1584",
+    "Amount":3996.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2023",
+    "Reference":"CR000081",
+    "Bank":"600",
+    "Invoice No":"1115",
+    "Amount":3998.61,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/03\/2025",
+    "Reference":"CR000275",
+    "Bank":"600",
+    "Invoice No":"1444",
+    "Amount":4000.39,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/10\/2025",
+    "Reference":"CR000354",
+    "Bank":"600",
+    "Invoice No":"1605",
+    "Amount":4011.97,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2024",
+    "Reference":"CR000215",
+    "Bank":"600",
+    "Invoice No":"1360",
+    "Amount":4013.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/04\/2024",
+    "Reference":"CR000136",
+    "Bank":"600",
+    "Invoice No":"1197",
+    "Amount":4024.01,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2025",
+    "Reference":"CR000358",
+    "Bank":"600",
+    "Invoice No":"1619",
+    "Amount":4059.16,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000266",
+    "Bank":"600",
+    "Invoice No":"1450",
+    "Amount":4082.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/10\/2023",
+    "Reference":"CR000067",
+    "Bank":"600",
+    "Invoice No":"1103",
+    "Amount":4175.26,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/10\/2025",
+    "Reference":"CR000355",
+    "Bank":"600",
+    "Invoice No":"1606",
+    "Amount":4247.01,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/06\/2024",
+    "Reference":"CR000158",
+    "Bank":"600",
+    "Invoice No":"1248",
+    "Amount":4289.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/01\/2024",
+    "Reference":"CR000102",
+    "Bank":"600",
+    "Invoice No":"1152",
+    "Amount":4374.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000099",
+    "Bank":"600",
+    "Invoice No":"1140",
+    "Amount":4407.03,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/01\/2024",
+    "Reference":"CR000100",
+    "Bank":"600",
+    "Invoice No":"1105",
+    "Amount":4407.03,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2025",
+    "Reference":"CR000362",
+    "Bank":"600",
+    "Invoice No":"1601",
+    "Amount":4430.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000051",
+    "Bank":"600",
+    "Invoice No":"1039",
+    "Amount":4466.67,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2025",
+    "Reference":"CR000349",
+    "Bank":"600",
+    "Invoice No":"1620",
+    "Amount":4495.87,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000237",
+    "Bank":"600",
+    "Invoice No":"1391",
+    "Amount":4548.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/07\/2025",
+    "Reference":"CR000316",
+    "Bank":"600",
+    "Invoice No":"1537",
+    "Amount":4562.57,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2024",
+    "Reference":"CR000103",
+    "Bank":"600",
+    "Invoice No":"1151",
+    "Amount":4593.39,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"14\/11\/2025",
+    "Reference":"CR000366",
+    "Bank":"600",
+    "Invoice No":"1638",
+    "Amount":4597.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"16\/01\/2026",
+    "Reference":"CR000402",
+    "Bank":"600",
+    "Invoice No":"1689",
+    "Amount":4597.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/09\/2023",
+    "Reference":"CR000056",
+    "Bank":"600",
+    "Invoice No":"1065",
+    "Amount":1040.98,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/09\/2023",
+    "Reference":"CR000056",
+    "Bank":"600",
+    "Invoice No":"1064",
+    "Amount":3775.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000125",
+    "Bank":"600",
+    "Invoice No":"1202",
+    "Amount":4846.13,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2023",
+    "Reference":"CR000092",
+    "Bank":"600",
+    "Invoice No":"1146",
+    "Amount":4945.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000050",
+    "Bank":"600",
+    "Invoice No":"1038",
+    "Amount":4947.67,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000295",
+    "Bank":"600",
+    "Invoice No":"1503",
+    "Amount":4950.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2024",
+    "Reference":"CR000207",
+    "Bank":"600",
+    "Invoice No":"1356",
+    "Amount":4952.36,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/08\/2023",
+    "Reference":"CR000043",
+    "Bank":"600",
+    "Invoice No":"1046",
+    "Amount":4970.88,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2025",
+    "Reference":"CR000379",
+    "Bank":"600",
+    "Invoice No":"1637",
+    "Amount":5032.4,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/06\/2023",
+    "Reference":"CR000046",
+    "Bank":"600",
+    "Invoice No":"1004",
+    "Amount":1080.43,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/06\/2023",
+    "Reference":"CR000046",
+    "Bank":"600",
+    "Invoice No":"00000004",
+    "Amount":3953.59,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"06\/05\/2024",
+    "Reference":"CR000145",
+    "Bank":"600",
+    "Invoice No":"1207",
+    "Amount":5197.24,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/12\/2024",
+    "Reference":"CR000233",
+    "Bank":"600",
+    "Invoice No":"1334",
+    "Amount":5204.04,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/04\/2024",
+    "Reference":"CR000138",
+    "Bank":"600",
+    "Invoice No":"1215",
+    "Amount":5278.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/07\/2025",
+    "Reference":"CR000317",
+    "Bank":"600",
+    "Invoice No":"1550",
+    "Amount":5301.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2024",
+    "Reference":"CR000209",
+    "Bank":"600",
+    "Invoice No":"1352",
+    "Amount":5311.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/08\/2023",
+    "Reference":"CR000039",
+    "Bank":"600",
+    "Invoice No":"1057",
+    "Amount":5398.73,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000297",
+    "Bank":"600",
+    "Invoice No":"1500",
+    "Amount":5411.33,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/10\/2025",
+    "Reference":"CR000347",
+    "Bank":"600",
+    "Invoice No":"1618",
+    "Amount":5426.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000121",
+    "Bank":"600",
+    "Invoice No":"1199",
+    "Amount":5428.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2023",
+    "Reference":"CR000078",
+    "Bank":"600",
+    "Invoice No":"1126",
+    "Amount":5633.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000089",
+    "Bank":"600",
+    "Invoice No":"1104",
+    "Amount":5700.88,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/09\/2024",
+    "Reference":"CR000181",
+    "Bank":"600",
+    "Invoice No":"1280",
+    "Amount":5848.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/03\/2024",
+    "Reference":"CR000122",
+    "Bank":"600",
+    "Invoice No":"1190",
+    "Amount":5888.98,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2023",
+    "Reference":"CR000071",
+    "Bank":"600",
+    "Invoice No":"1087",
+    "Amount":5945.44,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/09\/2024",
+    "Reference":"CR000189",
+    "Bank":"600",
+    "Invoice No":"1316",
+    "Amount":6032.21,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/08\/2023",
+    "Reference":"CR000038",
+    "Bank":"600",
+    "Invoice No":"1043",
+    "Amount":6107.02,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/08\/2024",
+    "Reference":"CR000173",
+    "Bank":"600",
+    "Invoice No":"1290",
+    "Amount":6433.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2025",
+    "Reference":"CR000365",
+    "Bank":"600",
+    "Invoice No":"1615",
+    "Amount":6443.11,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/08\/2024",
+    "Reference":"CR000174",
+    "Bank":"600",
+    "Invoice No":"1289",
+    "Amount":6545.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/11\/2025",
+    "Reference":"CR000371",
+    "Bank":"600",
+    "Invoice No":"1658",
+    "Amount":6652.46,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/12\/2025",
+    "Reference":"CR000376",
+    "Bank":"600",
+    "Invoice No":"1682",
+    "Amount":6825.48,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000220",
+    "Bank":"600",
+    "Invoice No":"1384",
+    "Amount":6911.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/02\/2025",
+    "Reference":"CR000262",
+    "Bank":"600",
+    "Invoice No":"1424",
+    "Amount":7410.08,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000304",
+    "Bank":"600",
+    "Invoice No":"1504",
+    "Amount":7469.83,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2025",
+    "Reference":"CR000263",
+    "Bank":"600",
+    "Invoice No":"1430",
+    "Amount":7604.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000270",
+    "Bank":"600",
+    "Invoice No":"1438",
+    "Amount":7630.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/02\/2026",
+    "Reference":"CR000415",
+    "Bank":"600",
+    "Invoice No":"1715",
+    "Amount":7688.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"25\/06\/2024",
+    "Reference":"CR000160",
+    "Bank":"600",
+    "Invoice No":"1260",
+    "Amount":7864.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/10\/2024",
+    "Reference":"CR000201",
+    "Bank":"600",
+    "Invoice No":"1322",
+    "Amount":7866.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000085",
+    "Bank":"600",
+    "Invoice No":"1118",
+    "Amount":7880.09,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"12\/09\/2024",
+    "Reference":"CR000188",
+    "Bank":"600",
+    "Invoice No":"1304",
+    "Amount":7904.47,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2026",
+    "Reference":"CR000423",
+    "Bank":"600",
+    "Invoice No":"1721",
+    "Amount":7923.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000123",
+    "Bank":"600",
+    "Invoice No":"1204",
+    "Amount":8023.55,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/07\/2023",
+    "Reference":"CR000008",
+    "Bank":"600",
+    "Invoice No":"1005",
+    "Amount":8188.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/07\/2025",
+    "Reference":"CR000312",
+    "Bank":"600",
+    "Invoice No":"1530",
+    "Amount":8189.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/09\/2023",
+    "Reference":"CR000055",
+    "Bank":"600",
+    "Invoice No":"1069",
+    "Amount":8210.71,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2024",
+    "Reference":"CR000126",
+    "Bank":"600",
+    "Invoice No":"1185",
+    "Amount":8243.2,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/10\/2025",
+    "Reference":"CR000360",
+    "Bank":"600",
+    "Invoice No":"1607",
+    "Amount":8335.57,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/11\/2024",
+    "Reference":"CR000211",
+    "Bank":"600",
+    "Invoice No":"1357",
+    "Amount":3420.19,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/11\/2024",
+    "Reference":"CR000211",
+    "Bank":"600",
+    "Invoice No":"1355",
+    "Amount":5100.37,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/05\/2024",
+    "Reference":"CR000144",
+    "Bank":"600",
+    "Invoice No":"1233",
+    "Amount":8567.73,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000088",
+    "Bank":"600",
+    "Invoice No":"1125",
+    "Amount":8627.55,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2025",
+    "Reference":"CR000381",
+    "Bank":"600",
+    "Invoice No":"1660",
+    "Amount":8665.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/08\/2023",
+    "Reference":"CR000035",
+    "Bank":"600",
+    "Invoice No":"1027",
+    "Amount":8933.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2025",
+    "Reference":"CR000370",
+    "Bank":"600",
+    "Invoice No":"1644",
+    "Amount":9021.58,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2024",
+    "Reference":"CR000108",
+    "Bank":"600",
+    "Invoice No":"1133",
+    "Amount":9052.11,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000272",
+    "Bank":"600",
+    "Invoice No":"1441",
+    "Amount":9076.09,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/12\/2024",
+    "Reference":"CR000234",
+    "Bank":"600",
+    "Invoice No":"1335",
+    "Amount":9263.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"08\/04\/2025",
+    "Reference":"CR000280",
+    "Bank":"600",
+    "Invoice No":"1443",
+    "Amount":9551.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/08\/2023",
+    "Reference":"CR000042",
+    "Bank":"600",
+    "Invoice No":"1056",
+    "Amount":2533.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/08\/2023",
+    "Reference":"CR000042",
+    "Bank":"600",
+    "Invoice No":"1052",
+    "Amount":7123.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000196",
+    "Bank":"600",
+    "Invoice No":"1317",
+    "Amount":9781.67,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/02\/2025",
+    "Reference":"CR000261",
+    "Bank":"600",
+    "Invoice No":"1423",
+    "Amount":9983.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/01\/2024",
+    "Reference":"CR000106",
+    "Bank":"600",
+    "Invoice No":"1154",
+    "Amount":9995.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/07\/2025",
+    "Reference":"CR000314",
+    "Bank":"600",
+    "Invoice No":"1535",
+    "Amount":10056.41,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/11\/2023",
+    "Reference":"CR000090",
+    "Bank":"600",
+    "Invoice No":"1105",
+    "Amount":10219.2,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"09\/10\/2024",
+    "Reference":"CR000204",
+    "Bank":"600",
+    "Invoice No":"1347",
+    "Amount":4754.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"09\/10\/2024",
+    "Reference":"CR000204",
+    "Bank":"600",
+    "Invoice No":"1346",
+    "Amount":1033.53,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"09\/10\/2024",
+    "Reference":"CR000204",
+    "Bank":"600",
+    "Invoice No":"1345",
+    "Amount":4487.61,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/04\/2024",
+    "Reference":"CR000135",
+    "Bank":"600",
+    "Invoice No":"1208",
+    "Amount":10350.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000221",
+    "Bank":"600",
+    "Invoice No":"1380",
+    "Amount":10691.09,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000267",
+    "Bank":"600",
+    "Invoice No":"1445",
+    "Amount":10977.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/02\/2026",
+    "Reference":"CR000417",
+    "Bank":"600",
+    "Invoice No":"1714",
+    "Amount":11008.24,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/07\/2025",
+    "Reference":"CR000320",
+    "Bank":"600",
+    "Invoice No":"1541",
+    "Amount":11190.65,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2025",
+    "Reference":"CR000364",
+    "Bank":"600",
+    "Invoice No":"1614",
+    "Amount":11245.56,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/07\/2023",
+    "Reference":"CR000013",
+    "Bank":"600",
+    "Invoice No":"1020",
+    "Amount":11456.3,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/06\/2024",
+    "Reference":"CR000151",
+    "Bank":"600",
+    "Invoice No":"1234",
+    "Amount":11465.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"13\/01\/2025",
+    "Reference":"CR000247",
+    "Bank":"600",
+    "Invoice No":"1401",
+    "Amount":11640.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/09\/2023",
+    "Reference":"CR000041",
+    "Bank":"600",
+    "Invoice No":"1050",
+    "Amount":11704.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/01\/2026",
+    "Reference":"CR000404",
+    "Bank":"600",
+    "Invoice No":"1702",
+    "Amount":12333.06,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/05\/2025",
+    "Reference":"CR000291",
+    "Bank":"600",
+    "Invoice No":"1492",
+    "Amount":12455.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000191",
+    "Bank":"600",
+    "Invoice No":"1331",
+    "Amount":12491.43,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/01\/2026",
+    "Reference":"CR000410",
+    "Bank":"600",
+    "Invoice No":"1710",
+    "Amount":12618.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/05\/2025",
+    "Reference":"CR000289",
+    "Bank":"600",
+    "Invoice No":"1480",
+    "Amount":12917.73,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/08\/2023",
+    "Reference":"CR000037",
+    "Bank":"600",
+    "Invoice No":"1054",
+    "Amount":12985.74,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/08\/2025",
+    "Reference":"CR000326",
+    "Bank":"600",
+    "Invoice No":"1548",
+    "Amount":13076.49,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/12\/2025",
+    "Reference":"CR000395",
+    "Bank":"600",
+    "Invoice No":"1690",
+    "Amount":13417.05,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/08\/2024",
+    "Reference":"CR000176",
+    "Bank":"600",
+    "Invoice No":"1293",
+    "Amount":13460.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/09\/2023",
+    "Reference":"CR000057",
+    "Bank":"600",
+    "Invoice No":"1076",
+    "Amount":13891.97,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"18\/07\/2025",
+    "Reference":"CR000311",
+    "Bank":"600",
+    "Invoice No":"1528",
+    "Amount":14247.81,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/12\/2025",
+    "Reference":"CR000394",
+    "Bank":"600",
+    "Invoice No":"1669",
+    "Amount":14288.18,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"09\/02\/2024",
+    "Reference":"CR000111",
+    "Bank":"600",
+    "Invoice No":"1172",
+    "Amount":14453.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2025",
+    "Reference":"CR000378",
+    "Bank":"600",
+    "Invoice No":"1661",
+    "Amount":14745.01,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"15\/01\/2026",
+    "Reference":"CR000400",
+    "Bank":"600",
+    "Invoice No":"1701",
+    "Amount":14771.64,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/07\/2024",
+    "Reference":"CR000165",
+    "Bank":"600",
+    "Invoice No":"1269",
+    "Amount":15030.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/03\/2025",
+    "Reference":"CR000277",
+    "Bank":"600",
+    "Invoice No":"1451",
+    "Amount":15300.18,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/07\/2023",
+    "Reference":"CR000009",
+    "Bank":"600",
+    "Invoice No":"1022",
+    "Amount":15610.68,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/10\/2025",
+    "Reference":"CR000346",
+    "Bank":"600",
+    "Invoice No":"1603",
+    "Amount":15611.25,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000235",
+    "Bank":"600",
+    "Invoice No":"1397",
+    "Amount":15759.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"06\/10\/2023",
+    "Reference":"CR000062",
+    "Bank":"600",
+    "Invoice No":"1086",
+    "Amount":16777.35,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/07\/2025",
+    "Reference":"CR000313",
+    "Bank":"600",
+    "Invoice No":"1526",
+    "Amount":17143.05,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2025",
+    "Reference":"CR000269",
+    "Bank":"600",
+    "Invoice No":"1449",
+    "Amount":17503.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/08\/2023",
+    "Reference":"CR000036",
+    "Bank":"600",
+    "Invoice No":"1058",
+    "Amount":18350.95,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2023",
+    "Reference":"CR000052",
+    "Bank":"600",
+    "Invoice No":"1082",
+    "Amount":18735.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/08\/2024",
+    "Reference":"CR000178",
+    "Bank":"600",
+    "Invoice No":"1306",
+    "Amount":19637.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/03\/2025",
+    "Reference":"CR000278",
+    "Bank":"600",
+    "Invoice No":"1467",
+    "Amount":19727.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000303",
+    "Bank":"600",
+    "Invoice No":"1499",
+    "Amount":19995.51,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000222",
+    "Bank":"600",
+    "Invoice No":"1381",
+    "Amount":21314.56,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/12\/2024",
+    "Reference":"CR000239",
+    "Bank":"600",
+    "Invoice No":"1390",
+    "Amount":21404.32,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000011",
+    "Bank":"600",
+    "Invoice No":"1032",
+    "Amount":21944.59,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/10\/2024",
+    "Reference":"CR000210",
+    "Bank":"600",
+    "Invoice No":"1358",
+    "Amount":23000.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2024",
+    "Reference":"CR000228",
+    "Bank":"600",
+    "Invoice No":"1375",
+    "Amount":23038.53,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/01\/2025",
+    "Reference":"CR000257",
+    "Bank":"600",
+    "Invoice No":"1409",
+    "Amount":25118.65,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/02\/2025",
+    "Reference":"CR000260",
+    "Bank":"600",
+    "Invoice No":"1422",
+    "Amount":26971.93,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/12\/2024",
+    "Reference":"CR000244",
+    "Bank":"600",
+    "Invoice No":"1394",
+    "Amount":27123.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"12\/10\/2024",
+    "Reference":"CR000212",
+    "Bank":"600",
+    "Invoice No":"1362",
+    "Amount":3880.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"12\/10\/2024",
+    "Reference":"CR000212",
+    "Bank":"600",
+    "Invoice No":"1351",
+    "Amount":23660.39,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/10\/2024",
+    "Reference":"CR000206",
+    "Bank":"600",
+    "Invoice No":"1363",
+    "Amount":27697.18,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/12\/2025",
+    "Reference":"CR000388",
+    "Bank":"600",
+    "Invoice No":"1670",
+    "Amount":28278.04,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000334",
+    "Bank":"600",
+    "Invoice No":"1570",
+    "Amount":28934.69,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/03\/2025",
+    "Reference":"CR000276",
+    "Bank":"600",
+    "Invoice No":"1457",
+    "Amount":29046.99,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/08\/2023",
+    "Reference":"CR000040",
+    "Bank":"600",
+    "Invoice No":"1055",
+    "Amount":29483.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/01\/2026",
+    "Reference":"CR000409",
+    "Bank":"600",
+    "Invoice No":"1699",
+    "Amount":30657.97,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/09\/2024",
+    "Reference":"CR000193",
+    "Bank":"600",
+    "Invoice No":"1320",
+    "Amount":31218.94,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"21\/12\/2023",
+    "Reference":"CR000094",
+    "Bank":"600",
+    "Invoice No":"1145",
+    "Amount":31480.84,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/07\/2023",
+    "Reference":"CR000012",
+    "Bank":"600",
+    "Invoice No":"1011",
+    "Amount":31875.7,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/04\/2025",
+    "Reference":"CR000283",
+    "Bank":"600",
+    "Invoice No":"1465",
+    "Amount":31971.84,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/12\/2023",
+    "Reference":"CR000076",
+    "Bank":"600",
+    "Invoice No":"1124",
+    "Amount":32658.85,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/03\/2025",
+    "Reference":"CR000274",
+    "Bank":"600",
+    "Invoice No":"1456",
+    "Amount":34019.76,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"04\/10\/2023",
+    "Reference":"CR000060",
+    "Bank":"600",
+    "Invoice No":"1083",
+    "Amount":34412.89,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/05\/2024",
+    "Reference":"CR000150",
+    "Bank":"600",
+    "Invoice No":"1235",
+    "Amount":34493.03,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/03\/2025",
+    "Reference":"CR000273",
+    "Bank":"600",
+    "Invoice No":"1439",
+    "Amount":34792.1,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/06\/2025",
+    "Reference":"CR000296",
+    "Bank":"600",
+    "Invoice No":"1519",
+    "Amount":36074.78,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/02\/2024",
+    "Reference":"CR000115",
+    "Bank":"600",
+    "Invoice No":"1195",
+    "Amount":38067.07,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/01\/2024",
+    "Reference":"CR000104",
+    "Bank":"600",
+    "Invoice No":"1153",
+    "Amount":38113.88,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/12\/2023",
+    "Reference":"CR000097",
+    "Bank":"600",
+    "Invoice No":"1145",
+    "Amount":40000.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"07\/02\/2025",
+    "Reference":"CR000259",
+    "Bank":"600",
+    "Invoice No":"1416",
+    "Amount":40754.51,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/06\/2025",
+    "Reference":"CR000305",
+    "Bank":"600",
+    "Invoice No":"1497",
+    "Amount":42357.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"18\/07\/2025",
+    "Reference":"CR000322",
+    "Bank":"600",
+    "Invoice No":"1538",
+    "Amount":43259.9,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/12\/2024",
+    "Reference":"CR000241",
+    "Bank":"600",
+    "Invoice No":"1400",
+    "Amount":43607.31,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/10\/2023",
+    "Reference":"CR000066",
+    "Bank":"600",
+    "Invoice No":"1089",
+    "Amount":44817.75,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"01\/09\/2025",
+    "Reference":"CR000331",
+    "Bank":"600",
+    "Invoice No":"1554",
+    "Amount":46912.87,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/12\/2025",
+    "Reference":"CR000389",
+    "Bank":"600",
+    "Invoice No":"1693",
+    "Amount":47629.57,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/04\/2024",
+    "Reference":"CR000142",
+    "Bank":"600",
+    "Invoice No":"1200",
+    "Amount":48352.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"22\/07\/2024",
+    "Reference":"CR000166",
+    "Bank":"600",
+    "Invoice No":"1274",
+    "Amount":50590.8,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"24\/01\/2025",
+    "Reference":"CR000250",
+    "Bank":"600",
+    "Invoice No":"1406",
+    "Amount":53071.64,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/05\/2024",
+    "Reference":"CR000143",
+    "Bank":"600",
+    "Invoice No":"1229",
+    "Amount":56258.93,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"23\/01\/2026",
+    "Reference":"CR000406",
+    "Bank":"600",
+    "Invoice No":"1706",
+    "Amount":57521.92,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"31\/12\/2025",
+    "Reference":"CR000397",
+    "Bank":"600",
+    "Invoice No":"1689",
+    "Amount":58363.88,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"25\/02\/2026",
+    "Reference":"CR000416",
+    "Bank":"600",
+    "Invoice No":"1720",
+    "Amount":62497.15,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/02\/2026",
+    "Reference":"CR000418",
+    "Bank":"600",
+    "Invoice No":"1719",
+    "Amount":66141.42,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/06\/2023",
+    "Reference":"CR000044",
+    "Bank":"600",
+    "Invoice No":"1006",
+    "Amount":16214.14,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/06\/2023",
+    "Reference":"CR000044",
+    "Bank":"600",
+    "Invoice No":"1003",
+    "Amount":18886.45,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/06\/2023",
+    "Reference":"CR000044",
+    "Bank":"600",
+    "Invoice No":"1001",
+    "Amount":11836.32,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/06\/2023",
+    "Reference":"CR000044",
+    "Bank":"600",
+    "Invoice No":"1002",
+    "Amount":26338.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/04\/2025",
+    "Reference":"CR000285",
+    "Bank":"600",
+    "Invoice No":"1471",
+    "Amount":77425.87,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"27\/11\/2024",
+    "Reference":"CR000225",
+    "Bank":"600",
+    "Invoice No":"1385",
+    "Amount":80327.27,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"03\/10\/2024",
+    "Reference":"CR000202",
+    "Bank":"600",
+    "Invoice No":"1332",
+    "Amount":81017.5,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"02\/09\/2025",
+    "Reference":"CR000330",
+    "Bank":"600",
+    "Invoice No":"1545",
+    "Amount":82970.6,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"29\/08\/2024",
+    "Reference":"CR000177",
+    "Bank":"600",
+    "Invoice No":"1305",
+    "Amount":85264.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/08\/2025",
+    "Reference":"CR000325",
+    "Bank":"600",
+    "Invoice No":"1555",
+    "Amount":85499.63,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"26\/06\/2025",
+    "Reference":"CR000299",
+    "Bank":"600",
+    "Invoice No":"1518",
+    "Amount":85952.79,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"30\/10\/2023",
+    "Reference":"CR000068",
+    "Bank":"600",
+    "Invoice No":"1102",
+    "Amount":86825.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"17\/10\/2025",
+    "Reference":"CR000345",
+    "Bank":"600",
+    "Invoice No":"1625",
+    "Amount":87996.28,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"19\/09\/2025",
+    "Reference":"CR000342",
+    "Bank":"600",
+    "Invoice No":"1589",
+    "Amount":91968.38,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"28\/05\/2025",
+    "Reference":"CR000292",
+    "Bank":"600",
+    "Invoice No":"1492",
+    "Amount":100000.0,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"18\/07\/2025",
+    "Reference":"CR000310",
+    "Bank":"600",
+    "Invoice No":"1531",
+    "Amount":103290.13,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/03\/2026",
+    "Reference":"CR000425",
+    "Bank":"600",
+    "Invoice No":"1740",
+    "Amount":108403.21,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"20\/11\/2025",
+    "Reference":"CR000382",
+    "Bank":"600",
+    "Invoice No":"1659",
+    "Amount":167317.99,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Reference":"CR000420",
+    "Bank":"600",
+    "Invoice No":"1276",
+    "Amount":69733.36,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Reference":"CR000420",
+    "Bank":"600",
+    "Invoice No":"1259",
+    "Amount":73032.36,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Reference":"CR000420",
+    "Bank":"600",
+    "Invoice No":"1253",
+    "Amount":3461.65,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Reference":"CR000420",
+    "Bank":"600",
+    "Invoice No":"1239",
+    "Amount":35125.84,
+    "CurrencyRate":""
+  },
+  {
+    "Date":"05\/03\/2026",
+    "Reference":"CR000420",
+    "Bank":"600",
+    "Invoice No":"1237",
+    "Amount":8646.79,
+    "CurrencyRate":""
+  }
+]

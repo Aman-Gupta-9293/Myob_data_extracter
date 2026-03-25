@@ -1,0 +1,362 @@
+Type,Invoice Date,Invoice No,Due Date,Customer,Global Tax calculation,Product/Service,Quantity,Product/Service Unit Price,Product/Service Tax Rate,Product/Service Tax Amount,Product/Service Class,Currency Code,Exchange Rate,Amount,Total Invoice Amount,Status
+Invoice,2025-11-13T00:00:00,JTW102008,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102008,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102009,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102009,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102010,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102010,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102011,,Cardinia Shire Council,TaxInclusive,,0,83.0,GST,0,,,,2490.0,2739.0,Closed
+Invoice,2025-11-13T00:00:00,JTW102012,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,168.0,GST,0,,,,168.0,294.8,Closed
+Invoice,2025-11-13T00:00:00,JTW102012,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,294.8,Closed
+Invoice,2025-11-13T00:00:00,JTW102013,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,325.55,Closed
+Invoice,2025-11-13T00:00:00,JTW102013,,Mentone Grammar,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,325.55,Closed
+Invoice,2025-11-13T00:00:00,JTW102013,,Mentone Grammar,TaxInclusive,STI BREAK GLASS RESETTABLE CAL,0,54.0,GST,0,,,,54.0,325.55,Closed
+Invoice,2025-11-13T00:00:00,JTW102013,,Mentone Grammar,TaxInclusive,,0,41.95,GST,0,,,,41.95,325.55,Closed
+Invoice,2025-11-13T00:00:00,JTW102014,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,168.0,GST,0,,,,168.0,184.8,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,1629.41,GST,0,,,,1629.41,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,,0,570.5,GST,0,,,,1141.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,,0,516.84,GST,0,,,,516.84,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,LOX High Security Electric Str,0,256.0,GST,0,,,,256.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,ACSS DOOR LOOP DL045 450x12.7M,0,45.0,GST,0,,,,45.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,INSTALLATION ,0,1600.0,GST,0,,,,1600.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,"CS 5 Amp Power Supply, with AC",0,199.0,GST,0,,,,199.0,6071.18,Closed
+Invoice,2025-11-13T00:00:00,JTW102015,,St Margarets Berwick ,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,32.0,GST,0,,,,32.0,6071.18,Closed
+Invoice,2025-11-14T00:00:00,JTW102016,,Lysterfield Lake College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,275.0,Closed
+Invoice,2025-11-14T00:00:00,JTW102016,,Lysterfield Lake College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,275.0,Closed
+Invoice,2025-11-14T00:00:00,JTW102016,,Lysterfield Lake College,TaxInclusive, D/LATCH 530-12 SC 60MM B/SET,0,50.0,GST,0,,,,50.0,275.0,Closed
+Invoice,2025-11-14T00:00:00,JTW102017,,Aquinas College,TaxInclusive,,0,1141.63,GST,0,,,,1141.63,1255.79,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,,0,998.0,GST,0,,,,998.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,,0,165.0,GST,0,,,,1320.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,Junction Box to suit DS-2CD23x,0,23.0,GST,0,,,,92.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,INSTALLATION ,0,1600.0,GST,0,,,,1600.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,HID 125kHz Prox Key Fob,0,14.0,GST,0,,,,140.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102007,,Body Corporate Strata Group  ,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,250.0,4950.0,Closed
+Invoice,2025-11-12T00:00:00,JTW102006,,24/7 Pro Locksmiths Pty Ltd,TaxInclusive,,0,575.0,GST,0,,,,575.0,632.5,Closed
+Invoice,2025-11-12T00:00:00,JTW102005,,SSW ,TaxInclusive,VOUCHKSM,0,484.55,GST,0,,,,484.55,533.01,Closed
+Invoice,2025-11-12T00:00:00,JTW102004,,Aquinas College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1401.75,Closed
+Invoice,2025-11-12T00:00:00,JTW102004,,Aquinas College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,1401.75,Closed
+Invoice,2025-11-12T00:00:00,JTW102004,,Aquinas College,TaxInclusive,SALTO XS4 Original+ Escutcheon,0,1074.32,GST,0,,,,1074.32,1401.75,Closed
+Invoice,2025-11-12T00:00:00,JTW102003,,St Margarets Berwick ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1525.07,Closed
+Invoice,2025-11-12T00:00:00,JTW102003,,St Margarets Berwick ,TaxInclusive,,0,435.0,GST,0,,,,435.0,1525.07,Closed
+Invoice,2025-11-12T00:00:00,JTW102003,,St Margarets Berwick ,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,600.0,1525.07,Closed
+Invoice,2025-11-12T00:00:00,JTW102003,,St Margarets Berwick ,TaxInclusive,,0,251.43,GST,0,,,,251.43,1525.07,Closed
+Invoice,2025-11-11T00:00:00,JTW102002,,Luther College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,880.0,Closed
+Invoice,2025-11-11T00:00:00,JTW102002,,Luther College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,700.0,880.0,Closed
+Invoice,2025-11-21T00:00:00,JTW102030,,Cardinia Shire Council,TaxInclusive,,0,437.0,GST,0,,,,437.0,8692.2,Closed
+Invoice,2025-11-21T00:00:00,JTW102030,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,350.0,GST,0,,,,350.0,8692.2,Closed
+Invoice,2025-11-21T00:00:00,JTW102030,,Cardinia Shire Council,TaxInclusive,Hanwha Wisenet WAVE 1x IP Came,0,215.0,GST,0,,,,3440.0,8692.2,Closed
+Invoice,2025-11-21T00:00:00,JTW102030,,Cardinia Shire Council,TaxInclusive,,0,3500.0,GST,0,,,,3500.0,8692.2,Closed
+Invoice,2025-11-21T00:00:00,JTW102030,,Cardinia Shire Council,TaxInclusive,"DAHUA 6Mp, Eyeball, IR, IP67, ",0,175.0,GST,0,,,,175.0,8692.2,Closed
+Invoice,2025-11-11T00:00:00,JTW102001,,Lysterfield Lake College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,271.65,Closed
+Invoice,2025-11-11T00:00:00,JTW102001,,Lysterfield Lake College,TaxInclusive,,0,46.95,GST,0,,,,46.95,271.65,Closed
+Invoice,2025-11-11T00:00:00,JTW102001,,Lysterfield Lake College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,271.65,Closed
+Invoice,2025-11-11T00:00:00,JTW102000,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,2679.03,Closed
+Invoice,2025-11-11T00:00:00,JTW102000,,Mentone Grammar,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,300.0,2679.03,Closed
+Invoice,2025-11-11T00:00:00,JTW102000,,Mentone Grammar,TaxInclusive,,0,1017.74,GST,0,,,,2035.48,2679.03,Closed
+Invoice,2025-11-11T00:00:00,JTW101999,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,21060.83,GST,0,,,,21060.83,50906.37,Closed
+Invoice,2025-11-11T00:00:00,JTW101999,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,4803.32,GST,0,,,,4803.32,50906.37,Closed
+Invoice,2025-11-11T00:00:00,JTW101999,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,4076.01,GST,0,,,,4076.01,50906.37,Closed
+Invoice,2025-11-11T00:00:00,JTW101999,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,6666.36,GST,0,,,,6666.36,50906.37,Closed
+Invoice,2025-11-11T00:00:00,JTW101999,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,9672.0,GST,0,,,,9672.0,50906.37,Closed
+Invoice,2025-11-28T00:00:00,JTW102034,,St Margarets Berwick ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102034,,St Margarets Berwick ,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102035,,Aquinas College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,766.7,Closed
+Invoice,2025-11-28T00:00:00,JTW102035,,Aquinas College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,300.0,766.7,Closed
+Invoice,2025-11-28T00:00:00,JTW102035,,Aquinas College,TaxInclusive,ROSS Narrow Style Mortice Lock,0,264.0,GST,0,,,,264.0,766.7,Closed
+Invoice,2025-11-28T00:00:00,JTW102035,,Aquinas College,TaxInclusive,SALTO BLOCKER PLATE suit EX45 ,0,33.0,GST,0,,,,33.0,766.7,Closed
+Invoice,2025-11-28T00:00:00,JTW102036,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1367.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102036,,Cardinia Shire Council,TaxInclusive,,0,300.0,GST,0,,,,300.0,1367.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102036,,Cardinia Shire Council,TaxInclusive,BLUENET GATEWAY ,0,475.95,GST,0,,,,475.95,1367.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102036,,Cardinia Shire Council,TaxInclusive,Bluenet option per door ,0,166.95,GST,0,,,,166.95,1367.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102036,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,200.0,1367.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102037,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,592.76,Closed
+Invoice,2025-11-28T00:00:00,JTW102037,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,592.76,Closed
+Invoice,2025-11-28T00:00:00,JTW102037,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,,0,338.87,GST,0,,,,338.87,592.76,Closed
+Invoice,2025-11-28T00:00:00,JTW102038,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,275.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102038,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,275.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102038,,Cardinia Shire Council,TaxInclusive,,0,50.0,GST,0,,,,50.0,275.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102039,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,168.0,GST,0,,,,1680.0,1848.0,Closed
+Invoice,2025-11-28T00:00:00,JTW102040,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,59.0,64.9,Closed
+Invoice,2025-12-01T00:00:00,JTW102041,,MBE POINT COOK,TaxInclusive,GSM ALARM MONITORING ,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2025-12-01T00:00:00,JTW102042,,New Plumbing Solutions ,TaxInclusive,GSM ALARM MONITORING ,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2025-12-01T00:00:00,JTW102043,,Ausgroup Alliance,TaxInclusive,GSM ALARM MONITORING ,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2025-12-01T00:00:00,JTW102044,,DINEAMIC,TaxInclusive,GSM ALARM MONITORING ,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2025-12-01T00:00:00,JTW102045,,Marcel Harvey,TaxInclusive,GSM ALARM MONITORING ,0,34.2,GST,0,,,,34.2,37.62,Closed
+Invoice,2025-12-01T00:00:00,JTW102046,,Locksmith Services ,TaxInclusive,GSM ALARM MONITORING ,0,50.0,GST,0,,,,50.0,55.0,Closed
+Invoice,2025-12-01T00:00:00,JTW102047,,Amit ,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2025-12-01T00:00:00,JTW102048,,Texco Contracting Pty Ltd ,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2025-12-01T00:00:00,JTW102049,,Ultra Fine Foods Victoria Office,TaxInclusive,GSM ALARM MONITORING ,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2025-12-01T00:00:00,JTW102050,,Oakleigh Locksmiths PTY. LTD.,TaxInclusive,GSM ALARM MONITORING ,0,40.0,GST,0,,,,480.0,528.0,Open
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,,0,5750.0,GST,0,,,,5750.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,Hanwha Wisenet WAVE 1x IP Came,0,215.0,GST,0,,,,7095.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,,0,184.5,GST,0,,,,1845.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,,0,437.0,GST,0,,,,874.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,2500.0,GST,0,,,,2500.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,8600.0,GST,0,,,,8600.0,30468.9,Closed
+Invoice,2025-12-02T00:00:00,JTW102051,,Cardinia Shire Council,TaxInclusive,,0,115.0,GST,0,,,,1035.0,30468.9,Closed
+Invoice,2025-12-04T00:00:00,JTW102053,,St Margarets Berwick ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,440.0,Closed
+Invoice,2025-12-04T00:00:00,JTW102053,,St Margarets Berwick ,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,300.0,440.0,Closed
+Invoice,2025-12-04T00:00:00,JTW102054,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,419.1,Closed
+Invoice,2025-12-04T00:00:00,JTW102054,,Mentone Grammar,TaxInclusive,"6 Channel, 6 Form-C, Multi-Cod",0,125.0,GST,0,,,,125.0,419.1,Closed
+Invoice,2025-12-04T00:00:00,JTW102054,,Mentone Grammar,TaxInclusive,"Neptune 3 Channel, 2 Button RF",0,28.0,GST,0,,,,56.0,419.1,Closed
+Invoice,2025-12-04T00:00:00,JTW102054,,Mentone Grammar,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,419.1,Closed
+Invoice,2025-11-18T00:00:00,JTW102024,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2025-11-18T00:00:00,JTW102024,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2025-11-18T00:00:00,JTW102023,,Aquinas College,TaxInclusive,,0,831.72,GST,0,,,,3326.88,3659.57,Closed
+Invoice,2025-11-18T00:00:00,JTW102022,,Mater Christi College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-18T00:00:00,JTW102022,,Mater Christi College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-11-18T00:00:00,JTW102021,,IBMS PTY LTD,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,300.3,Closed
+Invoice,2025-11-18T00:00:00,JTW102021,,IBMS PTY LTD,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,300.3,Closed
+Invoice,2025-11-18T00:00:00,JTW102021,,IBMS PTY LTD,TaxInclusive,2-Zone Wireless Door Contact,0,73.0,GST,0,,,,73.0,300.3,Closed
+Invoice,2025-11-18T00:00:00,JTW102019,,Cardinia Shire Council,TaxInclusive,Hanwha Wisenet WAVE 1x IP Came,0,215.0,GST,0,,,,1290.0,5819.0,Closed
+Invoice,2025-11-18T00:00:00,JTW102019,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,500.0,GST,0,,,,500.0,5819.0,Closed
+Invoice,2025-11-18T00:00:00,JTW102019,,Cardinia Shire Council,TaxInclusive,,0,3500.0,GST,0,,,,3500.0,5819.0,Closed
+Invoice,2025-11-18T00:00:00,JTW102018,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,360.25,Closed
+Invoice,2025-11-18T00:00:00,JTW102018,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,360.25,Closed
+Invoice,2025-11-18T00:00:00,JTW102018,,Cardinia Shire Council,TaxInclusive,,0,115.0,GST,0,,,,115.0,360.25,Closed
+Invoice,2025-11-18T00:00:00,JTW102018,,Cardinia Shire Council,TaxInclusive,BDS FILLER PLATE FP3572 suit M,0,12.5,GST,0,,,,12.5,360.25,Closed
+Invoice,2025-11-18T00:00:00,JTW102025,,Minaret College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1438.51,Closed
+Invoice,2025-11-18T00:00:00,JTW102025,,Minaret College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,150.0,1438.51,Closed
+Invoice,2025-11-18T00:00:00,JTW102025,,Minaret College,TaxInclusive,,0,1017.74,GST,0,,,,1017.74,1438.51,Closed
+Invoice,2025-11-18T00:00:00,JTW102025,,Minaret College,TaxInclusive, D/LATCH 530-12 SC 60MM B/SET,0,40.0,GST,0,,,,40.0,1438.51,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,,0,449.0,GST,0,,,,898.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,POWER SUPPLY 1A IN METAL ENCLO,0,136.0,GST,0,,,,136.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,12V 7.0Ah Sealed Lead Acid Bat,0,22.0,GST,0,,,,22.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,INSTALLATION ,0,1000.0,GST,0,,,,1000.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,FSH E/STRIKE FES20 12/24v PTL/,0,261.9,GST,0,,,,523.8,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,BRAVA METRO CLASSROOM LEVER 60,0,112.0,GST,0,,,,112.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,ACSS DOOR LOOP DL045 450x12.7M,0,45.0,GST,0,,,,45.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102026,,RFE Holdings 3 Pty Ltd,TaxInclusive,,0,315.0,GST,0,,,,315.0,3466.98,Closed
+Invoice,2025-11-20T00:00:00,JTW102027,,Lyndale Secondary College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1946.88,Closed
+Invoice,2025-11-20T00:00:00,JTW102027,,Lyndale Secondary College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,250.0,1946.88,Closed
+Invoice,2025-11-20T00:00:00,JTW102027,,Lyndale Secondary College,TaxInclusive,LOCKWOOD PRIMARY LOCK 3582 SC ,0,172.0,GST,0,,,,172.0,1946.88,Closed
+Invoice,2025-11-20T00:00:00,JTW102027,,Lyndale Secondary College,TaxInclusive,,0,1017.74,GST,0,,,,1017.74,1946.88,Closed
+Invoice,2025-11-20T00:00:00,JTW102027,,Lyndale Secondary College,TaxInclusive,SALTO ISO MIFARE CARD 1K WHT P,0,230.15,GST,0,,,,230.15,1946.88,Closed
+Invoice,2025-11-20T00:00:00,JTW102028,,Cardinia Shire Council,TaxInclusive,,0,437.0,GST,0,,,,437.0,8499.7,Closed
+Invoice,2025-11-20T00:00:00,JTW102028,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,350.0,GST,0,,,,350.0,8499.7,Closed
+Invoice,2025-11-20T00:00:00,JTW102028,,Cardinia Shire Council,TaxInclusive,Hanwha Wisenet WAVE 1x IP Came,0,215.0,GST,0,,,,3440.0,8499.7,Closed
+Invoice,2025-11-20T00:00:00,JTW102028,,Cardinia Shire Council,TaxInclusive,,0,3500.0,GST,0,,,,3500.0,8499.7,Closed
+Invoice,2025-11-21T00:00:00,JTW102029,,St Bede’s College.,TaxInclusive,,0,333.0,GST,0,,,,2664.0,2940.25,Open
+Invoice,2025-11-21T00:00:00,JTW102029,,St Bede’s College.,TaxInclusive,POSTAGE,0,8.95,GST,0,,,,8.95,2940.25,Open
+Invoice,2025-11-26T00:00:00,JTW102031,,Cardinia Shire Council,TaxInclusive,INSTALLATION ,0,4000.0,GST,0,,,,4000.0,4400.0,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,,0,1017.74,GST,0,,,,8141.92,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,115.0,GST,0,,,,230.0,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,,0,69.83,GST,0,,,,558.64,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,80.0,GST,0,,,,640.0,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,Bluenet option per door ,0,196.95,GST,0,,,,196.95,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,500.2,GST,0,,,,1500.6,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,BLUENET NODE 3 ,0,104.24,GST,0,,,,312.72,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,1500.0,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,1529.41,GST,0,,,,1529.41,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,,0,570.5,GST,0,,,,1141.0,22248.34,Closed
+Invoice,2025-11-27T00:00:00,JTW102032,,Mentone Grammar,TaxInclusive,,0,1093.63,GST,0,,,,4374.52,22248.34,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,Milestone XProtect Professiona,0,298.0,GST,0,,,,2980.0,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,SALTO XS4 2.0 ETHERNET ONLINE ,0,1628.82,GST,0,,,,3257.64,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,585.9,GST,0,,,,2343.6,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,831.72,GST,0,,,,831.72,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,INSTALLATION ,0,4500.0,GST,0,,,,4500.0,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,455.0,GST,0,,,,4550.0,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,1017.74,GST,0,,,,5088.7,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,530.2,GST,0,,,,530.2,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,Bluenet option per door ,0,196.95,GST,0,,,,196.95,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,Soter FlySense Vape Detector U,0,1750.0,GST,0,,,,8750.0,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,28.0,GST,0,,,,280.0,36678.19,Closed
+Invoice,2025-11-28T00:00:00,JTW102033,,MGS - Bayview Precinct School Play Space,TaxInclusive,,0,35.0,GST,0,,,,35.0,36678.19,Closed
+Invoice,2025-12-08T00:00:00,JTW102056,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,4232.8,Closed
+Invoice,2025-12-08T00:00:00,JTW102056,,Cardinia Shire Council,TaxInclusive,SWBLA5590QAKSC,0,155.0,GST,0,,,,1705.0,4232.8,Closed
+Invoice,2025-12-08T00:00:00,JTW102056,,Cardinia Shire Council,TaxInclusive,CARD - DUMMY 570,0,20.0,GST,0,,,,40.0,4232.8,Closed
+Invoice,2025-12-08T00:00:00,JTW102056,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,1000.0,4232.8,Closed
+Invoice,2025-12-08T00:00:00,JTW102056,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,1003.0,4232.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102070,,Saints College,TaxInclusive,,0,131.0,GST,0,,,,262.0,298.05,Closed
+Invoice,2025-12-10T00:00:00,JTW102070,,Saints College,TaxInclusive,POSTAGE,0,8.95,GST,0,,,,8.95,298.05,Closed
+Invoice,2025-12-10T00:00:00,JTW102071,,Aquinas College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,5790.4,Closed
+Invoice,2025-12-10T00:00:00,JTW102071,,Aquinas College,TaxInclusive,,0,1091.0,GST,0,,,,4364.0,5790.4,Closed
+Invoice,2025-12-10T00:00:00,JTW102071,,Aquinas College,TaxInclusive,INSTALLATION ,0,800.0,GST,0,,,,800.0,5790.4,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,,0,1017.74,GST,0,,,,3053.22,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,LOCKWOOD PRIMARY LOCK 3582 SC ,0,192.0,GST,0,,,,576.0,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,,0,807.48,GST,0,,,,2422.44,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,38.35,GST,0,,,,230.1,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,,0,300.0,GST,0,,,,300.0,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,500.2,GST,0,,,,500.2,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102072,,Cardinia Shire Council,TaxInclusive,Bluenet option per door ,0,166.95,GST,0,,,,166.95,8083.8,Closed
+Invoice,2025-12-10T00:00:00,JTW102073,,Minaret College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1105.01,Open
+Invoice,2025-12-10T00:00:00,JTW102073,,Minaret College,TaxInclusive,,0,824.25,GST,0,,,,824.25,1105.01,Open
+Invoice,2025-12-10T00:00:00,JTW102073,,Minaret College,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,38.35,GST,0,,,,38.35,1105.01,Open
+Invoice,2025-12-10T00:00:00,JTW102073,,Minaret College,TaxInclusive,,0,41.95,GST,0,,,,41.95,1105.01,Open
+Invoice,2025-12-10T00:00:00,JTW102074,,BIGGIN & SCOTT,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-10T00:00:00,JTW102074,,BIGGIN & SCOTT,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-10T00:00:00,JTW102075,,Killester College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,511.5,Closed
+Invoice,2025-12-10T00:00:00,JTW102075,,Killester College,TaxInclusive,,0,215.0,GST,0,,,,215.0,511.5,Closed
+Invoice,2025-12-10T00:00:00,JTW102075,,Killester College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,150.0,511.5,Closed
+Invoice,2025-12-10T00:00:00,JTW102076,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,147.5,162.25,Open
+Invoice,2025-12-08T00:00:00,JTW102057,,Texco Contracting Pty Ltd ,TaxInclusive,MIFARE 1k 13.56MHz CARD TSEC,0,14.85,GST,0,,,,297.0,336.6,Closed
+Invoice,2025-12-08T00:00:00,JTW102057,,Texco Contracting Pty Ltd ,TaxInclusive,"CSD 2 Button ProKey Remote, Wi",0,39.6,GST,0,,,,39.6,336.6,Closed
+Invoice,2025-12-08T00:00:00,JTW102058,,Cardinia Shire Council,TaxInclusive,,0,13.2,GST,0,,,,39.6,39.6,Open
+Invoice,2025-12-08T00:00:00,JTW102059,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,184.8,GST,0,,,,184.8,184.8,Closed
+Invoice,2026-01-01T00:00:00,JTW102080,,DINEAMIC,TaxInclusive,GSM ALARM MONITORING ,0,41.5,GST,0,,,,41.5,45.65,Closed
+Invoice,2026-01-01T00:00:00,JTW102081,,Marcel Harvey,TaxInclusive,GSM ALARM MONITORING ,0,34.2,GST,0,,,,34.2,37.62,Closed
+Invoice,2026-01-01T00:00:00,JTW102082,,Locksmith Services ,TaxInclusive,GSM ALARM MONITORING ,0,50.0,GST,0,,,,50.0,55.0,Closed
+Invoice,2026-01-01T00:00:00,JTW102083,,Ultra Fine Foods Victoria Office,TaxInclusive,GSM ALARM MONITORING ,0,48.0,GST,0,,,,48.0,48.0,Closed
+Invoice,2026-01-01T00:00:00,JTW102084,,VICSES Narre Warren Unit,TaxInclusive,SKYCOMMAND NOTIFICATIONS ,0,11.0,GST,0,,,,33.0,33.0,Closed
+Invoice,2026-01-01T00:00:00,JTW102085,,St Margarets Berwick ,TaxInclusive,GSM ALARM MONITORING ,0,48.0,GST,0,,,,144.0,316.8,Closed
+Invoice,2026-01-01T00:00:00,JTW102085,,St Margarets Berwick ,TaxInclusive,GSM ALARM MONITORING ,0,48.0,GST,0,,,,144.0,316.8,Closed
+Invoice,2026-01-05T00:00:00,JTW102086,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,220.0,220.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102087,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,200.0,770.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102087,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,500.0,770.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102088,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,DORMA FURN 6400/30 NARROW STIL,0,108.35,GST,0,,,,216.7,658.21,Closed
+Invoice,2026-01-05T00:00:00,JTW102088,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,BRAVA METRO CYL 5070 SC KA1 w/,0,22.0,GST,0,,,,22.0,658.21,Closed
+Invoice,2026-01-05T00:00:00,JTW102088,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,150.0,658.21,Closed
+Invoice,2026-01-05T00:00:00,JTW102088,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,,0,209.67,GST,0,,,,209.67,658.21,Closed
+Invoice,2026-01-05T00:00:00,JTW102089,,New Plumbing Solutions ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102089,,New Plumbing Solutions ,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102090,,Saints College,TaxInclusive,AFTER HOURS ONSITE  CHARGE,0,230.0,GST,0,,,,230.0,319.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102090,,Saints College,TaxInclusive,AFTER HOURS LABOUR,0,120.0,GST,0,,,,60.0,319.0,Closed
+Invoice,2026-01-05T00:00:00,JTW102091,,Locksmith Services ,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,586.3,Closed
+Invoice,2026-01-05T00:00:00,JTW102091,,Locksmith Services ,TaxInclusive,IR EliteX OLED Keypad,0,433.0,GST,0,,,,433.0,586.3,Closed
+Invoice,2026-01-05T00:00:00,JTW102092,,Aquinas College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,533.5,Open
+Invoice,2026-01-05T00:00:00,JTW102092,,Aquinas College,TaxInclusive," NEPTUNE Maglock Single Door, ",0,185.0,GST,0,,,,185.0,533.5,Open
+Invoice,2026-01-05T00:00:00,JTW102092,,Aquinas College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,200.0,533.5,Open
+Invoice,2026-01-05T00:00:00,JTW102093,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,10132.6,Open
+Invoice,2026-01-05T00:00:00,JTW102093,,Cardinia Shire Council,TaxInclusive,,0,1017.74,GST,0,,,,5088.7,10132.6,Open
+Invoice,2026-01-05T00:00:00,JTW102093,,Cardinia Shire Council,TaxInclusive,,0,804.25,GST,0,,,,2412.75,10132.6,Open
+Invoice,2026-01-05T00:00:00,JTW102093,,Cardinia Shire Council,TaxInclusive,ROSS Narrow Style Mortice Lock,0,294.0,GST,0,,,,1470.0,10132.6,Open
+Invoice,2026-01-05T00:00:00,JTW102093,,Cardinia Shire Council,TaxInclusive,CARD - DUMMY 570,0,20.0,GST,0,,,,140.0,10132.6,Open
+Invoice,2026-01-05T00:00:00,JTW102094,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,5496.82,Closed
+Invoice,2026-01-05T00:00:00,JTW102094,,Mentone Grammar,TaxInclusive,,0,1017.74,GST,0,,,,4070.96,5496.82,Closed
+Invoice,2026-01-05T00:00:00,JTW102094,,Mentone Grammar,TaxInclusive,SALTO COVER PLATES SUIT XS4 ON,0,38.35,GST,0,,,,38.35,5496.82,Closed
+Invoice,2026-01-05T00:00:00,JTW102094,,Mentone Grammar,TaxInclusive,Bluenet option per door ,0,196.95,GST,0,,,,787.8,5496.82,Closed
+Invoice,2026-01-05T00:00:00,JTW102095,,J.R. Pryor Pty. Ltd.,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,2571.73,Open
+Invoice,2026-01-05T00:00:00,JTW102095,,J.R. Pryor Pty. Ltd.,TaxInclusive,,0,1017.74,GST,0,,,,1017.74,2571.73,Open
+Invoice,2026-01-05T00:00:00,JTW102095,,J.R. Pryor Pty. Ltd.,TaxInclusive,SALTO ESCUTCHEON INSTALL,0,60.0,GST,0,,,,120.0,2571.73,Open
+Invoice,2026-01-05T00:00:00,JTW102095,,J.R. Pryor Pty. Ltd.,TaxInclusive,SALTO BLUEnet WIRELESS GATEWAY,0,500.2,GST,0,,,,500.2,2571.73,Open
+Invoice,2026-01-05T00:00:00,JTW102095,,J.R. Pryor Pty. Ltd.,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,600.0,2571.73,Open
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,,0,532.67,GST,0,,,,532.67,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,SALTO WIRELESS RF NODE suit V2,0,170.85,GST,0,,,,512.55,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,NEO BATTERY CHANGE AND UPDATE ,0,30.0,GST,0,,,,90.0,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,20.0,GST,0,,,,300.0,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102096,,Luther College,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,1800.0,3668.74,Closed
+Invoice,2026-01-06T00:00:00,JTW102097,,Mentone Grammar,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,2030.38,Closed
+Invoice,2026-01-06T00:00:00,JTW102097,,Mentone Grammar,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,800.0,2030.38,Closed
+Invoice,2026-01-06T00:00:00,JTW102097,,Mentone Grammar,TaxInclusive,Integriti/Inception 8 Zone LAN,0,845.0,GST,0,,,,845.0,2030.38,Closed
+Invoice,2026-01-06T00:00:00,JTW102097,,Mentone Grammar,TaxInclusive,"360 Deg, 6m, Ceiling PIR Detec",0,33.6,GST,0,,,,100.8,2030.38,Closed
+Invoice,2025-12-08T00:00:00,JTW102060,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,994.68,Closed
+Invoice,2025-12-08T00:00:00,JTW102060,,Cardinia Shire Council,TaxInclusive,,0,804.25,GST,0,,,,804.25,994.68,Closed
+Invoice,2025-12-08T00:00:00,JTW102061,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,200.0,657.25,Open
+Invoice,2025-12-08T00:00:00,JTW102061,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,168.0,GST,0,,,,168.0,657.25,Open
+Invoice,2025-12-08T00:00:00,JTW102061,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,29.5,657.25,Open
+Invoice,2025-12-08T00:00:00,JTW102061,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,200.0,657.25,Open
+Invoice,2025-12-08T00:00:00,JTW102062,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,570.01,Closed
+Invoice,2025-12-08T00:00:00,JTW102062,,Cardinia Shire Council,TaxInclusive,,0,318.19,GST,0,,,,318.19,570.01,Closed
+Invoice,2025-12-08T00:00:00,JTW102062,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,570.01,Closed
+Invoice,2025-12-08T00:00:00,JTW102063,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102063,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102064,,Eclat,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1916.93,Closed
+Invoice,2025-12-08T00:00:00,JTW102064,,Eclat,TaxInclusive,SALTO KS IQ 2: Ethernet POE,0,424.92,GST,0,,,,424.92,1916.93,Closed
+Invoice,2025-12-08T00:00:00,JTW102064,,Eclat,TaxInclusive,,0,1017.74,GST,0,,,,1017.74,1916.93,Closed
+Invoice,2025-12-08T00:00:00,JTW102064,,Eclat,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,200.0,1916.93,Closed
+Invoice,2025-12-08T00:00:00,JTW102065,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,566.5,Closed
+Invoice,2025-12-08T00:00:00,JTW102065,,Cardinia Shire Council,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,115.0,GST,0,,,,115.0,566.5,Closed
+Invoice,2025-12-08T00:00:00,JTW102065,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,300.0,566.5,Closed
+Invoice,2025-12-08T00:00:00,JTW102066,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102066,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102067,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102067,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Closed
+Invoice,2025-12-08T00:00:00,JTW102068,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,1346.14,Open
+Invoice,2025-12-08T00:00:00,JTW102068,,Cardinia Shire Council,TaxInclusive,XS4 Escutcheon original +wide ,0,1008.76,GST,0,,,,1008.76,1346.14,Open
+Invoice,2025-12-08T00:00:00,JTW102068,,Cardinia Shire Council,TaxInclusive,LOCKWOOD PRIMARY LOCK 3572 SC,0,115.0,GST,0,,,,115.0,1346.14,Open
+Invoice,2025-12-10T00:00:00,JTW102069,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,,0,131.0,GST,0,,,,131.0,153.95,Closed
+Invoice,2025-12-10T00:00:00,JTW102069,,CHRIST CHURCH GRAMMAR SCHOOL,TaxInclusive,POSTAGE,0,8.95,GST,0,,,,8.95,153.95,Closed
+Invoice,2025-12-08T00:00:00,JTW102055,,Kilvington Grammar School,TaxInclusive,,0,333.0,GST,0,,,,666.0,742.45,Closed
+Invoice,2025-12-08T00:00:00,JTW102055,,Kilvington Grammar School,TaxInclusive,POSTAGE,0,8.95,GST,0,,,,8.95,742.45,Closed
+Invoice,2026-01-01T00:00:00,JTW102077,,MBE POINT COOK,TaxInclusive,GSM ALARM MONITORING ,0,45.1,GST,0,,,,45.1,45.1,Closed
+Invoice,2026-01-01T00:00:00,JTW102078,,New Plumbing Solutions ,TaxInclusive,GSM ALARM MONITORING ,0,43.64,GST,0,,,,87.28,96.01,Closed
+Invoice,2026-01-01T00:00:00,JTW102079,,Ausgroup Alliance,TaxInclusive,GSM ALARM MONITORING ,0,45.0,GST,0,,,,45.0,49.5,Closed
+Invoice,2026-01-12T00:00:00,JTW102110,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,590.0,649.0,Open
+Invoice,2026-01-12T00:00:00,JTW102113,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,32.45,GST,0,,,,32.45,32.45,Open
+Invoice,2026-01-12T00:00:00,JTW102114,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102114,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102115,,Michael  P,TaxInclusive,STANDARD ONSITE CHARGE,0,800.93,GST,0,,,,800.93,800.93,Closed
+Invoice,2026-01-12T00:00:00,JTW102117,,Michael  P,TaxInclusive,STANDARD ONSITE CHARGE,0,1107.91,GST,0,,,,1107.91,1107.91,Closed
+Invoice,2026-01-12T00:00:00,JTW102118,,R Douglas  .,TaxInclusive,STANDARD ONSITE CHARGE,0,881.86,GST,0,,,,881.86,881.86,Closed
+Invoice,2026-01-12T00:00:00,JTW102119,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,259.8,Open
+Invoice,2026-01-12T00:00:00,JTW102119,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,259.8,Open
+Invoice,2026-01-12T00:00:00,JTW102119,,Cardinia Shire Council,TaxInclusive,AA BATTERY,0,9.95,GST,0,,,,39.8,259.8,Open
+Invoice,2026-01-12T00:00:00,JTW102120,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102120,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102121,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102121,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102122,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,110.0,Open
+Invoice,2026-01-12T00:00:00,JTW102123,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102123,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102124,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,330.0,Open
+Invoice,2026-01-12T00:00:00,JTW102124,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,220.0,330.0,Open
+Invoice,2026-01-12T00:00:00,JTW102125,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,267.3,Open
+Invoice,2026-01-12T00:00:00,JTW102125,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,267.3,Open
+Invoice,2026-01-12T00:00:00,JTW102125,,Cardinia Shire Council,TaxInclusive,LOCKWOOD NIGHTLATCH 100 L/CYL,0,47.3,GST,0,,,,47.3,267.3,Open
+Invoice,2026-01-12T00:00:00,JTW102126,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102126,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-02-01T00:00:00,JTW102127,,MBE POINT COOK,TaxInclusive,GSM ALARM MONITORING ,0,45.1,GST,0,,,,45.1,45.1,Open
+Invoice,2026-02-01T00:00:00,JTW102128,,New Plumbing Solutions ,TaxInclusive,GSM ALARM MONITORING ,0,43.64,GST,0,,,,87.28,96.01,Open
+Invoice,2026-02-01T00:00:00,JTW102129,,Ausgroup Alliance,TaxInclusive,GSM ALARM MONITORING ,0,45.0,GST,0,,,,45.0,49.5,Open
+Invoice,2026-02-01T00:00:00,JTW102130,,DINEAMIC,TaxInclusive,GSM ALARM MONITORING ,0,41.5,GST,0,,,,41.5,45.65,Open
+Invoice,2026-02-01T00:00:00,JTW102131,,Marcel Harvey,TaxInclusive,GSM ALARM MONITORING ,0,34.2,GST,0,,,,34.2,37.62,Open
+Invoice,2026-02-01T00:00:00,JTW102132,,Locksmith Services ,TaxInclusive,GSM ALARM MONITORING ,0,50.0,GST,0,,,,50.0,55.0,Open
+Invoice,2026-02-01T00:00:00,JTW102133,,Ultra Fine Foods Victoria Office,TaxInclusive,GSM ALARM MONITORING ,0,48.0,GST,0,,,,48.0,48.0,Open
+Invoice,2026-02-01T00:00:00,JTW102134,,Kilvington Grammar School,TaxInclusive,GSM ALARM MONITORING ,0,95.0,GST,0,,,,285.0,285.0,Open
+Invoice,2026-02-01T00:00:00,JTW102135,,Palliative Care South East Ltd.,TaxInclusive,GSM ALARM MONITORING ,0,48.56,GST,0,,,,145.68,160.25,Open
+Invoice,2026-01-12T00:00:00,JTW102111,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,29.5,32.45,Open
+Invoice,2026-01-12T00:00:00,JTW102112,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-12T00:00:00,JTW102112,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,3812.5,GST,0,,,,3812.5,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,162.5,GST,0,,,,162.5,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,62.5,GST,0,,,,62.5,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,325.0,GST,0,,,,325.0,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,550.0,GST,0,,,,550.0,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,1275.0,GST,0,,,,1275.0,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,125.0,GST,0,,,,125.0,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102098,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,75.0,GST,0,,,,75.0,7026.25,Open
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,62.5,GST,0,,,,62.5,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,112.5,GST,0,,,,112.5,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,162.5,GST,0,,,,162.5,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,325.0,GST,0,,,,325.0,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,150.0,GST,0,,,,150.0,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102099,,Cardinia Shire Council,TaxInclusive,SALTO ESCUTHEON BATTERY ,0,1225.0,GST,0,,,,1225.0,2241.25,Closed
+Invoice,2026-01-06T00:00:00,JTW102100,,Texco Contracting Pty Ltd ,TaxInclusive,"CSD 2 Button ProKey Remote, Wi",0,39.6,GST,0,,,,79.2,79.2,Closed
+Invoice,2026-01-06T00:00:00,JTW102101,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-06T00:00:00,JTW102101,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,110.0,GST,0,,,,110.0,220.0,Open
+Invoice,2026-01-06T00:00:00,JTW102102,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,954.8,Closed
+Invoice,2026-01-06T00:00:00,JTW102102,,Cardinia Shire Council,TaxInclusive,,0,155.0,GST,0,,,,155.0,954.8,Closed
+Invoice,2026-01-06T00:00:00,JTW102102,,Cardinia Shire Council,TaxInclusive,CARD - SWBL83/45QAKSC PADLOCK ,0,168.0,GST,0,,,,168.0,954.8,Closed
+Invoice,2026-01-06T00:00:00,JTW102102,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,250.0,954.8,Closed
+Invoice,2026-01-06T00:00:00,JTW102102,,Cardinia Shire Council,TaxInclusive,Bi-Lock single,0,195.0,GST,0,,,,195.0,954.8,Closed
+Invoice,2026-01-06T00:00:00,JTW102103,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-06T00:00:00,JTW102103,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,220.0,Open
+Invoice,2026-01-06T00:00:00,JTW102104,,Crossfit Knoxfield,TaxInclusive,SALTO KS System Subscription V,0,688.37,GST,0,,,,688.37,688.37,Closed
+Invoice,2026-01-07T00:00:00,JTW102105,,Cardinia Shire Council,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,3411.65,Open
+Invoice,2026-01-07T00:00:00,JTW102105,,Cardinia Shire Council,TaxInclusive,SWBLA5590QAKSC,0,155.0,GST,0,,,,1395.0,3411.65,Open
+Invoice,2026-01-07T00:00:00,JTW102105,,Cardinia Shire Council,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,900.0,3411.65,Open
+Invoice,2026-01-07T00:00:00,JTW102105,,Cardinia Shire Council,TaxInclusive,BRAVA METRO ENTRANCE LEVER 600,0,88.0,GST,0,,,,264.0,3411.65,Open
+Invoice,2026-01-07T00:00:00,JTW102105,,Cardinia Shire Council,TaxInclusive,CARD - RCUT BI-LOCK,0,29.5,GST,0,,,,442.5,3411.65,Open
+Invoice,2026-01-09T00:00:00,JTW102106,,New Plumbing Solutions ,TaxInclusive,,0,914.89,GST,0,,,,914.89,942.89,Closed
+Invoice,2026-01-09T00:00:00,JTW102106,,New Plumbing Solutions ,TaxInclusive,,0,28.0,GST,0,,,,28.0,942.89,Closed
+Invoice,2026-01-09T00:00:00,JTW102107,,TBC Collective,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,2119.04,Open
+Invoice,2026-01-09T00:00:00,JTW102107,,TBC Collective,TaxInclusive,,0,814.25,GST,0,,,,1628.5,2119.04,Open
+Invoice,2026-01-09T00:00:00,JTW102107,,TBC Collective,TaxInclusive,,0,48.95,GST,0,,,,97.9,2119.04,Open
+Invoice,2026-01-09T00:00:00,JTW102107,,TBC Collective,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,2119.04,Open
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,PER KILOMETER,0,1.0,GST,0,,,,50.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,,0,150.0,GST,0,,,,150.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,,0,1850.0,GST,0,,,,5550.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,,0,2600.0,GST,0,,,,2600.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,INSTALLATION ,0,800.0,GST,0,,,,800.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102108,,HOMES VICTORIA,TaxInclusive,CONNECTORS/CABLE/CONDUIT,0,150.0,GST,0,,,,150.0,10340.0,Closed
+Invoice,2026-01-09T00:00:00,JTW102109,,HOMES VICTORIA,TaxInclusive,STANDARD ONSITE CHARGE,0,100.0,GST,0,,,,100.0,588.5,Closed
+Invoice,2026-01-09T00:00:00,JTW102109,,HOMES VICTORIA,TaxInclusive,PER KILOMETER,0,1.0,GST,0,,,,50.0,588.5,Closed
+Invoice,2026-01-09T00:00:00,JTW102109,,HOMES VICTORIA,TaxInclusive,LOX High Security Electric Str,0,285.0,GST,0,,,,285.0,588.5,Closed
+Invoice,2026-01-09T00:00:00,JTW102109,,HOMES VICTORIA,TaxInclusive,1 HOURS LABOUR,0,100.0,GST,0,,,,100.0,588.5,Closed
