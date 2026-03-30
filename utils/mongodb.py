@@ -3,81 +3,86 @@ from pymongo import MongoClient, ASCENDING, DESCENDING
 from pymongo.errors import ConnectionFailure
 from config import Config
 import bcrypt
-from datetime import datetime , timedelta
+from datetime import datetime, timedelta
 import logging
+import certifi
 
 logger = logging.getLogger(__name__)
+
 
 class MongoDB:
     _client = None
     _db = None
-    
+
     @classmethod
     def get_client(cls):
         if cls._client is None:
             try:
-                cls._client = MongoClient(Config.MONGO_URI)
-                # Test connection
+                cls._client = MongoClient(
+                    Config.MONGO_URI,
+                    tls=True,
+                    tlsCAFile=certifi.where()
+                )
                 cls._client.admin.command('ping')
                 logger.info("Connected to MongoDB successfully")
             except ConnectionFailure as e:
                 logger.error(f"Failed to connect to MongoDB: {e}")
                 raise
         return cls._client
-    
+
     @classmethod
     def get_database(cls):
         if cls._db is None:
             client = cls.get_client()
             cls._db = client[Config.MONGO_DB]
         return cls._db
-    
+
     @classmethod
     def get_collection(cls, collection_name):
         db = cls.get_database()
         return db[collection_name]
-    
+
     @classmethod
     def init_database(cls):
         """Initialize database with collections and indexes"""
         try:
             db = cls.get_database()
-            
+
             # Users collection
             users = db['users']
             users.create_index([('email', ASCENDING)], unique=True)
             users.create_index([('created_at', DESCENDING)])
-            
+
             # MYOB Connections collection
             connections = db['myob_connections']
             connections.create_index([('user_id', ASCENDING)])
             connections.create_index([('connection_status', ASCENDING)])
             connections.create_index([('created_at', DESCENDING)])
-            
+
             # Extraction History collection
             history = db['extraction_history']
             history.create_index([('user_id', ASCENDING)])
             history.create_index([('created_at', DESCENDING)])
             history.create_index([('extraction_type', ASCENDING)])
-            
+
             # User Sessions collection
             sessions = db['user_sessions']
             sessions.create_index([('user_id', ASCENDING)])
             sessions.create_index([('expires_at', DESCENDING)])
             sessions.create_index([('created_at', DESCENDING)])
-            
+
             # OAuth States collection
             oauth_states = db['oauth_states']
             oauth_states.create_index([('state', ASCENDING)], unique=True)
             oauth_states.create_index([('user_id', ASCENDING)])
             oauth_states.create_index([('expires_at', DESCENDING)])
 
-            # Create default admin user if not exists
+            # Create default users
             cls.create_default_users()
-            
+
             logger.info("MongoDB initialized successfully")
             return True
-            
+
         except Exception as e:
             logger.error(f"Error initializing MongoDB: {e}")
             return False
