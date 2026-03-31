@@ -88,6 +88,9 @@ def login_required(f):
 
 @app.route('/')
 def home():
+     session['user_id'] = 'admin123'
+     session['user_email'] = 'admin@gmail.com'
+     session['user_name'] = 'admin'
      return redirect(url_for('dashboard'))
  
     #if 'user_id' in session:
